@@ -1,0 +1,52 @@
+The proportion in which carbon and growth-limiting nutrients are exported from the oceans' productive surface layer to the deep sea is a crucial parameter in models of the biological carbon pump.
+Based on >CARDINAL 400  vertical flux observations of particulate organic carbon (ORG POC ) and nitrogen (PON) from ORG the European Arctic Ocean  we show the common assumption of constant C:N stoichiometry not to be met.
+Exported POC:PON ratios exceeded the classical PERSON Redfield  atomic ratio of CARDINAL 6.625  in the entire region, with the largest deviation in the deep LOC Central Arctic Ocean .
+In this part the mean exported ORG POC :ORG PON  ratio of CARDINAL 9.7  (a:a) implies c. PERCENT 40%  higher carbon export compared to Redfield-based estimates.
+When spatially integrated, the potential ORG POC  export in ORG the European Arctic  was PERCENT 10-30%  higher than suggested by calculations based on constant ORG POC :ORG PON  ratios.
+We further demonstrate that the exported ORG POC :ORG PON  ratio varies regionally in relation to nitrate-based new production over geographical scales that range from the LOC Arctic  to the subtropics, being highest in DATE the least productive oligotrophic  LOC Central Arctic Ocean  and subtropical gyres.
+Accounting for variations in export stoichiometry among systems of different productivity will improve the ability of models to resolve regional patterns in carbon export and, hence, the oceans' contribution to the global carbon cycle will be predicted more accurately.
+Introduction
+The concept of new vs. regenerated primary production sensu PERSON Dugdale  and PERSON Goering  (DATE 1967 ) [CARDINAL 1 ] has profoundly shaped the understanding of biological production and carbon sequestration in the ocean.
+The revelation that new production based on allochthonous nutrients supplied to the surface layer approximates export of organic matter to the deep ocean [CARDINAL 2 ] has been widely adopted as a law of nature in ecosystem models used to quantify the contribution of the oceans' biological carbon pump to the global carbon cycle.
+While export from a steady-state system must be balanced by an equivalently large input of new nutrients, recycling of carbon and growth-limiting nutrients by the pelagic food web profoundly impacts the potential of a system to export carbon [CARDINAL 3 ], [CARDINAL 4 ].
+Because organic nitrogen is remineralised faster than carbon in large parts of the ocean [CARDINAL 5 ], the common assumption of constant elemental stoichiometry (e.g. PERSON Redfield ) for converting nitrogen export to carbon typically underestimates the strength of the biological carbon pump and therefore carbon export (e.g. [CARDINAL 6 ]).
+Assuming that C:N is constant over spatially heterogeneous environments also constrains the ability of models to resolve regional patterns in carbon export, which are crucial for understanding ecosystem functioning.
+Model experiments with a depth-dependent particulate organic C:N ratio significantly increased carbon sequestration compared to a constant ratio model [7].
+Furthermore, carbon overconsumption in response to increased atmospheric CO2 is suggested to increase the spread of suboxic regions in the ocean due to respiration of excess carbon exported from the surface layer [CARDINAL 8 ].
+These findings suggest that our ability to predict how perturbations to the ocean environment affect the marine ecosystem in part depend on our understanding of the stoichiometric coupling between carbon and nutrients.
+At present, knowledge of the regulation of exported C:N is limited which poses a constraint to further development of ecosystems models.
+Because nitrogen recycling within the euphotic zone varies regionally with primary production [CARDINAL 2 ], export stoichiometry and, hence, the efficiency of the biological carbon pump should reflect nutrient availability or trophic state (oligo-, meso-, eutrophy) of pelagic ecosystems.
+We use published and unpublished data on vertical flux of particulate organic carbon (ORG POC ) and nitrogen (PON) from ORG the European Arctic Ocean  to test the hypothesis of constant export stoichiometry.
+The same methodology was adopted in all studies in this region, which allows comparisons of the data among regions in order to determine spatial patterns.
+LOC The Arctic Ocean  was also not included in a previous synthesis of export stoichiometry [CARDINAL 9 ].
+Furthermore, we assess the anticipated relationship between nitrate-based new production as a measure of trophic state and export stoichiometry over large geographical scale based on published data from other primarily nitrogen-limited parts of LOC the World Ocean .
+Materials and ORG Methods
+Data Collection Analytical Methods
+Vertical  export in ORG the European Arctic Ocean  was determined by means of short-term deployed surface-tethered drifting sediment traps at a total of CARDINAL 64  stations or occasions (Fig. CARDINAL 1 ).
+DATE Between 1 and 14  sediment traps were used to collect sinking particulate matter in the QUANTITY 20-200 m  depth range.
+A typical array consisted of traps situated at CARDINAL 20 , CARDINAL 30 , CARDINAL 40 , CARDINAL 50 , CARDINAL 60 , CARDINAL 90 , CARDINAL 120  and QUANTITY 200 m  depth, and was attached to a surface-tethered float or a drifting ice floe and deployed for circa DATE 24 h  without preservatives.
+The sediment traps consisted of duplicate parallel cylinders (height:diameter ratio CARDINAL 6.25 ) mounted in a gimballed frame equipped with a vane.
+The cylinders maintain vertical orientation perpendicular to the current direction at the moderate current velocities prevailing under all deployments [CARDINAL 10 ].
+The trapping efficiency for particulate organic carbon is PERCENT 90-110% , determined by comparison with the 234Thorium method, and the traps therefore provide reliable estimates of particle fluxes [CARDINAL 10 ].
+The observations were a priori grouped into seven sub-regions based on the dominant water mass, ice conditions, and bottom depth (Table CARDINAL 1 ).
+The observations are temporally constrained to the productive season (March-August), but the temporal resolution and distribution of observations over DATE the season  vary among regions.
+Particulate organic carbon (ORG POC ) and nitrogen (ORG PON ) were determined in ORG GF/F  filter samples of the sediment trap content using an elemental ORG CHN  analyser.
+The filters were dried and exposed to HCl fumes in order to remove inorganic carbon prior to analyses [CARDINAL 11 ].
+ORG POC  and ORG PON  values were corrected for background contamination determined in blank filters.
+ORG POC  and ORG PON  fluxes in units of mass were converted to molar unit using the atomic weights of C and N.
+Exported POC:ORG PON  and new production from other parts of LOC the World Ocean  were obtained from the literature.
+Only observations from the upper QUANTITY 500 m  of the water column were included in order to allow comparisons with the data from LOC the Arctic Ocean  (Table 2).
+New production in ORG the European Arctic Ocean  was simulated [CARDINAL 6 ] and published values from other regions were mostly based on nitrate inventories (Table 2).
+Data on new production were in most cases available in units of carbon based on conversion from nitrate uptake to carbon using either observed ORG DIC :ORG NO3  drawdown ratios or LAW Redfield  C:N. 
+Where new production was available only in units of nitrogen (LOC W Sargasso Sea ), it was converted to carbon using the LAW Redfield  C:N ratio.
+ORG Statistical Analyses
+Exported POC :ORG PON  data were not normally distributed wherefore regional variations and deviations from PERSON Redfield  were assessed by a nonparametric Kruskal-Wallis test with the Multiple Comparisons post hoc test in ORG Statistica(R)  and a GPE Wilcoxon  signed rank test in R (www.r-project.org), respectively.
+Linearity of the ORG POC :ORG PON  ratio was assessed by the type CARDINAL two  regression Standard Major Axis of log-transformed ORG POC  on log-transformed ORG PON  flux using the package lmodel2 in R because the variation was uncontrolled in both directions, and to overcome the bias associated with QUANTITY ordinary least square regression  when testing the slope against a given value (in this case CARDINAL 1 ) [CARDINAL 12 ].
+In log-log space, a slope equal to one implies that C and N occur in the same proportions across the whole range of MONEY C and N  export values, and the SMA regression was used to test this hypothesis, following PERSON Sterner  et al. (DATE 2008 ) [CARDINAL 12 ].
+Slopes were considered to be significantly different from one, indicating deviation from constancy, when the PERCENT 95%  confidence interval did not include the value one.
+The relationship between mean ORG POC :ORG PON  and new production was assessed by a linear regression following assessments of normal distributions (Shapiro-Wilk tests, P = CARDINAL 0.69  and P = CARDINAL 0.39 , respectively).
+The GPE Svalbard  shelf break area was excluded from the regression due to strong advection of organic matter reflective of a more southerly LOC Atlantic  production regime into this area by the GPE West Spitsbergen  Current [CARDINAL 13 ], [CARDINAL 14 ], material that contributes to vertical export in addition to autochthonous production.
+Results and Discussion
+Regional Patterns in the NORP European  LOC Arctic Ocean 
+The exported PRODUCT POC :ORG PON  ratio increased with depth in only CARDINAL 8  of CARDINAL 61  vertical flux profiles (not shown), and comparisons are therefore based on all observations between CARDINAL 20  and QUANTITY 200 m  depth.
+The exported PRODUCT POC :ORG PON  ratio was significantly different among regions (Kruskal-Wallis ANOVA, P
