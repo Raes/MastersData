@@ -1,0 +1,11 @@
+Linking N2O emissions from biochar-amended soil to the structure and function of the N-cycling microbial community
+Nitrous oxide (N2O) contributes 8% to global greenhouse gas emissions.
+Agricultural sources represent about 60% of anthropogenic N2O emissions.
+Most agricultural N2O emissions are due to increased fertilizer application.
+A considerable fraction of nitrogen fertilizers are converted to N2O by microbiological processes (that is, nitrification and denitrification).
+Soil amended with biochar (charcoal created by pyrolysis of biomass) has been demonstrated to increase crop yield, improve soil quality and affect greenhouse gas emissions, for example, reduce N2O emissions.
+Despite several studies on variations in the general microbial community structure due to soil biochar amendment, hitherto the specific role of the nitrogen cycling microbial community in mitigating soil N2O emissions has not been subject of systematic investigation.
+We performed a microcosm study with a water-saturated soil amended with different amounts (0%, 2% and 10% (w/w)) of high-temperature biochar.
+By quantifying the abundance and activity of functional marker genes of microbial nitrogen fixation (nifH), nitrification (amoA) and denitrification (nirK, nirS and nosZ) using quantitative PCR we found that biochar addition enhanced microbial nitrous oxide reduction and increased the abundance of microorganisms capable of N2-fixation.
+Soil biochar amendment increased the relative gene and transcript copy numbers of the nosZ-encoded bacterial N2O reductase, suggesting a mechanistic link to the observed reduction in N2O emissions.
+Our findings contribute to a better understanding of the impact of biochar on the nitrogen cycling microbial community and the consequences of soil biochar amendment for microbial nitrogen transformation processes and N2O emissions from soil.

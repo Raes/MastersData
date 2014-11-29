@@ -1,0 +1,6 @@
+Explaining microbial population genomics through phage predation
+The remarkable differences that have been detected by metagenomics in the genomes of strains of the same bacterial species are difficult to reconcile with the widely accepted paradigm that periodic selection within bacterial populations will regularly purge genomic diversity by clonal replacement.
+We have found that many of the genes that differ between strains affect regions that are potential phage recognition targets.
+We therefore propose the constant-diversity dynamics model, in which the diversity of prokaryotic populations is preserved by phage predation.
+We provide supporting evidence for this model from metagenomics, mathematical analysis and computer simulations.
+Periodic selection and phage predation dynamics are not mutually exclusive; we compare their predictions to shed light on the ecological circumstances under which each type of dynamics could predominate.

@@ -1,0 +1,11 @@
+Microarray analysis of phosphate regulation in the marine cyanobacterium Synechococcus sp.
+WH8102
+Primary productivity of open ocean environments, such as those inhabited by marine picocyanobacteria, is often limited by low inorganic phosphate (P).
+To observe how these organisms cope with P starvation, we constructed a full genome microarray for Synechococcus sp.
+WH8102 and compared differences in gene expression under P-replete and P-limited growth conditions, including both early P stress, during extracellular alkaline phosphatase induction, and late P stress.
+A total of 36 genes showed significant upregulation (>log2 fold) whereas 23 genes were highly downregulated at the early time point; however, these changes in expression were maintained during late P stress for only 5 of the upregulated genes.
+Knockout mutants were constructed for genes SYNW0947 and SYNW0948, comprising a two-component regulator hypothesized to have a key function in regulating P metabolism.
+A high degree of overlap in the sets of genes affected by P stress conditions and in the knockout mutants supports this hypothesis; however, there is some indication that other regulators may be involved in this response in Synechococcus sp.
+WH8102.
+Consistent with what has been observed in many other cyanobacteria, the Pho regulon of this strain is comprised largely of genes for alkaline phosphatases, P transport or P metabolism.
+Interestingly, however, the exact composition and arrangement of the Pho regulon appears highly variable in marine cyanobacteria.

@@ -1,0 +1,11 @@
+Inference of interactions in cyanobacterialheterotrophic co-cultures via transcriptome sequencing
+We used deep sequencing technology to identify transcriptional adaptation of the euryhaline unicellular cyanobacterium Synechococcus sp.
+PCC 7002 and the marine facultative aerobe Shewanella putrefaciens W3-18-1 to growth in a co-culture and infer the effect of carbon flux distributions on photoautotrophheterotroph interactions.
+The overall transcriptome response of both organisms to co-cultivation was shaped by their respective physiologies and growth constraints.
+Carbon limitation resulted in the expansion of metabolic capacities, which was manifested through the transcriptional upregulation of transport and catabolic pathways.
+Although growth coupling occurred via lactate oxidation or secretion of photosynthetically fixed carbon, there was evidence of specific metabolic interactions between the two organisms.
+These hypothesized interactions were inferred from the excretion of specific amino acids (for example, alanine and methionine) by the cyanobacterium, which correlated with the downregulation of the corresponding biosynthetic machinery in Shewanella W3-18-1.
+In addition, the broad and consistent decrease of mRNA levels for many Fe-regulated Synechococcus 7002 genes during co-cultivation may indicate increased Fe availability as well as more facile and energy-efficient mechanisms for Fe acquisition by the cyanobacterium.
+Furthermore, evidence pointed at potentially novel interactions between oxygenic photoautotrophs and heterotrophs related to the oxidative stress response as transcriptional patterns suggested that Synechococcus 7002 rather than Shewanella W3-18-1 provided scavenging functions for reactive oxygen species under co-culture conditions.
+This study provides an initial insight into the complexity of photoautotrophicheterotrophic interactions and brings new perspectives of their role in the robustness and stability of the association.
+The ISME Journal advance online publication, 29 April 2014; doi:10.1038/ismej.2014.69

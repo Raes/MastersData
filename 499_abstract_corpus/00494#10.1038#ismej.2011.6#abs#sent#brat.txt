@@ -1,0 +1,10 @@
+Protistan microbial observatory in the Cariaco Basin, Caribbean.
+I. Pyrosequencing vs Sanger insights into species richness
+Microbial diversity and distribution are topics of intensive research.
+In two companion papers in this issue, we describe the results of the Cariaco Microbial Observatory (Caribbean Sea, Venezuela).
+The Basin contains the largest body of marine anoxic water, and presents an opportunity to study protistan communities across biogeochemical gradients.
+In the first paper, we survey 18S ribosomal RNA (rRNA) gene sequence diversity using both Sanger- and pyrosequencing-based approaches, employing multiple PCR primers, and state-of-the-art statistical analyses to estimate microbial richness missed by the survey.
+Sampling the Basin at three stations, in two seasons, and at four depths with distinct biogeochemical regimes, we obtained the largest, and arguably the least biased collection of over 6000 nearly full-length protistan rRNA gene sequences from a given oceanographic regime to date, and over 80 000 pyrosequencing tags.
+These represent all major and many minor protistan taxa, at frequencies globally similar between the two sequence collections.
+This large data set provided, via the recently developed parametric modeling, the first statistically sound prediction of the total size of protistan richness in a large and varied environment, such as the Cariaco Basin: over 36 000 species, defined as almost full-length 18S rRNA gene sequence clusters sharing over 99% sequence homology.
+This richness is a small fraction of the grand total of known protists (over 100 000-500 000 species), suggesting a degree of protistan endemism.

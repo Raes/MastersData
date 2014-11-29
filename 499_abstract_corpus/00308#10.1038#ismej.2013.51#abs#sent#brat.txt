@@ -1,0 +1,8 @@
+The dynamic bacterial communities of a melting High Arctic glacier snowpack
+Snow environments can occupy over a third of land surface area, but little is known about the dynamics of snowpack bacteria.
+The effect of snow melt on bacterial community structure and diversity of surface environments of a Svalbard glacier was examined using analyses of 16S rRNA genes via T-RFLP, qPCR and 454 pyrosequencing.
+Distinct community structures were found in different habitat types, with changes over 1 week apparent, in particular for the dominant bacterial class present, Betaproteobacteria.
+The differences observed were consistent with influences from depositional mode (snowfall vs aeolian dusts), contrasting snow with dust-rich snow layers and near-surface ice.
+Contrary to that, slush as the decompositional product of snow harboured distinct lineages of bacteria, further implying post-depositional changes in community structure.
+Taxa affiliated to the betaproteobacterial genus Polaromonas were particularly dynamic, and evidence for the presence of betaproteobacterial ammonia-oxidizing bacteria was uncovered, inviting the prospect that the dynamic bacterial communities associated with snowpacks may be active in supraglacial nitrogen cycling and capable of rapid responses to changes induced by snowmelt.
+Furthermore the potential of supraglacial snowpack ecosystems to respond to transient yet spatially extensive melting episodes such as that observed across most of Greenland's ice sheet in 2012 merits further investigation.

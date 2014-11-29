@@ -1,0 +1,9 @@
+Inorganic carbon fixation by chemosynthetic ectosymbionts and nutritional transfers to the hydrothermal vent host-shrimp Rimicaris exoculata
+The shrimp Rimicaris exoculata dominates several hydrothermal vent ecosystems of the Mid-Atlantic Ridge and is thought to be a primary consumer harbouring a chemoautotrophic bacterial community in its gill chamber.
+The aim of the present study was to test current hypotheses concerning the epibiont's chemoautotrophy, and the mutualistic character of this association.
+In-vivo experiments were carried out in a pressurised aquarium with isotope-labelled inorganic carbon (NaH13CO3 and NaH14CO3) in the presence of two different electron donors (Na2S2O3 and Fe2+) and with radiolabelled organic compounds (14C-acetate and 3H-lysine) chosen as potential bacterial substrates and/or metabolic by-products in experiments mimicking transfer of small biomolecules from epibionts to host.
+The bacterial epibionts were found to assimilate inorganic carbon by chemoautotrophy, but many of them (thick filaments of epsilonproteobacteria) appeared versatile and able to switch between electron donors, including organic compounds (heterotrophic acetate and lysine uptake).
+At least some of them (thin filamentous gammaproteobacteria) also seem capable of internal energy storage that could supply chemosynthetic metabolism for hours under conditions of electron donor deprivation.
+As direct nutritional transfer from bacteria to host was detected, the association appears as true mutualism.
+Import of soluble bacterial products occurs by permeation across the gill chamber integument, rather than via the digestive tract.
+This first demonstration of such capabilities in a decapod crustacean supports the previously discarded hypothesis of transtegumental absorption of dissolved organic matter or carbon as a common nutritional pathway.

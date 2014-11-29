@@ -1,0 +1,8 @@
+Stable Isotope Analysis Challenges Wasp-Waist Food Web Assumptions in an Upwelling Pelagic Ecosystem
+Eastern boundary currents are often described as 'wasp-waist' ecosystems in which one or few mid-level forage species support a high diversity of larger predators that are highly susceptible to fluctuations in prey biomass.
+The assumption of wasp-waist control has not been empirically tested in all such ecosystems.
+This study used stable isotope analysis to test the hypothesis of wasp-waist control in the southern California Current large marine ecosystem (CCLME).
+We analyzed prey and predator tissue for delta13C and delta15N and used Bayesian mixing models to provide estimates of CCLME trophic dynamics from 2007-2010.
+Our results show high omnivory, planktivory by some predators, and a higher degree of trophic connectivity than that suggested by the wasp-waist model.
+Based on this study period, wasp-waist models oversimplify trophic dynamics within the CCLME and potentially other upwelling, pelagic ecosystems.
+Higher trophic connectivity in the CCLME likely increases ecosystem stability and resilience to perturbations.

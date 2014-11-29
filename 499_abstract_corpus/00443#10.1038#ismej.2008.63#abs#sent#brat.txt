@@ -1,0 +1,10 @@
+Light dependency of nitrogen fixation in a coastal cyanobacterial mat
+The fixation of nitrogen in cyanobacterial mats situated along the littoral gradient on a Dutch barrier island was investigated by using a high-resolution online, near-real-time acetylene reduction assay.
+Light-response curves of nitrogenase activity yielded a variety of physiological parameters that changed during a day-night cycle.
+The fitted parameters were used to calculate nitrogen fixation from the incident natural irradiance over several days in two different mat types.
+Mats occurring in the higher regions of the littoral were composed of a diverse community of cyanobacteria, consisting of both heterocystous and non-heterocystous filamentous species, whereas closer to the low water mark the mats contained mainly non-heterocystous filamentous cyanobacteria.
+Although the daily cycles of nitrogenase activity differed considerably between the two types of mats, the daily integrated rates of nitrogen fixation were the same.
+Moreover, the daily integrated nitrogen fixation seemed to be independent from the daily incident photon flux.
+The measurements further suggest that different types of diazotrophic cyanobacteria become active at different times of the day and that the composition of the mat community affects maximal and daily patterns of nitrogenase activity.
+Notwithstanding the apparent light independence of nitrogen fixation, the light-response curves as well as light action spectra unequivocally showed that cyanobacteria were the predominant nitrogen-fixing organisms in these mats.
+It is concluded that the diversity of nitrogen-fixing cyanobacteria leads to an optimization of this process.

@@ -1,0 +1,8 @@
+Eddy-induced enhancement of primary production in a model of the North Atlantic Ocean
+In steady state, the export of photosynthetically fixed organic matter to the deep ocean has to be balanced by an upward flux of nutrients into the euphotic zone.
+Indirect geochemical estimates of the nutrient supply to surface waters have been substantially higher than direct biological and physical measurements, particularly in subtropical regions.
+A possible explanation for the apparent discrepancy is that the sampling strategy of the direct measurements has under-represented episodic nutrient injections forced by mesoscale eddy dynamics, whereas geochemical tracer budgets integrate fluxes over longer time and space scales.
+Here we investigate the eddy-induced nutrient supply by combining two methods potentially capable of delivering synoptic descriptions of the ocean's state on a basin scale.
+Remotely sensed sea-surface height data from the simultaneous TOPEX/Poseidon and ERS-1 satellite missions are assimilated into a numerical eddy-resolving coupled ecosystem-circulation model of the North Atlantic Ocean.
+Our results indicate that mesoscale eddy activity accounts for about one-third of the total flux of nitrate into the euphotic zone (taken to represent new production) in the subtropics and at mid-latitudes.
+This contribution is not sufficient to maintain the observed primary production in parts of the subtropical gyre, where alternative routes of nitrogen supply will have to be considered.

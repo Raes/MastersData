@@ -1,0 +1,9 @@
+Molecular and biogeochemical evidence for methane cycling beneath the western margin of the Greenland Ice Sheet
+Microbial processes that mineralize organic carbon and enhance solute production at the bed of polar ice sheets could be of a magnitude sufficient to affect global elemental cycles.
+To investigate the biogeochemistry of a polar subglacial microbial ecosystem, we analyzed water discharged during the summer of 2012 and 2013 from Russell Glacier, a land-terminating outlet glacier at the western margin of the Greenland Ice Sheet.
+The molecular data implied that the most abundant and active component of the subglacial microbial community at these marginal locations were bacteria within the order Methylococcales (59-100% of reverse transcribed (RT)-rRNA sequences).
+mRNA transcripts of the particulate methane monooxygenase (pmoA) from these taxa were also detected, confirming that methanotrophic bacteria were functional members of this subglacial ecosystem.
+Dissolved methane ranged between 2.7 and 83 muM in the subglacial waters analyzed, and the concentration was inversely correlated with dissolved oxygen while positively correlated with electrical conductivity.
+Subglacial microbial methane production was supported by delta13C-CH4 values between -64/1000 and -62/1000 together with the recovery of RT-rRNA sequences that classified within the Methanosarcinales and Methanomicrobiales.
+Under aerobic conditions, >98% of the methane in the subglacial water was consumed over ~30 days incubation at ~4 degreesC and rates of methane oxidation were estimated at 0.32 muM per day.
+Our results support the occurrence of active methane cycling beneath this region of the Greenland Ice Sheet, where microbial communities poised in oxygenated subglacial drainage channels could serve as significant methane sinks.

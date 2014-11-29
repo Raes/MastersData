@@ -1,0 +1,8 @@
+Response of Prochlorococcus ecotypes to co-culture with diverse marine bacteria
+Interactions between microorganisms shape microbial ecosystems.
+Systematic studies of mixed microbes in co-culture have revealed widespread potential for growth inhibition among marine heterotrophic bacteria, but similar synoptic studies have not been done with autotroph/heterotroph pairs, nor have precise descriptions of the temporal evolution of interactions been attempted in a high-throughput system.
+Here, we describe patterns in the outcome of pair-wise co-cultures between two ecologically distinct, yet closely related, strains of the marine cyanobacterium Prochlorococcus and hundreds of heterotrophic marine bacteria.
+Co-culture with the collection of heterotrophic strains influenced the growth of Prochlorococcus strain MIT9313 much more than that of strain MED4, reflected both in the number of different types of interactions and in the magnitude of the effect of co-culture on various culture parameters.
+Enhancing interactions, where the presence of heterotrophic bacteria caused Prochlorococcus to grow faster and reach a higher final culture chlorophyll fluorescence, were much more common than antagonistic ones, and for a selected number of cases were shown to be mediated by diffusible compounds.
+In contrast, for one case at least, temporary inhibition of Prochlorococcus MIT9313 appeared to require close cellular proximity.
+Bacterial strains whose 16S gene sequences differed by 1-2% tended to have similar effects on MIT9313, suggesting that the patterns of inhibition and enhancement in co-culture observed here are due to phylogenetically cohesive traits of these heterotrophs.

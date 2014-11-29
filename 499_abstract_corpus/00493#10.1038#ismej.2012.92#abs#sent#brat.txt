@@ -1,0 +1,11 @@
+Biogeography of Rhizobium radiobacter and distribution of associated temperate phages in deep subseafloor sediments
+Bacteriophages might be the main 'predators' in the marine deep subsurface and probably have a major impact on indigenous microbial communities.
+To identify their function within this habitat, we have determined their abundance and distribution along the sediment columns of two continental margin and two open ocean sites that were recovered during Leg 201 of the Ocean Drilling Program.
+For all investigated sites, viral abundance followed the total cell numbers with a virus-to-cell ratio between 1 and 10 in the upper 100 mbsf (meters below seafloor).
+An increasing ratio of about 20 in deeper layers indicated an ongoing viral production in up to 11 Ma old sediments.
+We have used Rhizobium radiobacter as the most frequently isolated organism from the deep subsurface with a high in situ abundance to identify the frequency of associated rhizobiophages.
+In this study, 16S rRNA gene copies of R. radiobacter accounted for up to 5.6% of total bacterial 16S rRNA genes (average: 0.75%) as detected by quantitative PCR.
+A distinctive distribution was identified for R. radiobacter as indicated by a site-specific arrangement of genetically similar populations.
+Whole genome information of rhizobiophage RR1-A was used to generate a primer system for quantitative PCR specifically targeting the prophage antirepressor gene, indicative for temperate phages.
+The quantification of this gene within various sediment horizons showed a contribution of temperate phages of up to 14.3% to the total viral abundance.
+Thus, the high amount of temperate phages within the sediments and among all investigated isolates indicates that lysogeny is the main viral proliferation mode in deep subsurface populations.

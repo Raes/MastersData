@@ -1,0 +1,7 @@
+Genomic sequencing of uncultured microorganisms from single cells
+Sequencing DNA from single cells has opened new windows onto the microbial world.
+It is becoming routine to sequence bacterial species directly from environmental samples or clinical specimens without the need to develop cultivation methods.
+Recent technical improvements often allow nearly complete genome assembly from these otherwise inaccessible species.
+New bioinformatics methods are also improving genome assembly from single cells.
+The use of single-cell sequencing in combination with metagenomic analysis is also emerging as a powerful new strategy to analyse bacterial communities.
+Here, the technical developments that have enabled single-cell sequencing, as well as some of the most exciting applications of this approach from the past few years, are reviewed.

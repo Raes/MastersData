@@ -1,0 +1,13 @@
+Metatranscriptomic analysis of autonomously collected and preserved marine bacterioplankton
+Planktonic microbial activity and community structure is dynamic, and can change dramatically on time scales of hours to days.
+Yet for logistical reasons, this temporal scale is typically under-sampled in the marine environment.
+In order to facilitate higher-resolution, long-term observation of microbial diversity and activity, we developed a protocol for automated collection and fixation of marine microbes using the Environmental Sample Processor (ESP) platform.
+The protocol applies a preservative (RNALater) to cells collected on filters, for long-term storage and preservation of total cellular RNA.
+Microbial samples preserved using this protocol yielded high-quality RNA after 30 days of storage at room temperature, or onboard the ESP at in situ temperatures.
+Pyrosequencing of complementary DNA libraries generated from ESP-collected and preserved samples yielded transcript abundance profiles nearly indistinguishable from those derived from conventionally treated replicate samples.
+To demonstrate the utility of the method, we used a moored ESP to remotely and autonomously collect Monterey Bay seawater for metatranscriptomic analysis.
+Community RNA was extracted and pyrosequenced from samples collected at four time points over the course of a single day.
+In all four samples, the oxygenic photoautotrophs were predominantly eukaryotic, while the bacterial community was dominated by Polaribacter-like Flavobacteria and a Rhodobacterales bacterium sharing high similarity with Rhodobacterales sp.
+HTCC2255.
+However, each time point was associated with distinct species abundance and gene transcript profiles.
+These laboratory and field tests confirmed that autonomous collection and preservation is a feasible and useful approach for characterizing the expressed genes and environmental responses of marine microbial communities.

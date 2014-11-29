@@ -1,0 +1,8 @@
+Ammonia oxidation kinetics and temperature sensitivity of a natural marine community dominated by Archaea
+Archaeal ammonia oxidizers (AOAs) are increasingly recognized as prominent members of natural microbial assemblages.
+Evidence that links the presence of AOA with in situ ammonia oxidation activity is limited, and the abiotic factors that regulate the distribution of AOA natural assemblages are not well defined.
+We used quantitative PCR to enumerate amoA (encodes alpha-subunit of ammonia monooxygenase) abundances; AOA amoA gene copies greatly outnumbered ammonia-oxidizing bacteria and amoA transcripts were derived primarily from AOA throughout the water column of Hood Canal, Puget Sound, WA, USA.
+We generated a Michaelis-Menten kinetics curve for ammonia oxidation by the natural community and found that the measured Km of 98+/-14 nmol l-1 was close to that for cultivated AOA representative Nitrosopumilus maritimus SCM1.
+Temperature did not have a significant effect on ammonia oxidation rates for incubation temperatures ranging from 8 to 20 degreesC, which is within the temperature range for depths of measurable ammonia oxidation at the site.
+This study provides substantial evidence, through both amoA gene copies and transcript abundances and the kinetics response, that AOA are the dominant active ammonia oxidizers in this marine environment.
+We propose that future ammonia oxidation experiments use a Km for the natural community to better constrain ammonia oxidation rates determined with the commonly used 15NH4+ dilution technique.

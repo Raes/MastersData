@@ -1,0 +1,6 @@
+Diversity of active marine picoeukaryotes in the Eastern Mediterranean Sea unveiled using photosystem-II psbA transcripts
+In vast areas of the oceans, most of the primary production is performed by cells smaller than 2-3 mum in diameter (picophytoplankton).
+In recent years, several in situ molecular studies showed a broad genetic diversity of small eukaryotes by sequencing 18S rRNA genes.
+Compared with photosynthetic cyanobacteria that are dominated by two genera, Prochlorococcus and Synechococcus, marine photosynthetic picoeukaryotes (PPEs) are much more diverse, with virtually every algal class being represented.
+However, the genetic diversity and ecology of PPEs are still poorly described.
+Here, we show using in situ molecular analyses of psbA transcripts that PPEs in the Eastern Mediterranean Sea are highly diverse, probably very active, and dominated by groups belonging to the red algal lineages, Haptophyta, Heterokontophyta (also called Stramenopiles), and Cryptophyta.

@@ -1,0 +1,12 @@
+Vertical segregation and phylogenetic characterization of ammonia-oxidizing Archaea in a deep oligotrophic lake
+Freshwater habitats have been identified as one of the largest reservoirs of archaeal genetic diversity, with specific lineages of ammonia-oxidizing archaea (AOA) populations different from soils and seas.
+The ecology and biology of lacustrine AOA is, however, poorly known.
+In the present study, vertical changes in archaeal abundance by CARD-FISH, quantitative PCR (qPCR) analyses and identity by clone libraries were correlated with environmental parameters in the deep glacial high-altitude Lake Redon.
+The lake is located in the central Spanish Pyrenees where atmospheric depositions are the main source of reactive nitrogen.
+Strong correlations were found between abundance of thaumarchaeotal 16S rRNA gene, archaeal amoA gene and nitrite concentrations, indicating an ammonium oxidation potential by these microorganisms.
+The bacterial amoA gene was not detected.
+Three depths with potential ammonia-oxidation activity were unveiled along the vertical gradient, (i) on the top of the lake in winter-spring (that is, the 0 oC slush layers above the ice-covered sheet), (ii) at the thermocline and (iii) the bottom waters in summer--autumn.
+Overall, up to 90% of the 16S rRNA gene sequences matched Thaumarchaeota, mostly from both the Marine Group (MG) 1.1a (Nitrosoarchaeum-like) and the sister clade SAGMGC-1 (Nitrosotalea-like).
+Clone-libraries analysis showed the two clades changed their relative abundances with water depth being higher in surface and lower in depth for SAGMGC-1 than for MG 1.1a, reflecting a vertical phylogenetic segregation.
+Overall, the relative abundance and recurrent appearance of SAGMGC-1 suggests a significant environmental role of this clade in alpine lakes.
+These results expand the set of ecological and thermal conditions where Thaumarchaeota are distributed, unveiling vertical positioning in the water column as a key factor to understand the ecology of different thaumarchaeotal clades in lacustrine environments.

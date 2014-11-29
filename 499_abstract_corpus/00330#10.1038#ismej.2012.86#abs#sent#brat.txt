@@ -1,0 +1,11 @@
+Metabolic potential of a single cell belonging to one of the most abundant lineages in freshwater bacterioplankton
+Actinobacteria within the acI lineage are often numerically dominating in freshwater ecosystems, where they can account for >50% of total bacteria in the surface water.
+However, they remain uncultured to date.
+We thus set out to use single-cell genomics to gain insights into their genetic make-up, with the aim of learning about their physiology and ecological niche.
+A representative from the highly abundant acI-B1 group was selected for shotgun genomic sequencing.
+We obtained a draft genomic sequence in 75 larger contigs (sum=1.16 Mb), with an unusually low genomic G+C mol% (~42%).
+Actinobacteria core gene analysis suggests an almost complete genome recovery.
+We found that the acI-B1 cell had a small genome, with a rather low percentage of genes having no predicted functions (~15%) as compared with other cultured and genome-sequenced microbial species.
+Our metabolic reconstruction hints at a facultative aerobe microorganism with many transporters and enzymes for pentoses utilization (for example, xylose).
+We also found an actinorhodopsin gene that may contribute to energy conservation under unfavorable conditions.
+This project reveals the metabolic potential of a member of the global abundant freshwater Actinobacteria.

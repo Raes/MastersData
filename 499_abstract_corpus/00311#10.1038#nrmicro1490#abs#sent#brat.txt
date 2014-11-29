@@ -1,0 +1,6 @@
+Microorganisms pumping iron: anaerobic microbial iron oxidation and reduction
+Iron (Fe) has long been a recognized physiological requirement for life, yet for many microorganisms that persist in water, soils and sediments, its role extends well beyond that of a nutritional necessity.
+Fe(II) can function as an electron source for iron-oxidizing microorganisms under both oxic and anoxic conditions and Fe(III) can function as a terminal electron acceptor under anoxic conditions for iron-reducing microorganisms.
+Given that iron is the fourth most abundant element in the Earth's crust, iron redox reactions have the potential to support substantial microbial populations in soil and sedimentary environments.
+As such, biological iron apportionment has been described as one of the most ancient forms of microbial metabolism on Earth, and as a conceivable extraterrestrial metabolism on other iron-mineral-rich planets such as Mars.
+Furthermore, the metabolic versatility of the microorganisms involved in these reactions has resulted in the development of biotechnological applications to remediate contaminated environments and harvest energy.

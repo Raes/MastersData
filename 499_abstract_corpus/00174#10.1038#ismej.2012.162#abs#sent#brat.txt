@@ -1,0 +1,12 @@
+In situ substrate preferences of abundant bacterioplankton populations in a prealpine freshwater lake
+The substrate partitioning of sympatric populations of freshwater bacterioplankton was studied via microautoradiography and fluorescence in situ hybridization.
+Fourteen radiolabeled tracers were used to assess microbial acquisition spectra of low-molecular-weight (LMW) organic compounds.
+The most abundant group, ac1 Actinobacteria, were highly active in leucine, thymidine and glucose assimilation, whereas Alphaproteobacteria from the LD12 lineage (the freshwater sister clade of SAR11) only weakly incorporated these tracers, but exhibited a distinct preference for glutamine and glutamate.
+Different Bacteroidetes showed contrasting uptake patterns: Flavobacteriales did not incorporate significant amounts of any LMW compound, and Cyclobacteriaceae were clearly specialized on leucine, glucose and arginine.
+Betaproteobacteria represented the most active and versatile bacterioplankton fraction and >90% of them could be assigned to eight species- to genus-like populations with contrasting substrate specialization.
+Limnohabitans sp.
+were the most abundant and active Betaproteobacteria, incorporating almost all tracers.
+While three closely related betaproteobacterial populations substantially differed in their uptake spectra, two more distantly related lineages had very similar preferences, and one population did not incorporate any tracer.
+The dominant phototrophic microorganism, the filamentous cyanobacterium Planktothrix rubescens, assimilated several substrates, whereas other (pico)cyanobacteria had no heterotrophic activity.
+The variable extent of specialization by the studied bacterial taxa on subsets of LMW compounds contrasts theoretical considerations about non-selective microbial substrate assimilation at oligotrophic conditions.
+This physiological niche separation might be one explanation for the coexistence of freshwater bacterioplankton species in a seemingly uniform environment.

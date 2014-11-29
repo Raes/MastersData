@@ -1,0 +1,8 @@
+Food-chain length alters community responses to global change in aquatic systems
+Synergies between large-scale environmental changes, such as climate change and increased humic content (brownification), will have a considerable impact on future aquatic ecosystems.
+On the basis of modelling, monitoring and experimental data, we demonstrate that community responses to global change are determined by food-chain length and that the top trophic level, and every second level below, will benefit from climate change, whereas the levels in between will suffer.
+Hence, phytoplankton, and thereby algal blooms, will benefit from climate change in three-, but not in two-trophic-level systems.
+Moreover, we show that both phytoplankton (resource) and zooplankton (consumer) advance their spring peak abundances similarly in response to a 3 degreesC temperature increase; that is, there is no support for a consumer/resource mismatch in a future climate scenario.
+However, in contrast to other taxa, cyanobacteria--known as toxin-producing nuisance phytoplankton--benefit from a higher temperature and humic content irrespective of the food-chain composition.
+Our results are mirrored in natural ecosystems.
+By mechanistically merging present food-chain theory with large-scale environmental and climate changes, we provide a powerful framework for predicting and understanding future aquatic ecosystems and their provision of ecosystem services and water resources.

@@ -1,0 +1,8 @@
+Species sorting affects bacterioplankton community composition as determined by 16S rDNA and 16S rRNA fingerprints
+To understand the mechanisms determining community composition, it is essential to distinctively unravel the importance of local from that of regional processes.
+In this effort, the mechanisms underlying bacterioplankton community assembly were analysed in eight lakes of short water residence time (WRT) during a four-season sampling campaign.
+Bacterioplankton community composition (BCC) was determined using terminal-restriction fragment length polymorphism (t-RFLP) on the 16S rRNA gene (16S rDNA) and 16S rRNA.
+The relationship between similarity in BCC between a lake and its major inlet on the one hand and cell import per cell production rate from the inlet to the lake epilimnion on the other was used as a measure of the importance of cell dispersal (mass effects) for community assembly.
+Low similarities in BCC between lakes and their inlets were observed even at short WRTs, and the degree of similarity correlated better with the environmental conditions in lakes and streams than with cell import per cell production rates.
+Thus, mass effects seemed less important for local lake BCC in comparison to environmental habitat characteristics (species sorting).
+Analyses of 16S rDNA and 16S rRNA community fingerprints yielded similar results, indicating that species-sorting dynamics exerted an equally important effect on both the abundant and active fraction within the studied bacterioplankton communities.

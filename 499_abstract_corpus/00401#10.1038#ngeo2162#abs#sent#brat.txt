@@ -1,0 +1,10 @@
+The impact of ocean deoxygenation on iron release from continental margin sediments
+In the oceans' high-nitrate-low-chlorophyll regions, such as the Peru/Humboldt Current system and the adjacent eastern equatorial Pacific, primary productivity is limited by the micronutrient iron.
+Within the Peruvian upwelling area, bioavailable iron is released from the reducing continental margin sediments.
+The magnitude of this seafloor source could change with fluctuations in the extension or intensity of the oxygen minimum zones.
+Here we show that measurements of molybdenum, uranium and iron concentrations can be used as a proxy for sedimentary iron release, and use this proxy to assess iron release from the sea floor beneath the Peru upwelling system during the past 140,000 years.
+We observe a coupling between levels of denitrification, as indicated by nitrogen isotopes, trace metal proxies for oxygenation, and sedimentary iron concentrations.
+Specifically, periods with poor upper ocean oxygenation are characterized by more efficient iron retention in the sediment and a diminished iron supply to the water column.
+We attribute efficient iron retention under more reducing conditions to widespread sulphidic conditions in the surface sediment and concomitant precipitation of iron sulphides.
+We argue that iron release from continental margin sediments is most effective in a narrow redox window where neither oxygen nor sulphide is present.
+We therefore suggest that future deoxygenation in the Peru upwelling area would be unlikely to result in increased iron availability, whereas in weaker oxygen minimum zones partial deoxygenation may enhance the iron supply.

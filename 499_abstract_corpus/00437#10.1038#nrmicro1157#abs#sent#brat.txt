@@ -1,0 +1,6 @@
+Community genomics in microbial ecology and evolution
+It is possible to reconstruct near-complete, and possibly complete, genomes of the dominant members of microbial communities from DNA that is extracted directly from the environment.
+Genome sequences from environmental samples capture the aggregate characteristics of the strain population from which they were derived.
+Comparison of the sequence data within and among natural populations can reveal the evolutionary processes that lead to genome diversification and speciation.
+Community genomic datasets can also enable subsequent gene expression and proteomic studies to determine how resources are invested and functions are distributed among community members.
+Ultimately, genomics can reveal how individual species and strains contribute to the net activity of the community.

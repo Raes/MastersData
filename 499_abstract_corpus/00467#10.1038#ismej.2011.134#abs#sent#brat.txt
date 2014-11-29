@@ -1,0 +1,11 @@
+Disconnect of microbial structure and function: enzyme activities and bacterial communities in nascent stream corridors
+A fundamental issue in microbial and general ecology is the question to what extent environmental conditions dictate the structure of communities and the linkages with functional properties of ecosystems (that is, ecosystem function).
+We approached this question by taking advantage of environmental gradients established in soil and sediments of small stream corridors in a recently created, early successional catchment.
+Specifically, we determined spatial and temporal patterns of bacterial community structure and their linkages with potential microbial enzyme activities along the hydrological flow paths of the catchment.
+Soil and sediments were sampled in a total of 15 sites on four occasions spread throughout a year.
+Denaturing gradient gel electrophoresis (DGGE) was used to characterize bacterial communities, and substrate analogs linked to fluorescent molecules served to track 10 different enzymes as specific measures of ecosystem function.
+Potential enzyme activities varied little among sites, despite contrasting environmental conditions, especially in terms of water availability.
+Temporal changes, in contrast, were pronounced and remarkably variable among the enzymes tested.
+This suggests much greater importance of temporal dynamics than spatial heterogeneity in affecting specific ecosystem functions.
+Most strikingly, bacterial community structure revealed neither temporal nor spatial patterns.
+The resulting disconnect between bacterial community structure and potential enzyme activities indicates high functional redundancy within microbial communities even in the physically and biologically simplified stream corridors of early successional landscapes.

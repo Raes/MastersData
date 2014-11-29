@@ -1,0 +1,11 @@
+Bacterial community succession during in situ uranium bioremediation: spatial similarities along controlled flow paths
+Bacterial community succession was investigated in a field-scale subsurface reactor formed by a series of wells that received weekly ethanol additions to re-circulating groundwater.
+Ethanol additions stimulated denitrification, metal reduction, sulfate reduction and U(VI) reduction to sparingly soluble U(IV).
+Clone libraries of SSU rRNA gene sequences from groundwater samples enabled tracking of spatial and temporal changes over a 1.5-year period.
+Analyses showed that the communities changed in a manner consistent with geochemical variations that occurred along temporal and spatial scales.
+Canonical correspondence analysis revealed that the levels of nitrate, uranium, sulfide, sulfate and ethanol were strongly correlated with particular bacterial populations.
+As sulfate and U(VI) levels declined, sequences representative of sulfate reducers and metal reducers were detected at high levels.
+Ultimately, sequences associated with sulfate-reducing populations predominated, and sulfate levels declined as U(VI) remained at low levels.
+When engineering controls were compared with the population variation through canonical ordination, changes could be related to dissolved oxygen control and ethanol addition.
+The data also indicated that the indigenous populations responded differently to stimulation for bioreduction; however, the two biostimulated communities became more similar after different transitions in an idiosyncratic manner.
+The strong associations between particular environmental variables and certain populations provide insight into the establishment of practical and successful remediation strategies in radionuclide-contaminated environments with respect to engineering controls and microbial ecology.

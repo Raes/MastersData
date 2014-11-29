@@ -1,0 +1,11 @@
+Comparative metagenomics of bathypelagic plankton and bottom sediment from the Sea of Marmara
+To extend comparative metagenomic analyses of the deep-sea, we produced metagenomic data by direct 454 pyrosequencing from bathypelagic plankton (1000 m depth) and bottom sediment of the Sea of Marmara, the gateway between the Eastern Mediterranean and the Black Seas.
+Data from small subunit ribosomal RNA (SSU rRNA) gene libraries and direct pyrosequencing of the same samples indicated that Gamma- and Alpha-proteobacteria, followed by Bacteroidetes, dominated the bacterial fraction in Marmara deep-sea plankton, whereas Planctomycetes, Delta- and Gamma-proteobacteria were the most abundant groups in high bacterial-diversity sediment.
+Group I Crenarchaeota/Thaumarchaeota dominated the archaeal plankton fraction, although group II and III Euryarchaeota were also present.
+Eukaryotes were highly diverse in SSU rRNA gene libraries, with group I (Duboscquellida) and II (Syndiniales) alveolates and Radiozoa dominating plankton, and Opisthokonta and Alveolates, sediment.
+However, eukaryotic sequences were scarce in pyrosequence data.
+Archaeal amo genes were abundant in plankton, suggesting that Marmara planktonic Thaumarchaeota are ammonia oxidizers.
+Genes involved in sulfate reduction, carbon monoxide oxidation, anammox and sulfatases were over-represented in sediment.
+Genome recruitment analyses showed that Alteromonas macleodii 'surface ecotype', Pelagibacter ubique and Nitrosopumilus maritimus were highly represented in 1000 m-deep plankton.
+A comparative analysis of Marmara metagenomes with ALOHA deep-sea and surface plankton, whale carcasses, Peru subsurface sediment and soil metagenomes clustered deep-sea Marmara plankton with deep-ALOHA plankton and whale carcasses, likely because of the suboxic conditions in the deep Marmara water column.
+The Marmara sediment clustered with the soil metagenome, highlighting the common ecological role of both types of microbial communities in the degradation of organic matter and the completion of biogeochemical cycles.

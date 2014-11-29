@@ -1,0 +1,10 @@
+Ecological succession among iron-oxidizing bacteria
+Despite over 125 years of study, the factors that dictate species dominance in neutrophilic iron-oxidizing bacterial (FeOB) communities remain unknown.
+In a freshwater wetland, we documented a clear ecological succession coupled with niche separation between the helical stalk-forming Gallionellales (for example, Gallionella ferruginea) and tubular sheath-forming Leptothrix ochracea.
+Changes in the iron-seep community were documented using microscopy and cultivation-independent methods.
+Quantification of Fe-oxyhydroxide morphotypes by light microscopy was coupled with species-specific fluorescent in situ hybridization (FISH) probes using a protocol that minimized background fluorescence caused by the Fe-oxyhydroxides.
+Together with scanning electron microscopy, these techniques all indicated that Gallionellales dominated during early spring, with L. ochracea becoming more abundant for the remainder of the year.
+Analysis of tagged pyrosequencing reads of the small subunit ribosomal RNA gene (SSU rRNA) collected during seasonal progression supported a clear Gallionellales to L. ochracea transition, and community structure grouped according to observed dominant FeOB forms.
+Axis of redundancy analysis of physicochemical parameters collected from iron mats during the season, plotted with FeOB abundance, corroborated several field and microscopy-based observations and uncovered several unanticipated relationships.
+On the basis of these relationships, we conclude that the ecological niche of the stalk-forming Gallionellales is in waters with low organic carbon and steep redoxclines, and the sheath-forming L. ochracea is abundant in waters that contain high concentrations of complex organic carbon, high Fe and Mn content and gentle redoxclines.
+Finally, these findings identify a largely unexplored relationship between FeOB and organic carbon.

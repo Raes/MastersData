@@ -1,0 +1,12 @@
+Disentangling the relative influence of bacterioplankton phylogeny and metabolism on lysogeny in reservoirs and lagoons
+Previous studies indicate that lysogeny is preponderant when environmental conditions are challenging for the bacterial communities and when their metabolism is reduced.
+Furthermore, it appears that lysogeny is more frequent within certain bacterial phylogenetic groups.
+In this comparative study from 10 freshwater reservoirs and 10 coastal lagoons, we aim to disentangle the influence of these different factors.
+In eight reservoirs and four lagoons, lysogeny was detected by induction assays with mitomycin C, and induction significantly modified the bacterial community composition (BCC), whereas community composition remained constant in ecosystems in which lysogeny was not observed.
+Among the phylogenetic groups studied, the most abundant ones were Bacteroidetes and alpha-proteobacteria in lagoons, and beta-proteobacteria and Bacteroidetes in reservoirs.
+These dominant groups comprised the highest proportions of inducible lysogens.
+In order to unravel the effects of bacterial metabolism from phylogeny on lysogeny, we measured bacterial community physiology and the specific activities of selected phylogenetic groups.
+The proportion of inducible lysogens within the alpha- and the beta-proteobacteria decreased with increasing group-specific metabolism in lagoons and reservoirs, respectively.
+In contrast, this relationship was not observed for the other lysogen-containing groups.
+Hence, both host physiology and phylogeny are critical for the establishment of lysogeny.
+This study illustrates the importance of lysogeny among the most abundant phylogenetic groups, and further suggests its strong structuring impact on BCC.

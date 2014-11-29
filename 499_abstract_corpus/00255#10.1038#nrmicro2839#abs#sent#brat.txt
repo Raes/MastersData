@@ -1,0 +1,6 @@
+Genomic insights into the marine sponge microbiome
+Marine sponges (phylum Porifera) often contain dense and diverse microbial communities, which can constitute up to 35% of the sponge biomass.
+The genome of one sponge, Amphimedon queenslandica, was recently sequenced, and this has provided new insights into the origins of animal evolution.
+Complementary efforts to sequence the genomes of uncultivated sponge symbionts have yielded the first glimpse of how these intimate partnerships are formed.
+The remarkable microbial and chemical diversity of the sponge-microorganism association, coupled with its postulated antiquity, makes sponges important model systems for the study of metazoan host-microorganism interactions, and their evolution, as well as for enabling access to biotechnologically important symbiont-derived natural products.
+In this Review, we discuss our current understanding of the interactions between marine sponges and their microbial symbiotic consortia, and highlight recent insights into these relationships from genomic studies.

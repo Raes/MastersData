@@ -1,0 +1,10 @@
+Genomic versatility and functional variation between two dominant heterotrophic symbionts of deep-sea Osedax worms
+An unusual symbiosis, first observed at ~3000 m depth in the Monterey Submarine Canyon, involves gutless marine polychaetes of the genus Osedax and intracellular endosymbionts belonging to the order Oceanospirillales.
+Ecologically, these worms and their microbial symbionts have a substantial role in the cycling of carbon from deep-sea whale fall carcasses.
+Microheterogeneity exists among the Osedax symbionts examined so far, and in the present study the genomes of the two dominant symbionts, Rs1 and Rs2, were sequenced.
+The genomes revealed heterotrophic versatility in carbon, phosphate and iron uptake, strategies for intracellular survival, evidence for an independent existence, and numerous potential virulence capabilities.
+The presence of specific permeases and peptidases (of glycine, proline and hydroxyproline), and numerous peptide transporters, suggests the use of degraded proteins, likely originating from collagenous bone matter, by the Osedax symbionts.
+13C tracer experiments confirmed the assimilation of glycine/proline, as well as monosaccharides, by Osedax.
+The Rs1 and Rs2 symbionts are genomically distinct in carbon and sulfur metabolism, respiration, and cell wall composition, among others.
+Differences between Rs1 and Rs2 and phylogenetic analysis of chemotaxis-related genes within individuals of symbiont Rs1 revealed the influence of the relative age of the whale fall environment and support possible local niche adaptation of 'free-living' lifestages.
+Future genomic examinations of other horizontally-propogated intracellular symbionts will likely enhance our understanding of the contribution of intraspecific symbiont diversity to the ecological diversification of the intact association, as well as the maintenance of host diversity.

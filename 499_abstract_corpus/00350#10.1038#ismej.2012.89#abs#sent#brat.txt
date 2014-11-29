@@ -1,0 +1,10 @@
+Ecology of uncultured Prochlorococcus clades revealed through single-cell genomics and biogeographic analysis
+Prochlorococcus is the numerically dominant photosynthetic organism throughout much of the world's oceans, yet little is known about the ecology and genetic diversity of populations inhabiting tropical waters.
+To help close this gap, we examined natural Prochlorococcus communities in the tropical Pacific Ocean using a single-cell whole-genome amplification and sequencing.
+Analysis of the gene content of just 10 single cells from these waters added 394 new genes to the Prochlorococcus pan-genome--that is, genes never before seen in a Prochlorococcus cell.
+Analysis of marker genes, including the ribosomal internal transcribed sequence, from dozens of individual cells revealed several representatives from two uncultivated clades of Prochlorococcus previously identified as HNLC1 and HNLC2.
+While the HNLC clades can dominate Prochlorococcus communities under certain conditions, their overall geographic distribution was highly restricted compared with other clades of Prochlorococcus.
+In the Atlantic and Pacific oceans, these clades were only found in warm waters with low Fe and high inorganic P levels.
+Genomic analysis suggests that at least one of these clades thrives in low Fe environments by scavenging organic-bound Fe, a process previously unknown in Prochlorococcus.
+Furthermore, the capacity to utilize organic-bound Fe appears to have been acquired horizontally and may be exchanged among other clades of Prochlorococcus.
+Finally, one of the single Prochlorococcus cells sequenced contained a partial genome of what appears to be a prophage integrated into the genome.

@@ -1,0 +1,11 @@
+High virus-to-cell ratios indicate ongoing production of viruses in deep subsurface sediments
+Marine sediments cover two-thirds of our planet and harbor huge numbers of living prokaryotes.
+Long-term survival of indigenous microorganisms within the deep subsurface is still enigmatic, as sources of organic carbon are vanishingly small.
+To better understand controlling factors of microbial life, we have analyzed viral abundance within a comprehensive set of globally distributed subsurface sediments.
+Phages were detected by electron microscopy in deep (320 m below seafloor), ancient (~14 Ma old) and the most oligotrophic subsurface sediments of the world's oceans (South Pacific Gyre (SPG)).
+The numbers of viruses (104-109 cm-3, counted by epifluorescence microscopy) generally decreased with sediment depth, but always exceeded the total cell counts.
+The enormous numbers of viruses indicate their impact as a controlling factor for prokaryotic mortality in the marine deep biosphere.
+The virus-to-cell ratios increased in deeper and more oligotrophic layers, exhibiting values of up to 225 in the deep subsurface of the SPG.
+High numbers of phages might be due to absorption onto the sediment matrix and a diminished degradation by exoenzymes.
+However, even in the oldest sediments, microbial communities are capable of maintaining viral populations, indicating an ongoing viral production and thus, viruses provide an independent indicator for microbial life in the marine deep biosphere.
+The ISME Journal advance online publication, 16 January 2014; doi:10.1038/ismej.2013.245

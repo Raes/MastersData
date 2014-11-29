@@ -1,0 +1,8 @@
+AMD biofilms: using model communities to study microbial evolution and ecological complexity in nature
+Similar to virtually all components of natural environments, microbial systems are inherently complex and dynamic.
+Advances in cultivation-independent molecular methods have provided a route to study microbial consortia in their natural surroundings and to begin resolving the community structure, dominant metabolic processes and inter-organism interactions.
+However, the utility of these methods generally scales inversely with community complexity.
+By applying genomics-enabled methods to the study of natural microbial communities with reduced levels of species richness, a relatively comprehensive understanding of the metabolic networks and evolutionary processes within these communities can be attained.
+In such well-defined model systems, it is also possible to link emergent ecological patterns to their molecular and evolutionary underpinnings, facilitating construction of predictive ecosystem models.
+In this study, we review over a decade of research on one such system--acid mine drainage biofilm communities.
+We discuss the value and limitations of tractable model microbial communities in developing molecular methods for microbial ecology and in uncovering principles that may explain behavior in more complex systems.

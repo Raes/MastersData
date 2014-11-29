@@ -1,0 +1,11 @@
+Novel lineages of Prochlorococcus and Synechococcus in the global oceans
+Picocyanobacteria represented by Prochlorococcus and Synechococcus have an important role in oceanic carbon fixation and nutrient cycling.
+In this study, we compared the community composition of picocyanobacteria from diverse marine ecosystems ranging from estuary to open oceans, tropical to polar oceans and surface to deep water, based on the sequences of 16S-23S rRNA internal transcribed spacer (ITS).
+A total of 1339 ITS sequences recovered from 20 samples unveiled diverse and several previously unknown clades of Prochlorococcus and Synechococcus.
+Six high-light (HL)-adapted Prochlorococcus clades were identified, among which clade HLVI had not been described previously.
+Prochlorococcus clades HLIII, HLIV and HLV, detected in the Equatorial Pacific samples, could be related to the HNLC clades recently found in the high-nutrient, low-chlorophyll (HNLC), iron-depleted tropical oceans.
+At least four novel Synechococcus clades (out of six clades in total) in subcluster 5.3 were found in subtropical open oceans and the South China Sea.
+A niche partitioning with depth was observed in the Synechococcus subcluster 5.3.
+Members of Synechococcus subcluster 5.2 were dominant in the high-latitude waters (northern Bering Sea and Chukchi Sea), suggesting a possible cold-adaptation of some marine Synechococcus in this subcluster.
+A distinct shift of the picocyanobacterial community was observed from the Bering Sea to the Chukchi Sea, which reflected the change of water temperature.
+Our study demonstrates that oceanic systems contain a large pool of diverse picocyanobacteria, and further suggest that new genotypes or ecotypes of picocyanobacteria will continue to emerge, as microbial consortia are explored with advanced sequencing technology.

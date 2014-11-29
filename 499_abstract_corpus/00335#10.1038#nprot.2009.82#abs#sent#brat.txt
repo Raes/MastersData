@@ -1,0 +1,8 @@
+Determination of viral production in aquatic sediments using the dilution-based approach
+Viruses are the most abundant and dynamic biological entities in the world's ecosystems.
+Marine sediments, the largest biome in the world, have the potential to represent an optimal environment for viral development.
+To assess the viral effect on their hosts, and to understand the ecological role of the viruses in the benthic food webs and biogeochemical cycles, measurements of benthic viral production are needed.
+Different direct and indirect approaches have been proposed to estimate viral production in aquatic sediments, but a standardized protocol is not available yet.
+The method presented in this protocol relies on the short-time incubations of sediment samples with virus-free seawater, and the subsequent determination of the increase in viral abundance over time by epifluorescence microscopy.
+The protocol described here is highly reliable, inexpensive and easy to use.
+The entire procedure takes approximately 3 days to be completed, but the method allows the parallel processing of several sediment samples, which is recommended in ecological studies.

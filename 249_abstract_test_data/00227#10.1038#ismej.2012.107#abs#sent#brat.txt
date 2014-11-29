@@ -1,0 +1,7 @@
+Photophysiology and albedo-changing potential of the ice algal community on the surface of the Greenland ice sheet
+Darkening of parts of the Greenland ice sheet surface during the summer months leads to reduced albedo and increased melting.
+Here we show that heavily pigmented, actively photosynthesising microalgae and cyanobacteria are present on the bare ice.
+We demonstrate the widespread abundance of green algae in the Zygnematophyceae on the ice sheet surface in Southwest Greenland.
+Photophysiological measurements (variable chlorophyll fluorescence) indicate that the ice algae likely use screening mechanisms to downregulate photosynthesis when exposed to high intensities of visible and ultraviolet radiation, rather than non-photochemical quenching or cell movement.
+Using imaging microspectrophotometry, we demonstrate that intact cells and filaments absorb light with characteristic spectral profiles across ultraviolet and visible wavelengths, whereas inorganic dust particles typical for these areas display little absorption.
+Our results indicate that the phototrophic community growing directly on the bare ice, through their photophysiology, most likely have an important role in changing albedo, and subsequently may impact melt rates on the ice sheet.

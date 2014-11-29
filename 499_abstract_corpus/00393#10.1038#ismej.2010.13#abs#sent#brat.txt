@@ -1,0 +1,10 @@
+Bacteriochlorophyll and community structure of aerobic anoxygenic phototrophic bacteria in a particle-rich estuary
+Photoheterotrophic microbes use organic substrates and light energy to satisfy their demand for carbon and energy and seem to be well adapted to eutrophic estuarine and oligotrophic oceanic environments.
+One type of photoheterotroph, aerobic anoxygenic phototrophic (AAP) bacteria, is especially abundant in particle-rich, turbid estuaries.
+To explore questions regarding the controls of these photoheterotrophic bacteria, we examined their abundance by epifluorescence microscopy, concentrations of the light-harvesting pigment, bacteriochlorophyll a (BChl a) and the diversity of pufM and 16S ribosomal RNA (rRNA) genes in the Chesapeake Bay.
+Concentrations of BChl a varied substantially, much more so than AAP bacterial abundance, along the estuarine salinity gradient.
+The BChl a concentration was correlated with turbidity only when oceanic and estuarine waters were considered together.
+Concentrations of BChl a and BChl a quotas were higher in particle-associated than in free-living AAP bacterial communities and appear to reflect physiological adaptation, not different AAP bacterial communities; pufM genes did not differ between particle-associated and free-living communities.
+In contrast, particle-associated and free-living bacterial communities were significantly different, on the basis of the analysis of 16S rRNA genes.
+The BChl a quota of AAP bacteria was not correlated with turbidity, suggesting that pigment synthesis varies in direct response to particles, not light attenuation.
+The AAP bacteria seem to synthesize more BChl a when dissolved and particulate substrates are available than when only dissolved materials are accessible, which has implications for understanding the impact of substrates on the level of photoheterotrophy compared with heterotrophy in AAP bacteria.

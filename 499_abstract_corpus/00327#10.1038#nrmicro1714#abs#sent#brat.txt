@@ -1,0 +1,6 @@
+Visualization, modelling and prediction in soil microbiology
+The introduction of new approaches for characterizing microbial communities and imaging soil environments has benefited soil microbiology by providing new ways of detecting and locating microorganisms.
+Consequently, soil microbiology is poised to progress from simply cataloguing microbial complexity to becoming a systems science.
+A systems approach will enable the structures of microbial communities to be characterized and will inform how microbial communities affect soil function.
+Systems approaches require accurate analyses of the spatio-temporal properties of the different microenvironments present in soil.
+In this Review we advocate the need for the convergence of the experimental and theoretical approaches that are used to characterize and model the development of microbial communities in soils.

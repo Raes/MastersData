@@ -1,0 +1,9 @@
+Linking phylogenetic and functional diversity to nutrient spiraling in microbial mats from Lower Kane Cave (USA)
+Microbial mats in sulfidic cave streams offer unique opportunities to study redox-based biogeochemical nutrient cycles.
+Previous work from Lower Kane Cave, Wyoming, USA, focused on the aerobic portion of microbial mats, dominated by putative chemolithoautotrophic, sulfur-oxidizing groups within the Epsilonproteobacteria and Gammaproteobacteria.
+To evaluate nutrient cycling and turnover within the whole mat system, a multidisciplinary strategy was used to characterize the anaerobic portion of the mats, including application of the full-cycle rRNA approach, the most probable number method, and geochemical and isotopic analyses.
+Seventeen major taxonomic bacterial groups and one archaeal group were retrieved from the anaerobic portions of the mats, dominated by Deltaproteobacteria and uncultured members of the Chloroflexi phylum.
+A nutrient spiraling model was applied to evaluate upstream to downstream changes in microbial diversity based on carbon and sulfur nutrient concentrations.
+Variability in dissolved sulfide concentrations was attributed to changes in the abundance of sulfide-oxidizing microbial groups and shifts in the occurrence and abundance of sulfate-reducing microbes.
+Gradients in carbon and sulfur isotopic composition indicated that released and recycled byproduct compounds from upstream microbial activities were incorporated by downstream communities.
+On the basis of the type of available chemical energy, the variability of nutrient species in a spiraling model may explain observed differences in microbial taxonomic affiliations and metabolic functions, thereby spatially linking microbial diversity to nutrient spiraling in the cave stream ecosystem.

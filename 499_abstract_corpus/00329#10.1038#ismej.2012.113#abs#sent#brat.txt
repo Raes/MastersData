@@ -1,0 +1,11 @@
+Pre-exposure to drought increases the resistance of tropical forest soil bacterial communities to extended drought
+Global climate models project a decrease in the magnitude of precipitation in tropical regions.
+Changes in rainfall patterns have important implications for the moisture content and redox status of tropical soils, yet little is known about how these changes may affect microbial community structure.
+Specifically, does exposure to prior stress confer increased resistance to subsequent perturbation?
+Here we reduced the quantity of precipitation throughfall to tropical forest soils in the Luquillo Mountains, Puerto Rico.
+Treatments included newly established throughfall exclusion plots (de novo excluded), plots undergoing reduction for a second time (pre-excluded) and ambient control plots.
+Ten months of throughfall exclusion led to a small but statistically significant decline in soil water potential and bacterial populations clearly adapted to increased osmotic stress.
+Although the water potential decline was small and microbial biomass did not change, phylogenetic diversity in the de novo-excluded plots decreased by ~40% compared with the control plots, yet pre-excluded plots showed no significant change.
+On the other hand, the relative abundances of bacterial taxa in both the de novo-excluded and pre-excluded plots changed significantly with throughfall exclusion compared with control plots.
+Changes in bacterial community structure could be explained by changes in soil pore water chemistry and suggested changes in soil redox.
+Soluble iron declined in treatment plots and was correlated with decreased soluble phosphorus concentrations, which may have significant implications for microbial productivity in these P-limited systems.

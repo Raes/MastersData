@@ -1,0 +1,7 @@
+Locations of marine animals revealed by carbon isotopes
+Knowing the distribution of marine animals is central to understanding climatic and other environmental influences on population ecology.
+This information has proven difficult to gain through capture-based methods biased by capture location.
+Here we show that marine location can be inferred from animal tissues.
+As the carbon isotope composition of animal tissues varies with sea surface temperature, marine location can be identified by matching time series of carbon isotopes measured in tissues to sea surface temperature records.
+Applying this technique to populations of Atlantic salmon (Salmo salar L.) produces isotopically-derived maps of oceanic feeding grounds, consistent with the current understanding of salmon migrations, that additionally reveal geographic segregation in feeding grounds between individual philopatric populations and age-classes.
+Carbon isotope ratios can be used to identify the location of open ocean feeding grounds for any pelagic animals for which tissue archives and matching records of sea surface temperature are available.

@@ -1,0 +1,11 @@
+Looking inside the box: using Raman microspectroscopy to deconstruct microbial biomass stoichiometry one cell at a time
+Stoichiometry of microbial biomass is a key determinant of nutrient recycling in a wide variety of ecosystems.
+However, little is known about the underlying causes of variance in microbial biomass stoichiometry.
+This is primarily because of technological constraints limiting the analysis of macromolecular composition to large quantities of microbial biomass.
+Here, we use Raman microspectroscopy (MS), to analyze the macromolecular composition of single cells of two species of bacteria grown on minimal media over a wide range of resource stoichiometry.
+We show that macromolecular composition, determined from a subset of identified peaks within the Raman spectra, was consistent with macromolecular composition determined using traditional analytical methods.
+In addition, macromolecular composition determined by Raman MS correlated with total biomass stoichiometry, indicating that analysis with Raman MS included a large proportion of a cell's total macromolecular composition.
+Growth phase (logarithmic or stationary), resource stoichiometry and species identity each influenced each organism's macromolecular composition and thus biomass stoichiometry.
+Interestingly, the least variable peaks in the Raman spectra were those responsible for differentiation between species, suggesting a phylogenetically specific cellular architecture.
+As Raman MS has been previously shown to be applicable to cells sampled directly from complex environments, our results suggest Raman MS is an extremely useful application for evaluating the biomass stoichiometry of environmental microorganisms.
+This includes the ability to partition microbial biomass into its constituent macromolecules and increase our understanding of how microorganisms in the environment respond to resource heterogeneity.

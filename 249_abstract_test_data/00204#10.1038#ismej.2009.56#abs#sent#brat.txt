@@ -1,0 +1,6 @@
+Can the black box be cracked?
+The augmentation of microbial ecology by high-resolution, automated sensing technologies
+Automated sensing technologies, 'ASTs,' are tools that can monitor environmental or microbial-related variables at increasingly high temporal resolution.
+Microbial ecologists are poised to use AST data to couple microbial structure, function and associated environmental observations on temporal scales pertinent to microbial processes.
+In the context of aquatic microbiology, we discuss three applications of ASTs: windows on the microbial world, adaptive sampling and adaptive management.
+We challenge microbial ecologists to push AST potential in helping to reveal relationships between microbial structure and function.

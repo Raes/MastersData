@@ -1,0 +1,8 @@
+Strain-specific functional and numerical responses are required to evaluate impacts on predator-prey dynamics
+We use strains recently collected from the field to establish cultures; then, through laboratory studies we investigate how among strain variation in protozoan ingestion and growth rates influences population dynamics and intraspecific competition.
+We focused on the impact of changing temperature because of its well-established effects on protozoan rates and its ecological relevance, from daily fluctuations to climate change.
+We show, first, that there is considerable inter-strain variability in thermal sensitivity of maximum growth rate, revealing distinct differences among multiple strains of our model species Oxyrrhis marina.
+We then intensively examined two representative strains that exhibit distinctly different thermal responses and parameterised the influence of temperature on their functional and numerical responses.
+Finally, we assessed how these responses alter predator-prey population dynamics.
+We do this first considering a standard approach, which assumes that functional and numerical responses are directly coupled, and then compare these results with a novel framework that incorporates both functional and numerical responses in a fully parameterised model.
+We conclude that: (i) including functional diversity of protozoa at the sub-species level will alter model predictions and (ii) including directly measured, independent functional and numerical responses in a model can provide a more realistic account of predator-prey dynamics.

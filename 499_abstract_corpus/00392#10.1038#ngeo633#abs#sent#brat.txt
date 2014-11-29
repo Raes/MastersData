@@ -1,0 +1,10 @@
+The cycling and redox state of nitrogen in the Archaean ocean
+Organisms that produce oxygen through photosynthesis existed during the late Archaean eon, about 2,500 million years ago, but controversial evidence suggests that they may have evolved several hundred million years earlier.
+Oxygen is expected to react with oceanic nitrogen, altering its redox state.
+The reaction leaves a signature in the isotopic composition of the nitrogen bound in organic matter.
+Here we present a record of the nitrogen isotopic composition of kerogen extracted from minimally altered shales from the Campbellrand-Malmani platform in South Africa.
+Between the Palaeo-Archaean and about 2,670 million years ago, the delta15N values of the kerogen rose by about 2/1000.
+We interpret this increase as an indication of the onset of coupled nitrification and denitrification or anammox reactions in the surface oceans, which require the presence of free oxygen.
+A second increase in nitrogen isotopic composition around 2,520 million years ago implies instability of the N cycle with loss of fixed N.
+This evidence for available oxygen in the oceans occurs at least 200 million years before geochemical indications of the presence of significant levels of atmospheric oxygen.
+We suggest that coupled nitrification and denitrification drove the loss of fixed inorganic nitrogen, leading to nitrogen limitation, and conclude that the low levels of biologically available nitrogen limited the growth of oxygen-producing plankton, delaying the accumulation of oxygen in the atmosphere.

@@ -1,0 +1,8 @@
+Cascading ecological effects of eliminating fishery discards
+Discarding by fisheries is perceived as contrary to responsible harvesting.
+Legislation seeking to end the practice is being introduced in many jurisdictions.
+However, discarded fish are food for a range of scavenging species; so, ending discarding may have ecological consequences.
+Here we investigate the sensitivity of ecological effects to discarding policies using an ecosystem model of the North Sea--a region where 30-40% of trawled fish catch is currently discarded.
+We show that landing the entire catch while fishing as usual has conservation penalties for seabirds, marine mammals and seabed fauna, and no benefit to fish stocks.
+However, combining landing obligations with changes in fishing practices to limit the capture of unwanted fish results in trophic cascades that can benefit birds, mammals and most fish stocks.
+Our results highlight the importance of considering the broader ecosystem consequences of fishery management policy, since species interactions may dissipate or negate intended benefits.

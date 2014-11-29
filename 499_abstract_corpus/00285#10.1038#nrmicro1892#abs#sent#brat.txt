@@ -1,0 +1,6 @@
+The ecology and biotechnology of sulphate-reducing bacteria
+Sulphate-reducing bacteria (SRB) are anaerobic microorganisms that use sulphate as a terminal electron acceptor in, for example, the degradation of organic compounds.
+They are ubiquitous in anoxic habitats, where they have an important role in both the sulphur and carbon cycles.
+SRB can cause a serious problem for industries, such as the offshore oil industry, because of the production of sulphide, which is highly reactive, corrosive and toxic.
+However, these organisms can also be beneficial by removing sulphate and heavy metals from waste streams.
+Although SRB have been studied for more than a century, it is only with the recent emergence of new molecular biological and genomic techniques that we have begun to obtain detailed information on their way of life.

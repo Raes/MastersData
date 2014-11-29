@@ -1,0 +1,14 @@
+Genome sequencing of a single cell of the widely distributed marine subsurface Dehalococcoidia, phylum Chloroflexi
+Bacteria of the class Dehalococcoidia (DEH), phylum Chloroflexi, are widely distributed in the marine subsurface, yet metabolic properties of the many uncultivated lineages are completely unknown.
+This study therefore analysed genomic content from a single DEH cell designated 'DEH-J10' obtained from the sediments of Aarhus Bay, Denmark.
+Real-time PCR showed the DEH-J10 phylotype was abundant in upper sediments but was absent below 160 cm below sea floor.
+A 1.44 Mbp assembly was obtained and was estimated to represent up to 60.8% of the full genome.
+The predicted genome is much larger than genomes of cultivated DEH and appears to confer metabolic versatility.
+Numerous genes encoding enzymes of core and auxiliary beta-oxidation pathways were identified, suggesting that this organism is capable of oxidising various fatty acids and/or structurally related substrates.
+Additional substrate versatility was indicated by genes, which may enable the bacterium to oxidise aromatic compounds.
+Genes encoding enzymes of the reductive acetyl-CoA pathway were identified, which may also enable the fixation of CO2 or oxidation of organics completely to CO2.
+Genes encoding a putative dimethylsulphoxide reductase were the only evidence for a respiratory terminal reductase.
+No evidence for reductive dehalogenase genes was found.
+Genetic evidence also suggests that the organism could synthesise ATP by converting acetyl-CoA to acetate by substrate-level phosphorylation.
+Other encoded enzymes putatively conferring marine adaptations such as salt tolerance and organo-sulphate sulfohydrolysis were identified.
+Together, these analyses provide the first insights into the potential metabolic traits that may enable members of the DEH to occupy an ecological niche in marine sediments.

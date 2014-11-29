@@ -1,0 +1,10 @@
+Contribution of sea surface carbon pool to organic matter enrichment in sea spray aerosol
+Breaking waves on the ocean surface generate air bubbles that scavenge organic matter from the surrounding sea water.
+When injected into the atmosphere, these bubbles burst, yielding sea spray aerosols enriched in organic matter, relative to the sea water.
+Downwind of plankton blooms, the organic carbon content of sea spray aerosol is weakly correlated with satellite-derived measurements of chlorophyll a levels, a measure of phytoplankton biomass.
+This correlation has been used in large-scale models to calculate the organic enrichment in sea spray aerosol.
+Here, we assess the relationship between the organic carbon content of sea water and freshly emitted sea spray aerosol in the presence and absence of plankton blooms in the North Atlantic Ocean and the coastal waters of California.
+The organic carbon content of freshly emitted sea spray aerosol was similar in all regions sampled, despite significant differences in seawater chlorophyll a levels.
+The proportion of freshly emitted aerosols that served as cloud condensation nuclei at a given supersaturation was also similar across sampling sites.
+The large reservoir of organic carbon in surface sea water remained relatively constant across the regions sampled, and independent of variations in chlorophyll a concentrations.
+We suggest that this reservoir is responsible for the organic carbon enrichment of freshly emitted sea spray aerosol, overwhelming any influence of local biological activity as measured by chlorophyll a levels.

@@ -1,0 +1,9 @@
+Transcriptomic analysis of a marine bacterial community enriched with dimethylsulfoniopropionate
+Dimethylsulfoniopropionate (DMSP) is an important source of reduced sulfur and carbon for marine microbial communities, as well as the precursor of the climate-active gas dimethylsulfide (DMS).
+In this study, we used metatranscriptomic sequencing to analyze gene expression profiles of a bacterial assemblage from surface waters at the Bermuda Atlantic Time-series Study (BATS) station with and without a short-term enrichment of DMSP (25 nM for 30 min).
+An average of 303 143 reads were obtained per treatment using 454 pyrosequencing technology, of which 51% were potential protein-encoding sequences.
+Transcripts from Gammaproteobacteria and Bacteroidetes increased in relative abundance on DMSP addition, yet there was little change in the contribution of two bacterioplankton groups whose cultured members harbor known DMSP degradation genes, Roseobacter and SAR11.
+The DMSP addition led to an enrichment of transcripts supporting heterotrophic activity, and a depletion of those encoding light-related energy generation.
+Genes for the degradation of C3 compounds were significantly overrepresented after DMSP addition, likely reflecting the metabolism of the C3 component of DMSP.
+Mapping these transcripts to known biochemical pathways indicated that both acetyl-CoA and succinyl-CoA may be common entry points of this moiety into the tricarboxylic acid cycle.
+In a short time frame (30 min) in the extremely oligotrophic Sargasso Sea, different gene expression patterns suggest the use of DMSP by a diversity of marine bacterioplankton as both carbon and sulfur sources.

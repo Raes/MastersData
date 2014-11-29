@@ -1,0 +1,11 @@
+Identity of epibiotic bacteria on symbiontid euglenozoans in O2-depleted marine sediments: evidence for symbiont and host co-evolution
+A distinct subgroup of euglenozoans, referred to as the 'Symbiontida,' has been described from oxygen-depleted and sulfidic marine environments.
+By definition, all members of this group carry epibionts that are intimately associated with underlying mitochondrion-derived organelles beneath the surface of the hosts.
+We have used molecular phylogenetic and ultrastructural evidence to identify the rod-shaped epibionts of the two members of this group, Calkinsia aureus and B.bacati, hand-picked from the sediments of two separate oxygen-depleted, sulfidic environments.
+We identify their epibionts as closely related sulfur or sulfide-oxidizing members of the epsilon proteobacteria.
+The epsilon proteobacteria generally have a significant role in deep-sea habitats as primary colonizers, primary producers and/or in symbiotic associations.
+The epibionts likely fulfill a role in detoxifying the immediate surrounding environment for these two different hosts.
+The nearly identical rod-shaped epibionts on these two symbiontid hosts provides evidence for a co-evolutionary history between these two sets of partners.
+This hypothesis is supported by congruent tree topologies inferred from 18S and 16S rDNA from the hosts and bacterial epibionts, respectively.
+The eukaryotic hosts likely serve as a motile substrate that delivers the epibionts to the ideal locations with respect to the oxic/anoxic interface, whereby their growth rates can be maximized, perhaps also allowing the host to cultivate a food source.
+Because symbiontid isolates and additional small subunit rDNA gene sequences from this clade have now been recovered from many locations worldwide, the Symbiontida are likely more widespread and diverse than presently known.

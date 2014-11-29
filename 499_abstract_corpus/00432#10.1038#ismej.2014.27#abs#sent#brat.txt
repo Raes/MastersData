@@ -1,0 +1,12 @@
+Secondary metabolite gene expression and interplay of bacterial functions in a tropical freshwater cyanobacterial bloom
+Cyanobacterial harmful algal blooms (cyanoHABs) appear to be increasing in frequency on a global scale.
+The Cyanobacteria in blooms can produce toxic secondary metabolites that make freshwater dangerous for drinking and recreation.
+To characterize microbial activities in a cyanoHAB, transcripts from a eutrophic freshwater reservoir in Singapore were sequenced for six samples collected over one day-night period.
+Transcripts from the Cyanobacterium Microcystis dominated all samples and were accompanied by at least 533 genera primarily from the Cyanobacteria, Proteobacteria, Bacteroidetes and Actinobacteria.
+Within the Microcystis population, abundant transcripts were from genes for buoyancy, photosynthesis and synthesis of the toxin microviridin, suggesting that these are necessary for competitive dominance in the Reservoir.
+During the day, Microcystis transcripts were enriched in photosynthesis and energy metabolism while at night enriched pathways included DNA replication and repair and toxin biosynthesis.
+Microcystis was the dominant source of transcripts from polyketide and non-ribosomal peptide synthase (PKS and NRPS, respectively) gene clusters.
+Unexpectedly, expression of all PKS/NRPS gene clusters, including for the toxins microcystin and aeruginosin, occurred throughout the day-night cycle.
+The most highly expressed PKS/NRPS gene cluster from Microcystis is not associated with any known product.
+The four most abundant phyla in the reservoir were enriched in different functions, including photosynthesis (Cyanobacteria), breakdown of complex organic molecules (Proteobacteria), glycan metabolism (Bacteroidetes) and breakdown of plant carbohydrates, such as cellobiose (Actinobacteria).
+These results provide the first estimate of secondary metabolite gene expression, functional partitioning and functional interplay in a freshwater cyanoHAB.

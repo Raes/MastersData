@@ -1,0 +1,10 @@
+The metatranscriptome of a deep-sea hydrothermal plume is dominated by water column methanotrophs and lithotrophs
+Microorganisms mediate geochemical processes in deep-sea hydrothermal vent plumes, which are a conduit for transfer of elements and energy from the subsurface to the oceans.
+Despite this important microbial influence on marine geochemistry, the ecology and activity of microbial communities in hydrothermal plumes is largely unexplored.
+Here, we use a coordinated metagenomic and metatranscriptomic approach to compare microbial communities in Guaymas Basin hydrothermal plumes to background waters above the plume and in the adjacent Carmen Basin.
+Despite marked increases in plume total RNA concentrations (3-4 times) and microbially mediated manganese oxidation rates (15-125 times), plume and background metatranscriptomes were dominated by the same groups of methanotrophs and chemolithoautotrophs.
+Abundant community members of Guaymas Basin seafloor environments (hydrothermal sediments and chimneys) were not prevalent in the plume metatranscriptome.
+De novo metagenomic assembly was used to reconstruct genomes of abundant populations, including Marine Group I archaea, Methylococcaceae, SAR324 Deltaproteobacteria and SUP05 Gammaproteobacteria.
+Mapping transcripts to these genomes revealed abundant expression of genes involved in the chemolithotrophic oxidation of ammonia (amo), methane (pmo) and sulfur (sox).
+Whereas amo and pmo gene transcripts were abundant in both plume and background, transcripts of sox genes for sulfur oxidation from SUP05 groups displayed a 10-20-fold increase in plumes.
+We conclude that the biogeochemistry of Guaymas Basin hydrothermal plumes is mediated by microorganisms that are derived from seawater rather than from seafloor hydrothermal environments such as chimneys or sediments, and that hydrothermal inputs serve as important electron donors for primary production in the deep Gulf of California.

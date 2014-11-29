@@ -1,0 +1,10 @@
+Dispersal of thermophilic Desulfotomaculum endospores into Baltic Sea sediments over thousands of years
+Patterns of microbial biogeography result from a combination of dispersal, speciation and extinction, yet individual contributions exerted by each of these mechanisms are difficult to isolate and distinguish.
+The influx of endospores of thermophilic microorganisms to cold marine sediments offers a natural model for investigating passive dispersal in the ocean.
+We investigated the activity, diversity and abundance of thermophilic endospore-forming sulfate-reducing bacteria (SRB) in Aarhus Bay by incubating pasteurized sediment between 28 and 85 degreesC, and by subsequent molecular diversity analyses of 16S rRNA and of the dissimilatory (bi)sulfite reductase (dsrAB) genes within the endospore-forming SRB genus Desulfotomaculum.
+The thermophilic Desulfotomaculum community in Aarhus Bay sediments consisted of at least 23 species-level 16S rRNA sequence phylotypes.
+In two cases, pairs of identical 16S rRNA and dsrAB sequences in Arctic surface sediment 3000 km away showed that the same phylotypes are present in both locations.
+Radiotracer-enhanced most probable number analysis revealed that the abundance of endospores of thermophilic SRB in Aarhus Bay sediment was ca. 104 per cm3 at the surface and decreased exponentially to 100 per cm3 at 6.5 m depth, corresponding to 4500 years of sediment age.
+Thus, a half-life of ca. 300 years was estimated for the thermophilic SRB endospores deposited in Aarhus Bay sediments.
+These endospores were similarly detected in the overlying water column, indicative of passive dispersal in water masses preceding sedimentation.
+The sources of these thermophiles remain enigmatic, but at least one source may be common to both Aarhus Bay and Arctic sediments.

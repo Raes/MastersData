@@ -1,0 +1,10 @@
+Habitat stress initiates changes in composition, CO2 gas exchange and C-allocation as life traits in biological soil crusts
+Biological soil crusts (BSC) are the dominant functional vegetation unit in some of the harshest habitats in the world.
+We assessed BSC response to stress through changes in biotic composition, CO2 gas exchange and carbon allocation in three lichen-dominated BSC from habitats with different stress levels, two more extreme sites in Antarctica and one moderate site in Germany.
+Maximal net photosynthesis (NP) was identical, whereas the water content to achieve maximal NP was substantially lower in the Antarctic sites, this apparently being achieved by changes in biomass allocation.
+Optimal NP temperatures reflected local climate.
+The Antarctic BSC allocated fixed carbon (tracked using 14CO2) mostly to the alcohol soluble pool (low-molecular weight sugars, sugar alcohols), which has an important role in desiccation and freezing resistance and antioxidant protection.
+In contrast, BSC at the moderate site showed greater carbon allocation into the polysaccharide pool, indicating a tendency towards growth.
+The results indicate that the BSC of the more stressed Antarctic sites emphasise survival rather than growth.
+Changes in BSC are adaptive and at multiple levels and we identify benefits and risks attached to changing life traits, as well as describing the ecophysiological mechanisms that underlie them.
+The ISME Journal advance online publication, 3 April 2014; doi:10.1038/ismej.2014.47

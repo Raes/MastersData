@@ -1,0 +1,6 @@
+Advection shapes Southern Ocean microbial assemblages independent of distance and environment effects
+Although environmental selection and spatial separation have been shown to shape the distribution and abundance of marine microorganisms, the effects of advection (physical transport) have not been directly tested.
+Here we examine 25 samples covering all major water masses of the Southern Ocean to determine the effects of advection on microbial biogeography.
+Even when environmental factors and spatial separation are controlled for, there is a positive correlation between advection distance and taxonomic dissimilarity, indicating that an 'advection effect' has a role in shaping marine microbial community composition.
+This effect is likely due to the advection of cells increasing the probability that upstream microorganisms will colonize downstream sites.
+Our study shows that in addition to distance and environmental selection, advection shapes the composition of marine microbial communities.

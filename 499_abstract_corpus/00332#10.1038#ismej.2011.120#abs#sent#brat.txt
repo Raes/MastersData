@@ -1,0 +1,11 @@
+Degradation of cyanobacterial biomass in anoxic tidal-flat sediments: a microcosm study of metabolic processes and community changes
+To follow the anaerobic degradation of organic matter in tidal-flat sediments, a stimulation experiment with 13C-labeled Spirulina biomass (130 mg per 21 g sediment slurry) was conducted over a period of 24 days.
+A combination of microcalorimetry to record process kinetics, chemical analyses of fermentation products and RNA-based stable-isotope probing (SIP) to follow community changes was applied.
+Different degradation phases could be identified by microcalorimetry: Within 2 days, heat output reached its maximum (55 muW), while primary fermentation products were formed (in mumol) as follows: acetate 440, ethanol 195, butyrate 128, propionate 112, H2 127 and smaller amounts of valerate, propanol and butanol.
+Sulfate was depleted within 7 days.
+Thereafter, methanogenesis was observed and secondary fermentation proceeded.
+H2 and alcohols disappeared completely, whereas fatty acids decreased in concentration.
+Three main degraders were identified by RNA-based SIP and denaturant gradient gel electrophoresis.
+After 12 h, two phylotypes clearly enriched in 13C: (i) Psychrilyobacter atlanticus, a fermenter known to produce hydrogen and acetate and (ii) bacteria distantly related to Propionigenium.
+A Cytophaga-related bacterium was highly abundant after day 3.
+Sulfate reduction appeared to be performed by incompletely oxidizing species, as only sulfate-reducing bacteria related to Desulfovibrio were labeled as long as sulfate was available.

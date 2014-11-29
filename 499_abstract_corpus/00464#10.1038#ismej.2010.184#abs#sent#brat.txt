@@ -1,0 +1,10 @@
+Abundances and potential activities of nitrogen cycling microbial communities along a chronosequence of a glacier forefield
+Glacier forefields are ideal ecosystems to study the development of nutrient cycles as well as single turnover processes during soil development.
+In this study, we examined the ecology of the microbial nitrogen (N) cycle in bulk soil samples from a chronosequence of the Damma glacier, Switzerland.
+Major processes of the N cycle were reconstructed on the genetic as well as the potential enzyme activity level at sites of the chronosequence that have been ice-free for 10, 50, 70, 120 and 2000 years.
+In our study, we focused on N fixation, mineralization (chitinolysis and proteolysis), nitrification and denitrification.
+Our results suggest that mineralization, mainly the decomposition of deposited organic material, was the main driver for N turnover in initial soils, that is, ice-free for 10 years.
+Transient soils being ice-free for 50 and 70 years were characterized by a high abundance of N fixing microorganisms.
+In developed soils, ice-free for 120 and 2000 years, significant rates of nitrification and denitrification were measured.
+Surprisingly, copy numbers of the respective functional genes encoding the corresponding enzymes were already high in the initial phase of soil development.
+This clearly indicates that the genetic potential is not the driver for certain functional traits in the initial phase of soil formation but rather a well-balanced expression of the respective genes coding for selected functions.

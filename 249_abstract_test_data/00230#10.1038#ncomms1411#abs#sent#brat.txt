@@ -1,0 +1,6 @@
+Dust inputs and bacteria influence dissolved organic matter in clear alpine lakes
+Remote lakes are usually unaffected by direct human influence, yet they receive inputs of atmospheric pollutants, dust, and other aerosols, both inorganic and organic.
+In remote, alpine lakes, these atmospheric inputs may influence the pool of dissolved organic matter, a critical constituent for the biogeochemical functioning of aquatic ecosystems.
+Here, to assess this influence, we evaluate factors related to aerosol deposition, climate, catchment properties, and microbial constituents in a global dataset of 86 alpine and polar lakes.
+We show significant latitudinal trends in dissolved organic matter quantity and quality, and uncover new evidence that this geographic pattern is influenced by dust deposition, flux of incident ultraviolet radiation, and bacterial processing.
+Our results suggest that changes in land use and climate that result in increasing dust flux, ultraviolet radiation, and air temperature may act to shift the optical quality of dissolved organic matter in clear, alpine lakes.

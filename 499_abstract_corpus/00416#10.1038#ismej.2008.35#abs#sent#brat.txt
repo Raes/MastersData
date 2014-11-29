@@ -1,0 +1,11 @@
+Prophages in marine bacteria: dangerous molecular time bombs or the key to survival in the seas?
+Bacteriophages are realized to be numerous and important components of oceanic food webs principally because of their lytic capabilities.
+The subtle changes that temperate phages impart to their hosts in the oceans are far less understood.
+Occurrences of lysogeny in the oceans correlate well with conditions unfavorable for rapid host growth.
+In coliphage lambda, phage encoded repressors have been shown to modulate host metabolic gene expression and phenotype, resulting in economizing host energy expenditure.
+Comparison of lysogenized marine bacteria to the uninfected hosts indicated that prophage acquisition is correlated with host metabolic gene suppression.
+Screening 113 marine bacterial genomes for prophages yielded 64 prophage-like elements, 21 of which strongly resembled gene transfer agents (GTAs).
+The remaining 39 putative prophages had a relatively high incidence of transcriptional regulatory and repressor-like proteins (~2/40 kb prophage sequence) compared to lytic marine phages (~0.25/40 kb phage sequence).
+Here, it has been hypothesized that marine prophages directly contribute to host survival in unfavorable environments by suppression of unneeded metabolic activities.
+It has been further suggested that such metabolic downshifts are the result of phage-encoded repressors and transcriptional regulators acting directly on host genes.
+Finally, the widespread occurrence of GTAs may be an efficient mechanism for horizontal gene transfer in the oceans.

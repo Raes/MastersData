@@ -1,0 +1,10 @@
+Methylation of inorganic mercury in polar marine waters
+Monomethylmercury is a neurotoxin that accumulates in marine organisms, with serious implications for human health.
+The toxin is of particular concern to northern Inuit peoples, for example, whose traditional diets are composed primarily of marine mammals and fish.
+The ultimate source of monomethylmercury to marine organisms has remained uncertain, although various potential sources have been proposed, including export from coastal and deep-sea sediments and major river systems, atmospheric deposition and water-column production.
+Here, we report results from incubation experiments in which we added isotopically labelled inorganic mercury and monomethylmercury to seawater samples collected from a range of sites in the Canadian Arctic Archipelago.
+Monomethylmercury formed from the methylation of inorganic mercury in all samples.
+Demethylation of monomethylmercury was also observed in water from all sites.
+We determined steady-state concentrations of monomethylmercury in marine waters by incorporating the rate constants for monomethylmercury formation and degradation derived from these experiments into a numerical model.
+We estimate that the conversion of inorganic mercury to monomethylmercury in the water column accounts for around 47% (+/-62%, standard deviation) of the monomethylmercury present in polar marine waters, with site-to-site differences in inorganic mercury and monomethylmercury levels accounting for most of the variability.
+We suggest that water-column methylation of inorganic mercury is a significant source of monomethylmercury in pelagic marine food webs in the Arctic, and possibly in the world's oceans in general.

@@ -1,0 +1,8 @@
+Microbial life in the Lake Medee, the largest deep-sea salt-saturated formation
+Deep-sea hypersaline anoxic lakes (DHALs) of the Eastern Mediterranean represent some of the most hostile environments on our planet.
+We investigated microbial life in the recently discovered Lake Medee, the largest DHAL found to-date.
+Medee has two unique features: a complex geobiochemical stratification and an absence of chemolithoautotrophic Epsilonproteobacteria, which usually play the primary role in dark bicarbonate assimilation in DHALs interfaces.
+Presumably because of these features, Medee is less productive and exhibits reduced diversity of autochthonous prokaryotes in its interior.
+Indeed, the brine community almost exclusively consists of the members of euryarchaeal MSBL1 and bacterial KB1 candidate divisions.
+Our experiments utilizing cultivation and [14C]-assimilation, showed that these organisms at least partially rely on reductive cleavage of osmoprotectant glycine betaine and are engaged in trophic cooperation.
+These findings provide novel insights into how prokaryotic communities can adapt to salt-saturated conditions and sustain active metabolism at the thermodynamic edge of life.

@@ -1,0 +1,6 @@
+Adjustment of microbial nitrogen use efficiency to carbon:nitrogen imbalances regulates soil nitrogen cycling
+Microbial nitrogen use efficiency (NUE) describes the partitioning of organic N taken up between growth and the release of inorganic N to the environment (that is, N mineralization), and is thus central to our understanding of N cycling.
+Here we report empirical evidence that microbial decomposer communities in soil and plant litter regulate their NUE.
+We find that microbes retain most immobilized organic N (high NUE), when they are N limited, resulting in low N mineralization.
+However, when the metabolic control of microbial decomposers switches from N to C limitation, they release an increasing fraction of organic N as ammonium (low NUE).
+We conclude that the regulation of NUE is an essential strategy of microbial communities to cope with resource imbalances, independent of the regulation of microbial carbon use efficiency, with significant effects on terrestrial N cycling.

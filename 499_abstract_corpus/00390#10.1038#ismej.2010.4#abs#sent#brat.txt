@@ -1,0 +1,10 @@
+Comparative metaproteomics reveals ocean-scale shifts in microbial nutrient utilization and energy transduction
+Bacteria and Archaea play critical roles in marine energy fluxes and nutrient cycles by incorporating and redistributing dissolved organic matter and inorganic nutrients in the oceans.
+How these microorganisms do this work at the level of the expressed protein is known only from a few studies of targeted lineages.
+We used comparative membrane metaproteomics to identify functional responses of communities to different nutrient concentrations on an oceanic scale.
+Comparative analyses of microbial membrane fractions revealed shifts in nutrient utilization and energy transduction along an environmental gradient in South Atlantic surface waters, from a low-nutrient gyre to a highly productive coastal upwelling region.
+The dominant membrane proteins identified (19%) were TonB-dependent transporters (TBDTs), which are known to utilize a proton motive force to transport nutrients across the outer membrane of Gram-negative bacteria.
+The ocean-wide importance of TonB-dependent nutrient acquisition in marine bacteria was unsuspected.
+Diverse light-harvesting rhodopsins were detected in membrane proteomes from every sample.
+Proteomic evidence of both TBDTs and rhodopsins in the same lineages suggest that phototrophic bacterioplankton have the potential to use energy from light to fuel transport activities.
+We also identified viral proteins in every sample and archaeal ammonia monooxygenase proteins in the upwelling region, suggesting that Archaea are important nitrifiers in nutrient-rich surface waters.

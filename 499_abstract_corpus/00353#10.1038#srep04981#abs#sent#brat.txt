@@ -1,0 +1,9 @@
+Microbial degradation of terrigenous dissolved organic matter and potential consequences for carbon cycling in brown-water streams
+Streams receive substantial terrestrial deliveries of dissolved organic matter (DOM).
+The chromophoric (CDOM) fraction of terrestrial deliveries confers the brown colour to streamwater, often understood as browning, and plays a central role in aquatic photochemistry and is generally considered resistant to microbial metabolism.
+To assess the relevance of terrigenous DOM for carbon fluxes mediated by stream microorganisms, we determined the bioavailable fraction of DOM and microbial carbon use efficiency (CUE), and related these measures to partial pressure of CO2 in headwater streams spanning across a browning gradient.
+Fluorescence and absorbance analyses revealed high molecular weight and aromaticity, and elevated contributions from humic-like components to characterize terrestrial CDOM.
+We found that microorganisms metabolized this material at the cost of low CUE and shifted its composition (from fluorescence and absorbance) towards less aromatic and low-molecular weight compounds.
+Respiration (from CUE) was related to CO2 supersaturation in streams and this relationship was modulated by DOM composition.
+Our findings imply that terrigenous DOM is respired by microorganisms rather than incorporated into their biomass, and that this channelizes terrigenous carbon to the pool of CO2 potentially outgassing from streams into the atmosphere.
+This finding may gain relevance as major terrigenous carbon stores become mobilized and browning progresses.

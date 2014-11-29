@@ -1,0 +1,7 @@
+Diel nitrogen fixation pattern of Trichodesmium: the interactive control of light and Ni
+Trichodesmium, a nonheterocystous cyanobacterium widely abundant in the surface water of the tropical and subtropical ocean, fixes dinitrogen under high light conditions while concurrently undergoing photosynthesis.
+The new production considerably influences the cycling of nitrogen and carbon in the ocean.
+Here, we investigated how light intensity and nickel (Ni) availability interplay to control daily rates and diel patterns of N2 fixation in Trichodesmium.
+We found that increasing Ni concentration increased N2 fixation rates by up to 30-fold in the high light treatment.
+Cultures subjected to high Ni and light levels fixed nitrogen throughout most of the 24 H light:dark regime with the highest rate coinciding with the end of the 12 H light period.
+Our study demonstrates the importance of Ni on nitrogen fixation rates for Trichodesmium under high light conditions.

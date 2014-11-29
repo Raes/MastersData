@@ -1,0 +1,8 @@
+Differential freshwater flagellate community response to bacterial food quality with a focus on Limnohabitans bacteria
+Different bacterial strains can have different value as food for heterotrophic nanoflagellates (HNF), thus modulating HNF growth and community composition.
+We examined the influence of prey food quality using four Limnohabitans strains, one Polynucleobacter strain and one freshwater actinobacterial strain on growth (growth rate, length of lag phase and growth efficiency) and community composition of a natural HNF community from a freshwater reservoir.
+Pyrosequencing of eukaryotic small subunit rRNA amplicons was used to assess time-course changes in HNF community composition.
+All four Limnohabitans strains and the Polynucleobacter strain yielded significant HNF community growth while the actinobacterial strain did not although it was detected in HNF food vacuoles.
+Notably, even within the Limnohabitans strains we found significant prey-related differences in HNF growth parameters, which could not be related only to size of the bacterial prey.
+Sequence data characterizing the HNF communities showed also that different bacterial prey items induced highly significant differences in community composition of flagellates.
+Generally, Stramenopiles dominated the communities and phylotypes closely related to Pedospumella (Chrysophyceae) were most abundant bacterivorous flagellates rapidly reacting to addition of the bacterial prey of high food quality.

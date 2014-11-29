@@ -1,0 +1,13 @@
+Biodiversity of benthic microbial communities in bioturbated coastal sediments is controlled by geochemical microniches
+We used a combination of field and laboratory approaches to address how the bioturbation activity of two crustaceans, the ghost shrimp Neotrypaea californiensis and the fiddler crab Uca crenulata, affects the microbial diversity in the seabed of a coastal lagoon (Catalina Harbor, Santa Catalina Island, CA, USA).
+Detailed geochemical analyses, including oxygen microsensor measurements, were performed to characterize environmental parameters.
+We used a whole-assemblage fingerprinting approach (ARISA: amplified ribosomal intergenic spacer analysis) to compare bacterial diversity along geochemical gradients and in relation to subsurface microniches.
+The two crustaceans have different burrowing behaviors.
+The ghost shrimp maintains complex, deep-reaching burrows and permanently lives subterranean, supplying its burrow with oxygen-rich water.
+In contrast, the fiddler crab constructs simpler, J-shaped burrows, which it does not inhabit permanently and does not actively ventilate.
+Our goal was to address how varying environmental parameters affect benthic microbial communities.
+An important question in benthic microbial ecology has been whether burrows support similar or unique communities compared with the sediment surface.
+Our results showed that sediment surface microbial communities are distinct from subsurface assemblages and that different burrow types support diverse bacterial taxa.
+Statistical comparisons by canonical correspondence analysis indicated that the availability of oxidants (oxygen, nitrate, ferric iron) play a key role in determining the presence and abundance of different taxa.
+When geochemical parameters were alike, microbial communities associated with burrows showed significant similarity to sediment surface communities.
+Our study provides implications on the community structure of microbial communities in marine sediments and the factors controlling their distribution.

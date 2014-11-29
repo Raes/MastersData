@@ -1,0 +1,11 @@
+The genome sequence of the psychrophilic archaeon, Methanococcoides burtonii: the role of genome evolution in cold adaptation
+Psychrophilic archaea are abundant and perform critical roles throughout the Earth's expansive cold biosphere.
+Here we report the first complete genome sequence for a psychrophilic methanogenic archaeon, Methanococcoides burtonii.
+The genome sequence was manually annotated including the use of a five-tiered evidence rating (ER) system that ranked annotations from ER1 (gene product experimentally characterized from the parent organism) to ER5 (hypothetical gene product) to provide a rapid means of assessing the certainty of gene function predictions.
+The genome is characterized by a higher level of aberrant sequence composition (51%) than any other archaeon.
+In comparison to hyper/thermophilic archaea, which are subject to selection of synonymous codon usage, M. burtonii has evolved cold adaptation through a genomic capacity to accommodate highly skewed amino-acid content, while retaining codon usage in common with its mesophilic Methanosarcina cousins.
+Polysaccharide biosynthesis genes comprise at least 3.3% of protein coding genes in the genome, and Cell wall, membrane, envelope biogenesis COG genes are overrepresented.
+Likewise, signal transduction (COG category T) genes are overrepresented and M. burtonii has a high 'IQ' (a measure of adaptive potential) compared to many methanogens.
+Numerous genes in these two overrepresented COG categories appear to have been acquired from epsilon- and delta-Proteobacteria, as do specific genes involved in central metabolism such as a novel B form of aconitase.
+Transposases also distinguish M. burtonii from other archaea, and their genomic characteristics indicate they have an important role in evolving the M. burtonii genome.
+Our study reveals a capacity for this model psychrophile to evolve through genome plasticity (including nucleotide skew, horizontal gene transfer and transposase activity) that enables adaptation to the cold, and to the biological and physical changes that have occurred over the last several thousand years as it adapted from a marine to an Antarctic lake environment.

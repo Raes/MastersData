@@ -1,0 +1,13 @@
+Global distribution patterns of distinct clades of the photosynthetic picoeukaryote Ostreococcus
+Ostreococcus is a marine picophytoeukaryote for which culture studies indicate there are 'high-light' and 'low-light' adapted ecotypes.
+Representatives of these ecotypes fall within two to three 18S ribosomal DNA (rDNA) clades for the former and one for the latter.
+However, clade distributions and relationships to this form of niche partitioning are unknown in nature.
+We developed two quantitative PCR primer-probe sets and enumerated the proposed ecotypes in the Pacific Ocean as well as the subtropical and tropical North Atlantic.
+Statistical differences in factors such as salinity, temperature and NO3 indicated the ecophysiological parameters behind clade distributions are more complex than irradiance alone.
+Clade OII, containing the putatively low-light adapted strains, was detected at warm oligotrophic sites.
+In contrast, Clade OI, containing high-light adapted strains, was present in cooler mesotrophic and coastal waters.
+Maximal OI abundance (19 555+/-37 18S rDNA copies per ml) was detected in mesotrophic waters at 40 m depth, approaching the nutricline.
+OII was often more abundant at the deep chlorophyll maximum, when nutrient concentrations were significantly higher than at the surface (stratified euphotic zone waters).
+However, in mixed euphotic-zone water columns, relatively high numbers (for example, 891+/-107 18S rDNA copies per ml, Sargasso Sea, springtime) were detected at the surface.
+Both Clades OI and OII were found at multiple euphotic zone depths, but co-occurrence at the same geographical location appeared rare and was detected only in continental slope waters.
+In situ growth rate estimates using these primer-probes and better comprehension of physiology will enhance ecological understanding of Ostreococcus Clades OII and OI which appear to be oceanic and coastal clades, respectively.

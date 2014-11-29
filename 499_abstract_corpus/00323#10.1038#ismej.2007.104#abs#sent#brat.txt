@@ -1,0 +1,14 @@
+Sources of edaphic cyanobacterial diversity in the Dry Valleys of Eastern Antarctica
+Cyanobacteria are major components of Antarctic Dry Valley ecosystems.
+Their occurrence in lakes and ponds is well documented, however, less is known about their distribution in edaphic environments.
+There has been considerable debate about the contribution of aquatic organic matter derived largely from cyanobacteria to terrestrial ecosystems.
+In this study, automated rRNA intergenic spacer analysis (ARISA) and 16S rRNA gene clone libraries were used to investigate cyanobacterial diversity in a range of soil environments within the Miers and Beacon Valleys.
+These data were used to elucidate the input of aquatic cyanobacteria to soil communities.
+Thirty-eight samples were collected from a variety of soil environments including dry and moist soils, hypoliths and lake and hydroterrestrial microbial mats.
+The results from the ARISA and 16S rRNA clone library analysis demonstrated that diverse cyanobacterial communities exist within the mineral soils of the Miers Valley.
+The soil samples from Beacon Valley were depauparate in cyanobacterial signals.
+Within Miers Valley, significant portions (29%-58%) of ARISA fragment lengths found in aquatic cyanobacterial mats were also present in soil and hypolith samples, indicating that lacustrine and hydroterrestrial cyanobacteria play a significant role in structuring soil communities.
+The influence of abiotic variables on the community structure of soil samples was assessed using BEST analysis.
+The results of BEST analysis of samples from within Miers Valley showed that total percentage of carbon content was the most important variable in explaining differences in cyanobacterial community structure.
+The BEST analyses indicated that four elements contributed significantly to species compositional differences between valleys.
+We suggest that the complete absence of lakes or ponds from Beacon Valley is a contributing factor to the low cyanobacterial component of these soils.

@@ -1,0 +1,12 @@
+Long-term experimental warming alters nitrogen-cycling communities but site factors remain the primary drivers of community structure in high arctic tundra soils
+Arctic air temperatures are expected to rise significantly over the next century.
+Experimental warming of arctic tundra has been shown to increase plant productivity and cause community shifts and may also alter microbial community structure.
+Hence, the objective of this study was to determine whether experimental warming caused shifts in soil microbial communities by measuring changes in the frequency, relative abundance and/or richness of nosZ and nifH genotypes.
+Five sites at a high arctic coastal lowland were subjected to a 13-year warming experiment using open-top chambers (OTCs).
+Sites differed by dominant plant community, soil parent material and/or moisture regimen.
+Six soil cores were collected from each of four replicate OTC and ambient plots at each site and subdivided into upper and lower samples.
+Differences in frequency and relative abundance of terminal restriction fragments were assessed graphically by two-way cluster analysis and tested statistically with permutational multivariate analysis of variance (ANOVA).
+Genotypic richness was compared using factorial ANOVA.
+The genotype frequency, relative abundance and genotype richness of both nosZ and nifH communities differed significantly by site, and by OTC treatment and/or depth at some sites.
+The site that showed the most pronounced treatment effect was a wet sedge meadow, where community structure and genotype richness of both nosZ and nifH were significantly affected by warming.
+Although warming was an important factor affecting these communities at some sites at this high arctic lowland, overall, site factors were the main determinants of community structure.

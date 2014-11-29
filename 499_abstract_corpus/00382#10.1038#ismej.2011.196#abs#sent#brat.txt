@@ -1,0 +1,9 @@
+A single-cell view of ammonium assimilation in coral-dinoflagellate symbiosis
+Assimilation of inorganic nitrogen from nutrient-poor tropical seas is an essential challenge for the endosymbiosis between reef-building corals and dinoflagellates.
+Despite the clear evidence that reef-building corals can use ammonium as inorganic nitrogen source, the dynamics and precise roles of host and symbionts in this fundamental process remain unclear.
+Here, we combine high spatial resolution ion microprobe imaging (NanoSIMS) and pulse-chase isotopic labeling in order to track the dynamics of ammonium incorporation within the intact symbiosis between the reef-building coral Acropora aspera and its dinoflagellate symbionts.
+We demonstrate that both dinoflagellate and animal cells have the capacity to rapidly fix nitrogen from seawater enriched in ammonium (in less than one hour).
+Further, by establishing the relative strengths of the capability to assimilate nitrogen for each cell compartment, we infer that dinoflagellate symbionts can fix 14 to 23 times more nitrogen than their coral host cells in response to a sudden pulse of ammonium-enriched seawater.
+Given the importance of nitrogen in cell maintenance, growth and functioning, the capability to fix ammonium from seawater into the symbiotic system may be a key component of coral nutrition.
+Interestingly, this metabolic response appears to be triggered rapidly by episodic nitrogen availability.
+The methods and results presented in this study open up for the exploration of dynamics and spatial patterns associated with metabolic activities and nutritional interactions in a multitude of organisms that live in symbiotic relationships.

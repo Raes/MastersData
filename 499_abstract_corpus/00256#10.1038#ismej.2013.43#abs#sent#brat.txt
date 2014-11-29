@@ -1,0 +1,9 @@
+Chlamydomonas reinhardtii thermal tolerance enhancement mediated by a mutualistic interaction with vitamin B12-producing bacteria
+Temperature is one of the most important environmental factors affecting the growth and survival of microorganisms and in light of current global patterns is of particular interest.
+Here, we highlight studies revealing how vitamin B12 (cobalamin)-producing bacteria increase the fitness of the unicellular alga Chlamydomonas reinhardtii following an increase in environmental temperature.
+Heat stress represses C. reinhardtii cobalamin-independent methionine synthase (METE) gene expression coinciding with a reduction in METE-mediated methionine synthase activity, chlorosis and cell death during heat stress.
+However, in the presence of cobalamin-producing bacteria or exogenous cobalamin amendments C. reinhardtii cobalamin-dependent methionine synthase METH-mediated methionine biosynthesis is functional at temperatures that result in C. reinhardtii death in the absence of cobalamin.
+Artificial microRNA silencing of C. reinhardtii METH expression leads to nearly complete loss of cobalamin-mediated enhancement of thermal tolerance.
+This suggests that methionine biosynthesis is an essential cellular mechanism for adaptation by C. reinhardtii to thermal stress.
+Increased fitness advantage of METH under environmentally stressful conditions could explain the selective pressure for retaining the METH gene in algae and the apparent independent loss of the METE gene in various algal species.
+Our results show that how an organism acclimates to a change in its abiotic environment depends critically on co-occurring species, the nature of that interaction, and how those species interactions evolve.

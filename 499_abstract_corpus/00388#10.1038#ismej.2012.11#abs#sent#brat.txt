@@ -1,0 +1,12 @@
+Who is who in litter decomposition?
+Metaproteomics reveals major microbial players and their biogeochemical functions
+Leaf-litter decomposition is a central process in carbon cycling; however, our knowledge about the microbial regulation of this process is still scarce.
+Metaproteomics allows us to link the abundance and activity of enzymes during nutrient cycling to their phylogenetic origin based on proteins, the 'active building blocks' in the system.
+Moreover, we employed metaproteomics to investigate the influence of environmental factors and nutrients on the decomposer structure and function during beech litter decomposition.
+Litter was collected at forest sites in Austria with different litter nutrient content.
+Proteins were analyzed by 1-D-SDS-PAGE followed by liquid-chromatography and tandem mass-spectrometry.
+Mass spectra were assigned to phylogenetic and functional groups by a newly developed bioinformatics workflow, assignments being validated by complementary approaches.
+We provide evidence that the litter nutrient content and the stoichiometry of C:N:P affect the decomposer community structure and activity.
+Fungi were found to be the main producers of extracellular hydrolytic enzymes, with no bacterial hydrolases being detected by our metaproteomics approach.
+Detailed investigation of microbial succession suggests that it is influenced by litter nutrient content.
+Microbial activity was stimulated at higher litter nutrient contents via a higher abundance and activity of extracellular enzymes.

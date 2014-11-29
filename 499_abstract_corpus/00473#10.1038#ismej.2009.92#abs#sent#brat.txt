@@ -1,0 +1,6 @@
+Microbial community genomics in eastern Mediterranean Sea surface waters
+Offshore waters of the eastern Mediterranean Sea are one of the most oligotrophic regions on Earth in which the primary productivity is phosphorus limited.
+To study the unexplored function and physiology of microbes inhabiting this system, we have analyzed a genomic library from the eastern Mediterranean Sea surface waters by sequencing both termini of nearly 5000 clones.
+Genome recruitment strategies showed that the majority of high-scoring pairs corresponded to genomes from the Alphaproteobacteria (SAR11-like and Rhodobacterales), Cyanobacteria (Synechococcus and high-light adapted Prochlorococcus) and diverse uncultured Gammaproteobacteria.
+The community structure observed, as evaluated by both protein similarity scores or metabolic potential, was similar to that found in the euphotic zone of the ALOHA station off Hawaii but very different from that of deep aphotic zones in both the Mediterranean Sea and the Pacific Ocean.
+In addition, a strong enrichment toward phosphate and phosphonate uptake and utilization metabolism was also observed.

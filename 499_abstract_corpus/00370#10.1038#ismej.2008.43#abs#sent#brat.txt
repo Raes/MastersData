@@ -1,0 +1,9 @@
+Numbers, biomass and cultivable diversity of microbial populations relate to depth and borehole-specific conditions in groundwater from depths of 4-450 m in Olkiluoto, Finland
+Microbiology, chemistry and dissolved gas in groundwater from Olkiluoto, Finland, were analysed over 3 years; samples came from 16 shallow observation tubes and boreholes from depths of 3.9-16.2 m and 14 deep boreholes from depths of 35-742 m.
+The average total number of cells (TNC) was 3.9 x 105 cells per ml in the shallow groundwater and 5.7 x 104 cells per ml in the deep groundwater.
+There was a significant correlation between the amount of biomass, analysed as ATP concentration, and TNC.
+ATP concentration also correlated with the stacked output of anaerobic most probable number cultivations of nitrate-, iron-, manganese- and sulphate-reducing bacteria, and acetogenic bacteria and methanogens.
+The numbers and biomass varied at most by approximately three orders of magnitude between boreholes, and TNC and ATP were positively related to the concentration of dissolved organic carbon.
+Two depth zones were found where the numbers, biomass and diversity of the microbial populations peaked.
+Shallow groundwater down to a depth of 16.2 m on average contained more biomass and cultivable microorganisms than did deep groundwater, except in a zone at a depth of approximately 300 m where the average biomass and number of cultivable microorganisms approached those of shallow groundwater.
+Starting at a depth of approximately 300 m, there were steep gradients of decreasing sulphate and increasing methane concentrations with depth; together with the peaks in biomass and sulphide concentration at this depth, these suggest that anaerobic methane oxidation may be a significant process at depth in Olkiluoto.

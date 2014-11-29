@@ -1,0 +1,6 @@
+Microbial biogeography: putting microorganisms on the map
+We review the biogeography of microorganisms in light of the biogeography of macroorganisms.
+A large body of research supports the idea that free-living microbial taxa exhibit biogeographic patterns.
+Current evidence confirms that, as proposed by the Baas-Becking hypothesis, 'the environment selects' and is, in part, responsible for spatial variation in microbial diversity.
+However, recent studies also dispute the idea that 'everything is everywhere'.
+We also consider how the processes that generate and maintain biogeographic patterns in macroorganisms could operate in the microbial world.

@@ -1,0 +1,11 @@
+Identification of a novel cyanobacterial group as active diazotrophs in a coastal microbial mat using NanoSIMS analysis
+N2 fixation is a key process in photosynthetic microbial mats to support the nitrogen demands associated with primary production.
+Despite its importance, groups that actively fix N2 and contribute to the input of organic N in these ecosystems still remain largely unclear.
+To investigate the active diazotrophic community in microbial mats from the Elkhorn Slough estuary, Monterey Bay, CA, USA, we conducted an extensive combined approach, including biogeochemical, molecular and high-resolution secondary ion mass spectrometry (NanoSIMS) analyses.
+Detailed analysis of dinitrogenase reductase (nifH) transcript clone libraries from mat samples that fixed N2 at night indicated that cyanobacterial nifH transcripts were abundant and formed a novel monophyletic lineage.
+Independent NanoSIMS analysis of 15N2-incubated samples revealed significant incorporation of 15N into small, non-heterocystous cyanobacterial filaments.
+Mat-derived enrichment cultures yielded a unicyanobacterial culture with similar filaments (named Elkhorn Slough Filamentous Cyanobacterium-1 (ESFC-1)) that contained nifH gene sequences grouping with the novel cyanobacterial lineage identified in the transcript clone libraries, displaying up to 100% amino-acid sequence identity.
+The 16S rRNA gene sequence recovered from this enrichment allowed for the identification of related sequences from Elkhorn Slough mats and revealed great sequence diversity in this cluster.
+Furthermore, by combining 15N2 tracer experiments, fluorescence in situ hybridization and NanoSIMS, in situ N2 fixation activity by the novel ESFC-1 group was demonstrated, suggesting that this group may be the most active cyanobacterial diazotroph in the Elkhorn Slough mat.
+Pyrotag sequences affiliated with ESFC-1 were recovered from mat samples throughout 2009, demonstrating the prevalence of this group.
+This work illustrates that combining standard and single-cell analyses can link phylogeny and function to identify previously unknown key functional groups in complex ecosystems.

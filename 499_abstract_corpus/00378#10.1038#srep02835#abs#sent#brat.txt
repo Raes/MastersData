@@ -1,0 +1,8 @@
+The paradox of enrichment in phytoplankton by induced competitive interactions
+The biodiversity loss of phytoplankton with eutrophication has been reported in many aquatic ecosystems, e.g., water pollution and red tides.
+This phenomenon seems similar, but different from the paradox of enrichment via trophic interactions, e.g., predator-prey systems.
+We here propose the paradox of enrichment by induced competitive interactions using multiple contact process (a lattice Lotka-Volterra competition model).
+Simulation results demonstrate how eutrophication invokes more competitions in a competitive ecosystem resulting in the loss of phytoplankton diversity in ecological time.
+The paradox is enhanced under local interactions, indicating that the limited dispersal of phytoplankton reduces interspecific competition greatly.
+Thus, the paradox of enrichment appears when eutrophication destroys an ecosystem either by elevated interspecific competition within a trophic level and/or destabilization by trophic interactions.
+Unless eutrophication due to human activities is ceased, the world's aquatic ecosystems will be at risk.

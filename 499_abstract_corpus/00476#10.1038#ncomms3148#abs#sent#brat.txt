@@ -1,0 +1,7 @@
+Turbulence drives microscale patches of motile phytoplankton
+Patchiness plays a fundamental role in phytoplankton ecology by dictating the rate at which individual cells encounter each other and their predators.
+The distribution of motile phytoplankton species is often considerably more patchy than that of non-motile species at submetre length scales, yet the mechanism generating this patchiness has remained unknown.
+Here we show that strong patchiness at small scales occurs when motile phytoplankton are exposed to turbulent flow.
+We demonstrate experimentally that Heterosigma akashiwo forms striking patches within individual vortices and prove with a mathematical model that this patchiness results from the coupling between motility and shear.
+When implemented within a direct numerical simulation of turbulence, the model reveals that cell motility can prevail over turbulent dispersion to create strong fractal patchiness, where local phytoplankton concentrations are increased more than 10-fold.
+This 'unmixing' mechanism likely enhances ecological interactions in the plankton and offers mechanistic insights into how turbulence intensity impacts ecosystem productivity.

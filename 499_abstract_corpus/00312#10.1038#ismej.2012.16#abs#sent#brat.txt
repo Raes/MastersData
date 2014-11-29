@@ -1,0 +1,10 @@
+Archaea in metazoan diets: implications for food webs and biogeochemical cycling
+Although the importance of trophic linkages, including 'top-down forcing', on energy flow and ecosystem productivity is recognized, the influence of metazoan grazing on Archaea and the biogeochemical processes that they mediate is unknown.
+Here, we test if: (1) Archaea provide a food source sufficient to allow metazoan fauna to complete their life cycle; (2) neutral lipid biomarkers (including crocetane) can be used to identify Archaea consumers; and (3) archaeal aggregates are a dietary source for methane seep metazoans.
+In the laboratory, we demonstrated that a dorvilleid polychaete, Ophryotrocha labronica, can complete its life cycle on two strains of Euryarchaeota with the same growth rate as when fed bacterial and eukaryotic food.
+Archaea were therefore confirmed as a digestible and nutritious food source sufficient to sustain metazoan populations.
+Both strains of Euryarchaeota used as food sources had unique lipids that were not incorporated into O. labronica tissues.
+At methane seeps, sulfate-reducing bacteria that form aggregations and live syntrophically with anaerobic-methane oxidizing Archaea contain isotopically and structurally unique fatty acids (FAs).
+These biomarkers were incorporated into tissues of an endolithofaunal dorvilleid polychaete species from Costa Rica (mean bulk delta13C=-92+/-4/1000; polar lipids -116/1000) documenting consumption of archaeal-bacterial aggregates.
+FA composition of additional soft-sediment methane seep species from Oregon and California provided evidence that consumption of archaeal-bacterial aggregates is widespread at methane seeps.
+This work is the first to show that Archaea are consumed by heterotrophic metazoans, a trophic process we coin as 'archivory'.

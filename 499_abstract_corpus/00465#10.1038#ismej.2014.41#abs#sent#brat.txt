@@ -1,0 +1,11 @@
+Natural occurrence of microbial sulphur oxidation by long-range electron transport in the seafloor
+Recently, a novel mode of sulphur oxidation was described in marine sediments, in which sulphide oxidation in deeper anoxic layers was electrically coupled to oxygen reduction at the sediment surface.
+Subsequent experimental evidence identified that long filamentous bacteria belonging to the family Desulfobulbaceae likely mediated the electron transport across the centimetre-scale distances.
+Such long-range electron transfer challenges some long-held views in microbial ecology and could have profound implications for sulphur cycling in marine sediments.
+But, so far, this process of electrogenic sulphur oxidation has been documented only in laboratory experiments and so its imprint on the seafloor remains unknown.
+Here we show that the geochemical signature of electrogenic sulphur oxidation occurs in a variety of coastal sediment environments, including a salt marsh, a seasonally hypoxic basin, and a subtidal coastal mud plain.
+In all cases, electrogenic sulphur oxidation was detected together with an abundance of Desulfobulbaceae filaments.
+Complementary laboratory experiments in intertidal sands demonstrated that mechanical disturbance by bioturbating fauna destroys the electrogenic sulphur oxidation signal.
+A survey of published geochemical data and 16S rRNA gene sequences identified that electrogenic sulphide oxidation is likely present in a variety of marine sediments with high sulphide generation and restricted bioturbation, such as mangrove swamps, aquaculture areas, seasonally hypoxic basins, cold sulphide seeps and possibly hydrothermal vent environments.
+This study shows for the first time that electrogenic sulphur oxidation occurs in a wide range of marine sediments and that bioturbation may exert a dominant control on its natural distribution.
+The ISME Journal advance online publication, 27 March 2014; doi:10.1038/ismej.2014.41

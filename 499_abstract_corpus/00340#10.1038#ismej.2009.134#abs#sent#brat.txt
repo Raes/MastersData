@@ -1,0 +1,11 @@
+Hydrography shapes bacterial biogeography of the deep Arctic Ocean
+It has been long debated as to whether marine microorganisms have a ubiquitous distribution or patterns of biogeography, but recently a consensus for the existence of microbial biogeography is emerging.
+However, the factors controlling the distribution of marine bacteria remain poorly understood.
+In this study, we combine pyrosequencing and traditional Sanger sequencing of the 16S rRNA gene to describe in detail bacterial communities from the deep Arctic Ocean.
+We targeted three separate water masses, from three oceanic basins and show that bacteria in the Arctic Ocean have a biogeography.
+The biogeographical distribution of bacteria was explained by the hydrography of the Arctic Ocean and subsequent circulation of its water masses.
+Overall, this first taxonomic description of deep Arctic bacteria communities revealed an abundant presence of SAR11 (Alphaproteobacteria), SAR406, SAR202 (Chloroflexi) and SAR324 (Deltaproteobacteria) clusters.
+Within each cluster, the abundance of specific phylotypes significantly varied among water masses.
+Water masses probably act as physical barriers limiting the dispersal and controlling the diversity of bacteria in the ocean.
+Consequently, marine microbial biogeography involves more than geographical distances, as it is also dynamically associated with oceanic processes.
+Our ocean scale study suggests that it is essential to consider the coupling between microbial and physical oceanography to fully understand the diversity and function of marine microbes.

@@ -1,0 +1,7 @@
+Iodine isotopes species fingerprinting environmental conditions in surface water along the northeastern Atlantic Ocean
+Concentrations and species of iodine isotopes (127I and 129I) provide vital information about iodine geochemistry, environmental conditions and water masses exchange in oceans.
+Despite extensive investigations of anthropogenic 129I in the Arctic Ocean and the Nordic Seas, concentrations of the isotope in the Atlantic Ocean are, however, still unknown.
+We here present first data on 129I and 127I, and their species (iodide and iodate) in surface water transect along the northeastern Atlantic between 30degrees and 50degreesN.
+The results show iodate as the predominant species in the analyzed marine waters for both 127I and 129I.
+Despite the rather constant ratios of 127I-/127IO3-, the 129I-/129IO3- values reveal variations that apparently response to sources, environmental conditions and residence time.
+These findings provide a new tracer approach that will strongly enhance the application of anthropogenic 129I in ocean environments and impact on climate at the ocean boundary layer.

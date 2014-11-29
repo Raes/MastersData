@@ -1,0 +1,12 @@
+Isolation and characterization of low nucleic acid (LNA)-content bacteria
+Most planktonic bacteria are 'uncultivable' with conventional methods.
+Flow cytometry (FCM) is one approach that has been taken to study these bacteria.
+In natural aquatic environments, bacteria with high nucleic acid (HNA) and low nucleic acid (LNA) content are commonly observed with FCM after staining with fluorescent dyes.
+Although several studies have focused on the relative abundance and in situ activities of these two groups, knowledge on the growth of particularly LNA bacteria is largely limited.
+In this study, typical LNA bacteria were enriched from three different freshwater sources using extinction dilution (ED) and fluorescence-activated cell sorting (FACS).
+We have shown for the first time that LNA bacteria can be isolated and cultivated by using sterile freshwater as a growth medium.
+During growth, the typical LNA characteristics (that is, low-fluorescence intensity and sideward scatter (SSC)) remained distinct from those of typical HNA bacteria.
+Three LNA pure cultures that are closely affiliated to the Polynucleobacter cluster according to 16S rRNA sequencing results were isolated.
+Owing to their small size, cells of the isolates remained intact during cryo-transmission electronic microscopy examination and showed a Gram-negative cell-wall structure.
+The extremely small cell volume (0.05 mum3) observed for all three isolates indicates that they are among the smallest free-living heterotrophic organisms known in culture.
+Their isolation and cultivation allow further detailed investigation of this group of organisms under defined laboratory conditions.

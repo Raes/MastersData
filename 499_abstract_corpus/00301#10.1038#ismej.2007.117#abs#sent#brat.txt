@@ -1,0 +1,9 @@
+Regulation of nif gene expression and the energetics of N2 fixation over the diel cycle in a hot spring microbial mat
+Nitrogen fixation, a prokaryotic, O2-inhibited process that reduces N2 gas to biomass, is of paramount importance in biogeochemical cycling of nitrogen.
+We analyzed the levels of nif transcripts of Synechococcus ecotypes, NifH subunit and nitrogenase activity over the diel cycle in the microbial mat of an alkaline hot spring in Yellowstone National Park.
+The results showed a rise in nif transcripts in the evening, with a subsequent decline over the course of the night.
+In contrast, immunological data demonstrated that the level of the NifH polypeptide remained stable during the night, and only declined when the mat became oxic in the morning.
+Nitrogenase activity was low throughout the night; however, it exhibited two peaks, a small one in the evening and a large one in the early morning, when light began to stimulate cyanobacterial photosynthetic activity, but O2 consumption by respiration still exceeded the rate of O2 evolution.
+Once the irradiance increased to the point at which the mat became oxic, the nitrogenase activity was strongly inhibited.
+Transcripts for proteins associated with energy-producing metabolisms in the cell also followed diel patterns, with fermentation-related transcripts accumulating at night, photosynthesis- and respiration-related transcripts accumulating during the day and late afternoon, respectively.
+These results are discussed with respect to the energetics and regulation of N2 fixation in hot spring mats and factors that can markedly influence the extent of N2 fixation over the diel cycle.

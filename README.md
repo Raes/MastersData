@@ -11,7 +11,7 @@ Contains;
 
  - Annotated abstracts for second stage NER testing. (250_annotated_abs)
 
- - Test corpus of the second half of our 500 abstract corpus. (abstract_test_data)
+ - Test corpus of the second half of our 499 abstract corpus. (249_abstract_test_data)
 
  - System test results and conclusions. (NEX_system_tests)
 

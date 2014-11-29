@@ -1,0 +1,8 @@
+Synchrony in aquatic microbial community dynamics
+Population dynamics are influenced by drivers acting from outside and from within an ecosystem.
+Extrinsic forces operating over broad spatial scales can impart synchronous behavior to separate populations, while internal, system-specific drivers often lead to idiosyncratic behavior.
+Here, we demonstrate synchrony in community-level dynamics among phytoplankton and bacteria in six north temperate humic lakes.
+The influence of regional meteorological factors explained much of the temporal variability in the phytoplankton community, and resulted in synchronous patterns of community change among lakes.
+Bacterial dynamics, in contrast, were driven by system-specific interactions with phytoplankton.
+Despite the importance of intrinsic factors for determining bacterial community composition and dynamics, we demonstrated that biological interactions transmitted the signal of the regional extrinsic drivers to the bacterial communities, ultimately resulting in synchronous community phenologies for bacterioplankton communities as well.
+This demonstrates how linkages between the components of a complex biological system can work to simplify the dynamics of the system and implies that it may be possible to predict the behavior of microbial communities responsible for important biogeochemical services in the landscape.

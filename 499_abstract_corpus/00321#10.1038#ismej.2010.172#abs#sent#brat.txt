@@ -1,0 +1,9 @@
+Metatranscriptomic analysis of ammonia-oxidizing organisms in an estuarine bacterioplankton assemblage
+Quantitative PCR (qPCR) analysis revealed elevated relative abundance (1.8% of prokaryotes) of marine group 1 Crenarchaeota (MG1C) in two samples of southeastern US coastal bacterioplankton, collected in August 2008, compared with samples collected from the same site at different times (mean 0.026%).
+We analyzed the MG1C sequences in metatranscriptomes from these samples to gain an insight into the metabolism of MG1C population growing in the environment, and for comparison with ammonia-oxidizing bacteria (AOB) in the same samples.
+Assemblies revealed low diversity within sequences assigned to most individual MG1C open reading frames (ORFs) and high homology with 'Candidatus Nitrosopumilus maritimus' strain SCM1 genome sequences.
+Reads assigned to ORFs for ammonia uptake and oxidation accounted for 37% of all MG1C transcripts.
+We did not recover any reads for Nmar_1354-Nmar_1357, proposed to encode components of an alternative, nitroxyl-based ammonia oxidation pathway; however, reads from Nmar_1259 and Nmar_1667, annotated as encoding a multicopper oxidase with homology to nirK, were abundant.
+Reads assigned to two homologous ORFs (Nmar_1201 and Nmar_1547), annotated as hypothetical proteins were also abundant, suggesting that their unknown function is important to MG1C.
+Superoxide dismutase and peroxiredoxin-like transcripts were more abundant in the MG1C transcript pool than in the complete metatranscriptome, suggesting an enhanced response to oxidative stress by the MG1C population.
+qPCR indicated low AOB abundance (0.0010% of prokaryotes), and we found no transcripts related to ammonia oxidation and only one RuBisCO transcript among the transcripts assigned to AOB, suggesting they were not responding to the same environmental cues as the MG1C population.

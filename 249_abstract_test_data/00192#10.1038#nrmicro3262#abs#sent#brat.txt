@@ -1,0 +1,6 @@
+The microbial ecology of permafrost
+Permafrost constitutes a major portion of the terrestrial cryosphere of the Earth and is a unique ecological niche for cold-adapted microorganisms.
+There is a relatively high microbial diversity in permafrost, although there is some variation in community composition across different permafrost features and between sites.
+Some microorganisms are even active at subzero temperatures in permafrost.
+An emerging concern is the impact of climate change and the possibility of subsequent permafrost thaw promoting microbial activity in permafrost, resulting in increased potential for greenhouse-gas emissions.
+This Review describes new data on the microbial ecology of permafrost and provides a platform for understanding microbial life strategies in frozen soil as well as the impact of climate change on permafrost microorganisms and their functional roles.

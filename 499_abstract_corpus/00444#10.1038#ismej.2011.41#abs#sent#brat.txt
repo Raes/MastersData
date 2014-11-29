@@ -1,0 +1,10 @@
+Transitions in bacterial communities along the 2000 km salinity gradient of the Baltic Sea
+Salinity is a major factor controlling the distribution of biota in aquatic systems, and most aquatic multicellular organisms are either adapted to life in saltwater or freshwater conditions.
+Consequently, the saltwater-freshwater mixing zones in coastal or estuarine areas are characterized by limited faunal and floral diversity.
+Although changes in diversity and decline in species richness in brackish waters is well documented in aquatic ecology, it is unknown to what extent this applies to bacterial communities.
+Here, we report a first detailed bacterial inventory from vertical profiles of 60 sampling stations distributed along the salinity gradient of the Baltic Sea, one of world's largest brackish water environments, generated using 454 pyrosequencing of partial (400 bp) 16S rRNA genes.
+Within the salinity gradient, bacterial community composition altered at broad and finer-scale phylogenetic levels.
+Analogous to faunal communities within brackish conditions, we identified a bacterial brackish water community comprising a diverse combination of freshwater and marine groups, along with populations unique to this environment.
+As water residence times in the Baltic Sea exceed 3 years, the observed bacterial community cannot be the result of mixing of fresh water and saltwater, but our study represents the first detailed description of an autochthonous brackish microbiome.
+In contrast to the decline in the diversity of multicellular organisms, reduced bacterial diversity at brackish conditions could not be established.
+It is possible that the rapid adaptation rate of bacteria has enabled a variety of lineages to fill what for higher organisms remains a challenging and relatively unoccupied ecological niche.

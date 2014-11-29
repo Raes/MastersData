@@ -1,0 +1,6 @@
+Spatial structure and persistence of methanogen populations in humic bog lakes
+Patterns of diversity within methanogenic archaea in humic bog lakes are quantified over time and space to determine the roles that spatial isolation and seasonal mixing play in structuring microbial populations.
+The protein encoding gene mcrA is used as a molecular marker for the detection of fine-scale differences between methanogens in four dimictic bog lakes in which the water column is mixed twice a year and one meromictic lake that is permanently stratified.
+Although similar sequences are observed in each bog lake, each lake has its own characteristic set of persisting sequence types, indicating that methanogen populations are delimited either by low migration between the anaerobic hypolimnia or by lake-specific selection.
+The meromictic lake is differentiated from all other lakes and contains sequences with a higher degree of microdiversity than the dimictic lakes.
+By relating the structure of diversity to the depth of each bog lake, we propose the hypothesis that the deeper parts of the water column favor microdiversification of methanogens, whereas the periodically disturbed water column of shallower dimictic lakes promote genetically more diverse methanogen communities.

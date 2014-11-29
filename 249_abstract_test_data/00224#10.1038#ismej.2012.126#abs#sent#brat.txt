@@ -1,0 +1,10 @@
+Comparable light stimulation of organic nutrient uptake by SAR11 and Prochlorococcus in the North Atlantic subtropical gyre
+Subtropical oceanic gyres are the most extensive biomes on Earth where SAR11 and Prochlorococcus bacterioplankton numerically dominate the surface waters depleted in inorganic macronutrients as well as in dissolved organic matter.
+In such nutrient poor conditions bacterioplankton could become photoheterotrophic, that is, potentially enhance uptake of scarce organic molecules using the available solar radiation to energise appropriate transport systems.
+Here, we assessed the photoheterotrophy of the key microbial taxa in the North Atlantic oligotrophic gyre and adjacent regions using 33P-ATP, 3H-ATP and 35S-methionine tracers.
+Light-stimulated uptake of these substrates was assessed in two dominant bacterioplankton groups discriminated by flow cytometric sorting of tracer-labelled cells and identified using catalysed reporter deposition fluorescence in situ hybridisation.
+One group of cells, encompassing 48% of all bacterioplankton, were identified as members of the SAR11 clade, whereas the other group (24% of all bacterioplankton) was Prochlorococcus.
+When exposed to light, SAR11 cells took 31% more ATP and 32% more methionine, whereas the Prochlorococcus cells took 33% more ATP and 34% more methionine.
+Other bacterioplankton did not demonstrate light stimulation.
+Thus, the SAR11 and Prochlorococcus groups, with distinctly different light-harvesting mechanisms, used light equally to enhance, by approximately one-third, the uptake of different types of organic molecules.
+Our findings indicate the significance of light-driven uptake of essential organic nutrients by the dominant bacterioplankton groups in the surface waters of one of the less productive, vast regions of the world's oceans--the oligotrophic North Atlantic subtropical gyre.

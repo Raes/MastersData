@@ -1,0 +1,8 @@
+Function-specific response to depletion of microbial diversity
+Recent meta-analyses suggest that ecosystem functioning increases with biodiversity, but contradictory results have been presented for some microbial functions.
+Moreover, observations of only one function underestimate the functional role of diversity because of species-specific trade-offs in the ability to carry out different functions.
+We examined multiple functions in batch cultures of natural freshwater bacterial communities with different richness, achieved by a dilution-to-extinction approach.
+Community composition was assessed by molecular fingerprinting of 16S rRNA and chitinase genes, representing the total community and a trait characteristic for a functional group, respectively.
+Richness was positively related to abundance and biomass, negatively correlated to cell volumes and unrelated to maximum intrinsic growth rate.
+The response of chitin and cellulose degradation rates depended on the presence of a single phylotype.
+We suggest that species identity and community composition rather than richness matters for specific microbial processes.

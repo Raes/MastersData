@@ -1,0 +1,11 @@
+Genome-wide analysis of diel gene expression in the unicellular N2-fixing cyanobacterium Crocosphaera watsonii WH 8501
+The unicellular cyanobacterium Crocosphaera watsonii is an important nitrogen fixer in oligotrophic tropical and subtropical oceans.
+Metabolic, energy and cellular processes in cyanobacteria are regulated by the circadian mechanism, and/or follow the rhythmicity of light-dark cycles.
+The temporal separation of metabolic processes is especially essential for nitrogen fixation because of inactivation of the nitrogenase by oxygen.
+Using a microarray approach, we analyzed gene expression in cultures of Crocosphaera watsonii WH 8501 (C. watsonii) over a 24-h period and compared the whole-genome transcription with that in Cyanothece sp.
+ATCC 51142 (Cyanothece), a unicellular diazotroph that inhabits coastal marine waters.
+Similar to Cyanothece, regulation at the transcriptional level in C. watsonii was observed for all major metabolic and energy processes including photosynthesis, carbohydrate and amino acid metabolisms, respiration, and nitrogen fixation.
+Increased transcript abundance for iron acquisition genes by the end of the day appeared to be a general pattern in the unicellular diazotrophs.
+In contrast, genes for some ABC transporters (for example, phosphorus acquisition), DNA replication, and some genes encoding hypothetical proteins were differentially expressed in C. watsonii only.
+Overall, C. watsonii showed a higher percentage of genes with light-dark cycling patterns than Cyanothece, which may reflect the habitats preferences of the two cyanobacteria.
+This study represents the first whole-genome expression profiling in cultivated Crocosphaera, and the results will be useful in determining the basal physiology and ecology of the endemic Crocosphaera populations.

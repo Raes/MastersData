@@ -1,0 +1,12 @@
+Comparison of lysogeny (prophage induction) in heterotrophic bacterial and Synechococcus populations in the Gulf of Mexico and Mississippi river plume
+Lysogeny has been documented as a fundamental process occurring in natural marine communities of heterotrophic and autotrophic bacteria.
+Prophage induction has been observed to be prevalent during conditions of low host abundance, but factors controlling the process are poorly understood.
+A research cruise was undertaken to the Gulf of Mexico during July 2005 to explore environmental factors associated with lysogeny.
+Ambient physical and microbial parameters were measured and prophage induction experiments were performed in contrasting oligotrophic Gulf and eutrophic Mississippi plume areas.
+Three of 11 prophage induction experiments in heterotrophic bacteria (27%) demonstrated significant induction in response to Mitomycin C.
+In contrast, there was significant Synechococcus cyanophage induction in seven of nine experiments (77.8%).
+A strong negative correlation was observed between lysogeny and log-transformed activity measurements for both heterotrophic and autotrophic populations (r=-0.876, P=0.002 and r=-0.815, P=0.025, respectively), indicating that bacterioplankton with low host growth favor lysogeny.
+Multivariate statistical analyses indicated that ambient level of viral abundance and productivity were inversely related to heterotrophic prophage induction and both factors combined were most predictive of lysogeny (rho=0.899, P=0.001).
+For Synechococcus, low ambient cyanophage abundance was most predictive of lysogeny (rho=0.862, P=0.005).
+Abundance and productivity of heterotrophic bacteria was strongly inversely correlated with salinity, while Synechococcus was not.
+This indicated that heterotrophic bacterial populations were well adapted to the river plume environments, thus providing a possible explanation for differences in prevalence of lysogeny observed between the two populations.

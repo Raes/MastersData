@@ -1,0 +1,9 @@
+Ecological determinants of the occurrence and dynamics of Vibrio parahaemolyticus in offshore areas
+The life cycle of Vibrio parahaemolyticus has been conventionally associated with estuarine areas characterized by moderate salinity and warm seawater temperatures.
+Recent evidence suggests that the distribution and population dynamics of V. parahaemolyticus may be shaped by the existence of an oceanic transport of communities of this organism mediated by zooplankton.
+To evaluate this possibility, the presence of V. parahaemolyticus in the water column of offshore areas of Galicia was investigated by PCR monthly over an 18-month period.
+Analysis of zooplankton and seawater showed that the occurrence of V. parahaemolyticus in offshore areas was almost exclusively associated with zooplankton and was present in 80% of the samples.
+The influence of environmental factors assessed by generalized additive models revealed that the abundance and seasonality of V. parahaemolyticus in zooplankton was favoured by the concurrence of downwelling periods that promoted the zooplankton patchiness.
+These results confirm that offshore waters may be common habitats for V. parahaemolyticus, including strains with virulent traits.
+Additionally, genetically related populations were found in offshore zooplankton and in estuaries dispersed along 1500 km.
+This finding suggests that zooplankton may operate as a vehicle for oceanic dispersal of V. parahaemolyticus populations, connecting distant regions and habitats, and thereby producing impacts on the local community demography and the spread of Vibrio-related diseases.

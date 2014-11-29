@@ -1,0 +1,10 @@
+Salt marsh sediment bacteria: their distribution and response to external nutrient inputs
+A primary focus among microbial ecologists in recent years has been to understand controls on the distribution of microorganisms in various habitats.
+Much less attention has been paid to the way that environmental disturbance interacts with processes that regulate bacterial community composition.
+We determined how human disturbance affected the distribution and community structure of salt marsh sediment bacteria by using denaturing gradient gel electrophoresis of 16S rRNA in five different habitats in each of four salt marshes located in northeastern Massachusetts, USA.
+Two of the four marsh creeks were experimentally enriched 15 x above background by the addition of nitrogen and phosphorus fertilizers for two or more growing seasons.
+Our results indicate that extrinsic factors acting at broad scales do not influence the distribution of salt marsh sediment bacteria.
+Intrinsic factors, controlled by local-scale environmental heterogeneity, do play a role in structuring these sediment microbial communities, although nutrient enrichment did not have a consequential effect on the microbial community in most marsh habitats.
+Only in one habitat, a region of the marsh creek wall that is heavily colonized by filamentous algae, did we see any effect of fertilization on the microbial community structure.
+When similar habitats were compared among marshes, there was considerable convergence in the microbial community composition during the growing season.
+Environmental factors that correlated best with microbial community composition varied with habitat, suggesting that habitat-specific intrinsic forces are primarily responsible for maintaining microbial diversity in salt marsh sediments.

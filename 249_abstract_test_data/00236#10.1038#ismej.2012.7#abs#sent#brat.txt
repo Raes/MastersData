@@ -1,0 +1,6 @@
+Effect of oxygen minimum zone formation on communities of marine protists
+Changes in ocean temperature and circulation patterns compounded by human activities are leading to oxygen minimum zone (OMZ) expansion with concomitant alteration in nutrient and climate active trace gas cycling.
+Here, we report the response of microbial eukaryote populations to seasonal changes in water column oxygen-deficiency using Saanich Inlet, a seasonally anoxic fjord on the coast of Vancouver Island British Columbia, as a model ecosystem.
+We combine small subunit ribosomal RNA gene sequencing approaches with multivariate statistical methods to reveal shifts in operational taxonomic units during successive stages of seasonal stratification and renewal.
+A meta-analysis is used to identify common and unique patterns of community composition between Saanich Inlet and the anoxic/sulfidic Cariaco Basin (Venezuela) and Framvaren Fjord (Norway) to show shared and unique responses of microbial eukaryotes to oxygen and sulfide in these three environments.
+Our analyses also reveal temporal fluctuations in rare populations of microbial eukaryotes, particularly anaerobic ciliates, that may be of significant importance to the biogeochemical cycling of methane in OMZs.

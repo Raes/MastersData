@@ -1,0 +1,9 @@
+Community shifts of actively growing lake bacteria after N-acetyl-glucosamine addition: improving the BrdU-FACS method
+In aquatic environments, community dynamics of bacteria, especially actively growing bacteria (AGB), are tightly linked with dissolved organic matter (DOM) quantity and quality.
+We analyzed the community dynamics of DNA-synthesizing and accordingly AGB by linking an improved bromodeoxyuridine immunocytochemistry approach with fluorescence-activated cell sorting (BrdU-FACS).
+FACS-sorted cells of even oligotrophic ecosystems in winter were characterized by 16S rRNA gene analysis.
+In incubation experiments, we examined community shifts of AGB in response to the addition of N-acetyl-glucosamine (NAG), one of the most abundant aminosugars in aquatic systems.
+Our improved BrdU-FACS analysis revealed that AGB winter communities of oligotrophic Lake Stechlin (northeastern Germany) substantially differ from those of total bacteria and consist of Alpha-, Beta-, Gamma-, Deltaproteobacteria, Actinobacteria, Candidatus OP10 and Chloroflexi.
+AGB populations with different BrdU-fluorescence intensities and cell sizes represented different phylotypes suggesting that single-cell growth potential varies at the taxon level.
+NAG incubation experiments demonstrated that a variety of widespread taxa related to Alpha-, Beta-, Gammaproteobacteria, Bacteroidetes, Actinobacteria, Firmicutes, Planctomycetes, Spirochaetes, Verrucomicrobia and Chloroflexi actively grow in the presence of NAG.
+The BrdU-FACS approach enables detailed phylogenetic studies of AGB and, thus, to identify those phylotypes which are potential key players in aquatic DOM cycling.

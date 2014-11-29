@@ -1,0 +1,11 @@
+Nitrite oxidation in the Namibian oxygen minimum zone
+Nitrite oxidation is the second step of nitrification.
+It is the primary source of oceanic nitrate, the predominant form of bioavailable nitrogen in the ocean.
+Despite its obvious importance, nitrite oxidation has rarely been investigated in marine settings.
+We determined nitrite oxidation rates directly in 15N-incubation experiments and compared the rates with those of nitrate reduction to nitrite, ammonia oxidation, anammox, denitrification, as well as dissimilatory nitrate/nitrite reduction to ammonium in the Namibian oxygen minimum zone (OMZ).
+Nitrite oxidation (372 nM NO2- d-1) was detected throughout the OMZ even when in situ oxygen concentrations were low to non-detectable.
+Nitrite oxidation rates often exceeded ammonia oxidation rates, whereas nitrate reduction served as an alternative and significant source of nitrite.
+Nitrite oxidation and anammox co-occurred in these oxygen-deficient waters, suggesting that nitrite-oxidizing bacteria (NOB) likely compete with anammox bacteria for nitrite when substrate availability became low.
+Among all of the known NOB genera targeted via catalyzed reporter deposition fluorescence in situ hybridization, only Nitrospina and Nitrococcus were detectable in the Namibian OMZ samples investigated.
+These NOB were abundant throughout the OMZ and contributed up to ~9% of total microbial community.
+Our combined results reveal that a considerable fraction of the recently recycled nitrogen or reduced NO3- was re-oxidized back to NO3- via nitrite oxidation, instead of being lost from the system through the anammox or denitrification pathways.

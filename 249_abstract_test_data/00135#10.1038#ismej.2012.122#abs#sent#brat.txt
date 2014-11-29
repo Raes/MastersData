@@ -1,0 +1,16 @@
+Nutrient requirements for growth of the extreme oligotroph 'Candidatus Pelagibacter ubique' HTCC1062 on a defined medium
+Chemoheterotrophic marine bacteria of the SAR11 clade are Earth's most abundant organisms.
+Following the first cultivation of a SAR11 bacterium, 'Candidatus Pelagibacter ubique' strain HTCC1062 (Ca.
+P. ubique) in 2002, unusual nutritional requirements were identified for reduced sulfur compounds and glycine or serine.
+These requirements were linked to genome streamlining resulting from selection for efficient resource utilization in nutrient-limited ocean habitats.
+Here we report the first successful cultivation of Ca.
+P. ubique on a defined artificial seawater medium (AMS1), and an additional requirement for pyruvate or pyruvate precursors.
+Optimal growth was observed with the collective addition of inorganic macro- and micronutrients, vitamins, methionine, glycine and pyruvate.
+Methionine served as the sole sulfur source but methionine and glycine were not sufficient to support growth.
+Optimal cell yields were obtained when the stoichiometry between glycine and pyruvate was 1:4, and incomplete cell division was observed in cultures starved for pyruvate.
+Glucose and oxaloacetate could fully replace pyruvate, but not acetate, taurine or a variety of tricarboxylic acid cycle intermediates.
+Moreover, both glycine betaine and serine could substitute for glycine.
+Interestingly, glycolate partially restored growth in the absence of glycine.
+We propose that this is the result of the use of glycolate, a product of phytoplankton metabolism, as both a carbon source for respiration and as a precursor to glycine.
+These findings are important because they provide support for the hypothesis that some micro-organisms are challenging to cultivate because of unusual nutrient requirements caused by streamlining selection and gene loss.
+Our findings also illustrate unusual metabolic rearrangements that adapt these cells to extreme oligotrophy, and underscore the challenge of reconstructing metabolism from genome sequences in organisms that have non-canonical metabolic pathways.

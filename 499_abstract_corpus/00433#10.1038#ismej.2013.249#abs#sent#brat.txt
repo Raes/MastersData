@@ -1,0 +1,12 @@
+Metabolic interdependencies between phylogenetically novel fermenters and respiratory organisms in an unconfined aquifer
+Fermentation-based metabolism is an important ecosystem function often associated with environments rich in organic carbon, such as wetlands, sewage sludge and the mammalian gut.
+The diversity of microorganisms and pathways involved in carbon and hydrogen cycling in sediments and aquifers and the impacts of these processes on other biogeochemical cycles remain poorly understood.
+Here we used metagenomics and proteomics to characterize microbial communities sampled from an aquifer adjacent to the Colorado River at Rifle, CO, USA, and document interlinked microbial roles in geochemical cycling.
+The organic carbon content in the aquifer was elevated via acetate amendment of the groundwater occurring over 2 successive years.
+Samples were collected at three time points, with the objective of extensive genome recovery to enable metabolic reconstruction of the community.
+Fermentative community members include organisms from a new phylum, Melainabacteria, most closely related to Cyanobacteria, phylogenetically novel members of the Chloroflexi and Bacteroidales, as well as candidate phyla genomes (OD1, BD1-5, SR1, WWE3, ACD58, TM6, PER and OP11).
+These organisms have the capacity to produce hydrogen, acetate, formate, ethanol, butyrate and lactate, activities supported by proteomic data.
+The diversity and expression of hydrogenases suggests the importance of hydrogen metabolism in the subsurface.
+Our proteogenomic data further indicate the consumption of fermentation intermediates by Proteobacteria can be coupled to nitrate, sulfate and iron reduction.
+Thus, fermentation carried out by previously unknown members of sediment microbial communities may be an important driver of nitrogen, hydrogen, sulfur, carbon and iron cycling.
+The ISME Journal advance online publication, 13 March 2014; doi:10.1038/ismej.2013.249

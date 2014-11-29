@@ -1,0 +1,11 @@
+Unique archaeal assemblages in the Arctic Ocean unveiled by massively parallel tag sequencing
+The Arctic Ocean plays a critical role in controlling nutrient budgets between the Pacific and Atlantic Ocean.
+Archaea are key players in the nitrogen cycle and in cycling nutrients, but their community composition has been little studied in the Arctic Ocean.
+Here, we characterize archaeal assemblages from surface and deep Arctic water masses using massively parallel tag sequencing of the V6 region of the 16S rRNA gene.
+This approach gave a very high coverage of the natural communities, allowing a precise description of archaeal assemblages.
+This first taxonomic description of archaeal communities by tag sequencing reported so far shows that it is possible to assign an identity below phylum level to most (95%) of the archaeal V6 tags, and shows that tag sequencing is a powerful tool for resolving the diversity and distribution of specific microbes in the environment.
+Marine group I Crenarchaeota was overall the most abundant group in the Arctic Ocean and comprised between 27% and 63% of all tags.
+Group III Euryarchaeota were more abundant in deep-water masses and represented the largest archaeal group in the deep Atlantic layer of the central Arctic Ocean.
+Coastal surface waters, in turn, harbored more group II Euryarchaeota.
+Moreover, group II sequences that dominated surface waters were different from the group II sequences detected in deep waters, suggesting functional differences in closely related groups.
+Our results unveiled for the first time an archaeal community dominated by group III Euryarchaeota and show biogeographical traits for marine Arctic Archaea.

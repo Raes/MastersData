@@ -1,0 +1,10 @@
+A bacterial pathogen uses dimethylsulfoniopropionate as a cue to target heat-stressed corals
+Diseases are an emerging threat to ocean ecosystems.
+Coral reefs, in particular, are experiencing a worldwide decline because of disease and bleaching, which have been exacerbated by rising seawater temperatures.
+Yet, the ecological mechanisms behind most coral diseases remain unidentified.
+Here, we demonstrate that a coral pathogen, Vibrio coralliilyticus, uses chemotaxis and chemokinesis to target the mucus of its coral host, Pocillopora damicornis.
+A primary driver of this response is the host metabolite dimethylsulfoniopropionate (DMSP), a key element in the global sulfur cycle and a potent foraging cue throughout the marine food web.
+Coral mucus is rich in DMSP, and we found that DMSP alone elicits chemotactic responses of comparable intensity to whole mucus.
+Furthermore, in heat-stressed coral fragments, DMSP concentrations increased fivefold and the pathogen's chemotactic response was correspondingly enhanced.
+Intriguingly, despite being a rich source of carbon and sulfur, DMSP is not metabolized by the pathogen, suggesting that it is used purely as an infochemical for host location.
+These results reveal a new role for DMSP in coral disease, demonstrate the importance of chemical signaling and swimming behavior in the recruitment of pathogens to corals and highlight the impact of increased seawater temperatures on disease pathways.

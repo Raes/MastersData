@@ -1,0 +1,10 @@
+Functional characterization of polysaccharide utilization loci in the marine Bacteroidetes 'Gramella forsetii' KT0803
+Members of the phylum Bacteroidetes are abundant in many marine ecosystems and are known to have a pivotal role in the mineralization of complex organic substrates such as polysaccharides and proteins.
+We studied the decomposition of the algal glycans laminarin and alginate by 'Gramella forsetii' KT0803, a bacteroidetal isolate from North Sea surface waters.
+A combined application of isotope labeling, subcellular protein fractionation and quantitative proteomics revealed two large polysaccharide utilization loci (PULs) that were specifically induced, one by alginate and the other by laminarin.
+These regulons comprised genes of surface-exposed proteins such as oligomer transporters, substrate-binding proteins, carbohydrate-active enzymes and hypothetical proteins.
+Besides, several glycan-specific TonB-dependent receptors and SusD-like substrate-binding proteins were expressed also in the absence of polysaccharide substrates, suggesting an anticipatory sensing function.
+Genes for the utilization of the beta-1,3-glucan laminarin were found to be co-regulated with genes for glucose and alpha-1,4-glucan utilization, which was not the case for the non-glucan alginate.
+Strong syntenies of the PULs of 'G. forsetii' with similar loci in other Bacteroidetes indicate that the specific response mechanisms of 'G. forsetii' to changes in polysaccharide availability likely apply to other Bacteroidetes.
+Our results can thus contribute to an improved understanding of the ecological niches of marine Bacteroidetes and their roles in the polysaccharide decomposition part of carbon cycling in marine ecosystems.
+The ISME Journal advance online publication, 13 February 2014; doi:10.1038/ismej.2014.4

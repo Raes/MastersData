@@ -1,0 +1,7 @@
+Uncultured archaea in deep marine subsurface sediments: have we caught them all?
+Deep marine subsurface sediments represent a novel archaeal biosphere with unknown physiology; the sedimentary subsurface harbors numerous novel phylogenetic lineages of archaea that are at present uncultured.
+Archaeal 16S rRNA analyses of deep subsurface sediments demonstrate their global occurrence and wide habitat range, including deep subsurface sediments, methane seeps and organic-rich coastal sediments.
+These subsurface archaeal lineages were discovered by PCR of extracted environmental DNA; their detection ultimately depends on the specificity of the archaeal PCR 16S rRNA primers.
+Surprisingly high mismatch frequencies for some archaeal PCR primers result in amplification bias against the corresponding archaeal lineages; this review presents some examples.
+Obviously, most archaeal 16S rRNA PCR primers were developed either before the discovery of these deep subsurface archaeal lineages, or without taking their sequence variants into account.
+PCR surveys with multiple primer combinations, revision and updates of primers whenever possible, and increasing use of PCR-independent methods in molecular microbial ecology will contribute to a more comprehensive view of subsurface archaeal communities.

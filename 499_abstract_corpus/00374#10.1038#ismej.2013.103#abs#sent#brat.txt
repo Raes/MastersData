@@ -1,0 +1,10 @@
+Low temperature delays timing and enhances the cost of nitrogen fixation in the unicellular cyanobacterium Cyanothece
+Marine nitrogen-fixing cyanobacteria are largely confined to the tropical and subtropical ocean.
+It has been argued that their global biogeographical distribution reflects the physiologically feasible temperature range at which they can perform nitrogen fixation.
+In this study we refine this line of argumentation for the globally important group of unicellular diazotrophic cyanobacteria, and pose the following two hypotheses: (i) nitrogen fixation is limited by nitrogenase activity at low temperature and by oxygen diffusion at high temperature, which is manifested by a shift from strong to weak temperature dependence of nitrogenase activity, and (ii) high respiration rates are required to maintain very low levels of oxygen for nitrogenase, which results in enhanced respiratory cost per molecule of fixed nitrogen at low temperature.
+We tested these hypotheses in laboratory experiments with the unicellular cyanobacterium Cyanothece sp.
+BG043511.
+In line with the first hypothesis, the specific growth rate increased strongly with temperature from 18 to 30 degreesC, but leveled off at higher temperature under nitrogen-fixing conditions.
+As predicted by the second hypothesis, the respiratory cost of nitrogen fixation and also the cellular C:N ratio rose sharply at temperatures below 21 degreesC.
+In addition, we found that low temperature caused a strong delay in the onset of the nocturnal nitrogenase activity, which shortened the remaining nighttime available for nitrogen fixation.
+Together, these results point at a lower temperature limit for unicellular nitrogen-fixing cyanobacteria, which offers an explanation for their (sub)tropical distribution and suggests expansion of their biogeographical range by global warming.

@@ -1,0 +1,9 @@
+Nutrient enrichment can increase the susceptibility of reef corals to bleaching
+Mass coral bleaching, resulting from the breakdown of coral-algal symbiosis has been identified as the most severe threat to coral reef survival on a global scale.
+Regionally, nutrient enrichment of reef waters is often associated with a significant loss of coral cover and diversity.
+Recently, increased dissolved inorganic nitrogen concentrations have been linked to a reduction of the temperature threshold of coral bleaching, a phenomenon for which no mechanistic explanation is available.
+Here we show that increased levels of dissolved inorganic nitrogen in combination with limited phosphate concentrations result in an increased susceptibility of corals to temperature- and light-induced bleaching.
+Mass spectrometric analyses of the algal lipidome revealed a marked accumulation of sulpholipids under these conditions.
+Together with increased phosphatase activities, this change indicates that the imbalanced supply of dissolved inorganic nitrogen results in phosphate starvation of the symbiotic algae.
+Based on these findings we introduce a conceptual model that links unfavourable ratios of dissolved inorganic nutrients in the water column with established mechanisms of coral bleaching.
+Notably, this model improves the understanding of the detrimental effects of coastal nutrient enrichment on coral reefs, which is urgently required to support knowledge-based management strategies to mitigate the effects of climate change.

@@ -1,0 +1,10 @@
+Metagenomics reveals sediment microbial community response to Deepwater Horizon oil spill
+The Deepwater Horizon (DWH) oil spill in the spring of 2010 resulted in an input of ~4.1 million barrels of oil to the Gulf of Mexico; >22% of this oil is unaccounted for, with unknown environmental consequences.
+Here we investigated the impact of oil deposition on microbial communities in surface sediments collected at 64 sites by targeted sequencing of 16S rRNA genes, shotgun metagenomic sequencing of 14 of these samples and mineralization experiments using 14C-labeled model substrates.
+The 16S rRNA gene data indicated that the most heavily oil-impacted sediments were enriched in an uncultured Gammaproteobacterium and a Colwellia species, both of which were highly similar to sequences in the DWH deep-sea hydrocarbon plume.
+The primary drivers in structuring the microbial community were nitrogen and hydrocarbons.
+Annotation of unassembled metagenomic data revealed the most abundant hydrocarbon degradation pathway encoded genes involved in degrading aliphatic and simple aromatics via butane monooxygenase.
+The activity of key hydrocarbon degradation pathways by sediment microbes was confirmed by determining the mineralization of 14C-labeled model substrates in the following order: propylene glycol, dodecane, toluene and phenanthrene.
+Further, analysis of metagenomic sequence data revealed an increase in abundance of genes involved in denitrification pathways in samples that exceeded the Environmental Protection Agency (EPA)'s benchmarks for polycyclic aromatic hydrocarbons (PAHs) compared with those that did not.
+Importantly, these data demonstrate that the indigenous sediment microbiota contributed an important ecosystem service for remediation of oil in the Gulf.
+However, PAHs were more recalcitrant to degradation, and their persistence could have deleterious impacts on the sediment ecosystem.

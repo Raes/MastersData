@@ -1,0 +1,6 @@
+How sulphate-reducing microorganisms cope with stress: lessons from systems biology
+Sulphate-reducing microorganisms (SRMs) are a phylogenetically diverse group of anaerobes encompassing distinct physiologies with a broad ecological distribution.
+As SRMs have important roles in the biogeochemical cycling of carbon, nitrogen, sulphur and various metals, an understanding of how these organisms respond to environmental stresses is of fundamental and practical importance.
+In this Review, we highlight recent applications of systems biology tools in studying the stress responses of SRMs, particularly Desulfovibrio spp., at the cell, population, community and ecosystem levels.
+The syntrophic lifestyle of SRMs is also discussed, with a focus on system-level analyses of adaptive mechanisms.
+Such information is important for understanding the microbiology of the global sulphur cycle and for developing biotechnological applications of SRMs for environmental remediation, energy production, biocorrosion control, wastewater treatment and mineral recovery.

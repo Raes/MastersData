@@ -1,0 +1,10 @@
+Functional microarray analysis of nitrogen and carbon cycling genes across an Antarctic latitudinal transect
+Soil-borne microbial communities were examined via a functional gene microarray approach across a southern polar latitudinal gradient to gain insight into the environmental factors steering soil N- and C-cycling in terrestrial Antarctic ecosystems.
+The abundance and diversity of functional gene families were studied for soil-borne microbial communities inhabiting a range of environments from 51degreesS (cool temperate - Falkland Islands) to 72degreesS (cold rock desert - Coal Nunatak).
+The recently designed functional gene array used contains 24 243 oligonucleotide probes and covers >10 000 genes in >150 functional groups involved in nitrogen, carbon, sulfur and phosphorus cycling, metal reduction and resistance and organic contaminant degradation (He et al. 2007).
+The detected N- and C-cycle genes were significantly different across different sampling locations and vegetation types.
+A number of significant trends were observed regarding the distribution of key gene families across the environments examined.
+For example, the relative detection of cellulose degradation genes was correlated with temperature, and microbial C-fixation genes were more present in plots principally lacking vegetation.
+With respect to the N-cycle, denitrification genes were linked to higher soil temperatures, and N2-fixation genes were linked to plots mainly vegetated by lichens.
+These microarray-based results were confirmed for a number of gene families using specific real-time PCR, enzymatic assays and process rate measurements.
+The results presented demonstrate the utility of an integrated functional gene microarray approach in detecting shifts in functional community properties in environmental samples and provide insight into the forces driving important processes of terrestrial Antarctic nutrient cycling.

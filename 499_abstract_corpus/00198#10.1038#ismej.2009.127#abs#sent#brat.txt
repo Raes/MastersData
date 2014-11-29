@@ -1,0 +1,10 @@
+Aerobic denitrification in permeable Wadden Sea sediments
+Permeable or sandy sediments cover the majority of the seafloor on continental shelves worldwide, but little is known about their role in the coastal nitrogen cycle.
+We investigated the rates and controls of nitrogen loss at a sand flat (Janssand) in the central German Wadden Sea using multiple experimental approaches, including the nitrogen isotope pairing technique in intact core incubations, slurry incubations, a flow-through stirred retention reactor and microsensor measurements.
+Results indicate that permeable Janssand sediments are characterized by some of the highest potential denitrification rates (0.19 mmol N m-2 h-1) in the marine environment.
+Moreover, several lines of evidence showed that denitrification occurred under oxic conditions.
+In intact cores, microsensor measurements showed that the zones of nitrate/nitrite and O2 consumption overlapped.
+In slurry incubations conducted with 15NO3- enrichment in gas-impermeable bags, denitrification assays revealed that N2 production occurred at initial O2 concentrations of up to ~90 muM.
+Initial denitrification rates were not substantially affected by O2 in surficial (0-4 cm) sediments, whereas rates increased by twofold with O2 depletion in the at 4-6 cm depth interval.
+In a well mixed, flow-through stirred retention reactor (FTSRR), 29N2 and 30N2 were produced and O2 was consumed simultaneously, as measured online using membrane inlet mass spectrometry.
+We hypothesize that the observed high denitrification rates in the presence of O2 may result from the adaptation of denitrifying bacteria to recurrent tidally induced redox oscillations in permeable sediments at Janssand.

@@ -1,0 +1,8 @@
+Lake microbial communities are resilient after a whole-ecosystem disturbance
+Disturbances act as powerful structuring forces on ecosystems.
+To ask whether environmental microbial communities have capacity to recover after a large disturbance event, we conducted a whole-ecosystem manipulation, during which we imposed an intense disturbance on freshwater microbial communities by artificially mixing a temperate lake during peak summer thermal stratification.
+We employed environmental sensors and water chemistry analyses to evaluate the physical and chemical responses of the lake, and bar-coded 16S ribosomal RNA gene pyrosequencing and automated ribosomal intergenic spacer analysis (ARISA) to assess the bacterial community responses.
+The artificial mixing increased mean lake temperature from 14 to 20 degreesC for seven weeks after mixing ended, and exposed the microorganisms to very different environmental conditions, including increased hypolimnion oxygen and increased epilimnion carbon dioxide concentrations.
+Though overall ecosystem conditions remained altered (with hypolimnion temperatures elevated from 6 to 20 degreesC), bacterial communities returned to their pre-manipulation state as some environmental conditions, such as oxygen concentration, recovered.
+Recovery to pre-disturbance community composition and diversity was observed within 7 (epilimnion) and 11 (hypolimnion) days after mixing.
+Our results suggest that some microbial communities have capacity to recover after a major disturbance.

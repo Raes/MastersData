@@ -1,0 +1,10 @@
+High rates of denitrification and nitrous oxide emission in arid biological soil crusts from the Sultanate of Oman
+Using a combination of process rate determination, microsensor profiling and molecular techniques, we demonstrated that denitrification, and not anaerobic ammonium oxidation (anammox), is the major nitrogen loss process in biological soil crusts from Oman.
+Potential denitrification rates were 584+/-101 and 58+/-20 mumol N m-2 h-1 for cyanobacterial and lichen crust, respectively.
+Complete denitrification to N2 was further confirmed by an 15NO3- tracer experiment with intact crust pieces that proceeded at rates of 103+/-19 and 27+/-8 mumol N m-2 h-1 for cyanobacterial and lichen crust, respectively.
+Strikingly, N2O gas was emitted at very high potential rates of 387+/-143 and 31+/-6 mumol N m-2 h-1 from the cyanobacterial and lichen crust, respectively, with N2O accounting for 53-66% of the total emission of nitrogenous gases.
+Microsensor measurements revealed that N2O was produced in the anoxic layer and thus apparently originated from incomplete denitrification.
+Using quantitative PCR, denitrification genes were detected in both the crusts and were expressed either in comparable (nirS) or slightly higher (narG) numbers in the cyanobacterial crusts.
+Although 99% of the nirS sequences in the cyanobacterial crust were affiliated to an uncultured denitrifying bacterium, 94% of these sequences were most closely affiliated to Paracoccus denitrificans in the lichen crust.
+Sequences of nosZ gene formed a distinct cluster that did not branch with known denitrifying bacteria.
+Our results demonstrate that nitrogen loss via denitrification is a dominant process in crusts from Oman, which leads to N2O gas emission and potentially reduces desert soil fertility.

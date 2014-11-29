@@ -1,0 +1,10 @@
+Making a living while starving in the dark: metagenomic insights into the energy dynamics of a carbonate cave
+Carbonate caves represent subterranean ecosystems that are largely devoid of phototrophic primary production.
+In semiarid and arid regions, allochthonous organic carbon inputs entering caves with vadose-zone drip water are minimal, creating highly oligotrophic conditions; however, past research indicates that carbonate speleothem surfaces in these caves support diverse, predominantly heterotrophic prokaryotic communities.
+The current study applied a metagenomic approach to elucidate the community structure and potential energy dynamics of microbial communities, colonizing speleothem surfaces in Kartchner Caverns, a carbonate cave in semiarid, southeastern Arizona, USA.
+Manual inspection of a speleothem metagenome revealed a community genetically adapted to low-nutrient conditions with indications that a nitrogen-based primary production strategy is probable, including contributions from both Archaea and Bacteria.
+Genes for all six known CO2-fixation pathways were detected in the metagenome and RuBisCo genes representative of the Calvin-Benson-Bassham cycle were over-represented in Kartchner speleothem metagenomes relative to bulk soil, rhizosphere soil and deep-ocean communities.
+Intriguingly, quantitative PCR found Archaea to be significantly more abundant in the cave communities than in soils above the cave.
+MEtaGenome ANalyzer (MEGAN) analysis of speleothem metagenome sequence reads found Thaumarchaeota to be the third most abundant phylum in the community, and identified taxonomic associations to this phylum for indicator genes representative of multiple CO2-fixation pathways.
+The results revealed that this oligotrophic subterranean environment supports a unique chemoautotrophic microbial community with potentially novel nutrient cycling strategies.
+These strategies may provide key insights into other ecosystems dominated by oligotrophy, including aphotic subsurface soils or aquifers and photic systems such as arid deserts.

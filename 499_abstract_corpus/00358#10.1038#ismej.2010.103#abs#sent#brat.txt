@@ -1,0 +1,13 @@
+Comparative genomics reveals a deep-sea sediment-adapted life style of Pseudoalteromonas sp.
+SM9913
+Deep-sea sediment is one of the most important microbial-driven ecosystems, yet it is not well characterized.
+Genome sequence analyses of deep-sea sedimentary bacteria would shed light on the understanding of this ecosystem.
+In this study, the complete genome of deep-sea sedimentary bacterium Pseudoalteromonas sp.
+SM9913 (SM9913) is described and compared with that of the closely related Antarctic surface sea-water ecotype Pseudoalteromonas haloplanktis TAC125 (TAC125).
+SM9913 has fewer dioxygenase genes than TAC125, indicating a possible sensitivity to reactive oxygen species.
+Accordingly, experimental results showed that SM9913 was less tolerant of H2O2 than TAC125.
+SM9913 has gene clusters related to both polar and lateral flagella biosynthesis.
+Lateral flagella, which are usually present in deep-sea bacteria and absent in the related surface bacteria, are important for the survival of SM9913 in deep-sea environments.
+With these two flagellar systems, SM9913 can swim in sea water and swarm on the sediment particle surface, favoring the acquisition of nutrients from particulate organic matter and reflecting the particle-associated alternative lifestyle of SM9913 in the deep sea.
+A total of 12 genomic islands were identified in the genome of SM9913 that may confer specific features unique to SM9913 and absent from TAC125, such as drug and heavy metal resistance.
+Many signal transduction genes and a glycogen production operon were also present in the SM9913 genome, which may help SM9913 respond to food pulses and store carbon and energy in a deep-sea environment.

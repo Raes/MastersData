@@ -1,0 +1,10 @@
+Increase in Alphaproteobacteria in association with a polychaete, Capitella sp.
+I, in the organically enriched sediment
+We conducted bioremediation experiments on the organically enriched sediment on the sea floor just below a fish farm, introducing artificially mass-cultured colonies of deposit-feeding polychaete, Capitella sp.
+I. To clarify the association between the Capitella and bacteria on the efficient decomposition of the organic matter in the sediment in the experiments, we tried to identify the bacteria that increased in the microbial community in the sediment with dense patches of the Capitella.
+The relationship between TOC and quinone content of the sediment as an indicator of the bacterial abundance was not clear, while a significant positive correlation was found between Capitella biomass and quinone content of the sediment.
+In particular, ubiquinone-10, which is present in members of the class Alphaproteobacteria, increased in the sediment with dense patches of the Capitella.
+We performed denaturing gradient gel electrophoresis (DGGE) analyses to identify the alphaproteobacterial species in the sediment with dense patches of the worm, using two DGGE fragments obtained from the sediment samples and one fragment from the worm body.
+The sequences of these DGGE fragments were closely related to the specific members of the Roseobacter clade.
+In the associated system with the Capitella and the bacteria in the organically enriched sediment, the decomposition of the organic matter may proceed rapidly.
+It is very likely that the Capitella works as a promoter of bacteria in the organically enriched sediment, and feeds the increased bacteria as one of the main foods, while the bacteria decompose the organic matter in the sediment with the assistance of the Capitella.

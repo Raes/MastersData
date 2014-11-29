@@ -1,0 +1,6 @@
+Silicon enhances the growth of Phaeodactylum tricornutum Bohlin under green light and low temperature
+Phaeodactylum tricornutum Bohlin is an ideal model diatom; its complete genome is known, and it is an important economic microalgae.
+Although silicon is not required in laboratory and factory culture of this species, previous studies have shown that silicon starvation can lead to differential expression of miRNAs.
+The role that silicon plays in P. tricornutum growth in nature is poorly understood.
+In this study, we compared the growth rate of silicon starved P. tricornutum with that of normal cultured cells under different culture conditions.
+Pigment analysis, photosynthesis measurement, lipid analysis, and proteomic analysis showed that silicon plays an important role in P. tricornutum growth and that its presence allows the organism to grow well under green light and low temperature.

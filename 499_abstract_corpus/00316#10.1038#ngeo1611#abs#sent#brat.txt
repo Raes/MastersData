@@ -1,0 +1,10 @@
+Biological processes on glacier and ice sheet surfaces
+Glaciers and ice sheets are melting in response to climate warming.
+Whereas the physical behaviour of glaciers has been studied intensively, the biological processes associated with glaciers and ice sheets have received less attention.
+Nevertheless, field observations and laboratory experiments suggest that biological processes that occur on the surface of glaciers and ice sheets -- collectively termed supraglacial environments -- can affect the physical behaviour of glaciers by changing surface reflectivity.
+Furthermore, supraglacial cyanobacteria and algae capture carbon dioxide from the atmosphere and convert it into organic matter.
+Supraglacial microbes break down this material, together with organic matter transported from further afield, and generate carbon dioxide that is released back into the atmosphere.
+The balance between these two processes will determine whether a glacier is a net sink or source of carbon dioxide.
+In general, ice sheet interiors seem to function as sinks, whereas ice sheet edges and small glaciers act as a source.
+Meltwaters flush microbially modified organic matter and pollutants out of the glacier, with potential consequences for downstream ecosystems.
+We conclude that microbes living on glaciers and ice sheets are an integral part of both the glacial environment and the Earth's ecosystem.

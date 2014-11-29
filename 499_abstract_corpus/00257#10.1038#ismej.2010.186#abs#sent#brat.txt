@@ -1,0 +1,8 @@
+A novel clade of Prochlorococcus found in high nutrient low chlorophyll waters in the South and Equatorial Pacific Ocean
+A novel high-light (HL)-adapted Prochlorococcus clade was discovered in high nutrient and low chlorophyll (HNLC) waters in the South Pacific Ocean by phylogenetic analyses of 16S ribosomal RNA (rRNA) and 16S-23S internal transcribed spacer (ITS) sequences.
+This clade, named HNLC fell within the HL-adapted Prochlorococcus clade with sequences above 99% similarity to one another, and was divided into two subclades, HNLC1 and HNLC2.
+The distribution of the whole HNLC clade in a northwest to southeast transect in the South Pacific (HNLC-to-gyre) and two 8degreesN to 8degreesS transects in the Equatorial Pacific was determined by quantitative PCR using specific primers targeting ITS regions.
+HNLC was the dominant HL Prochlorococcus clade (2-9% of bacterial 16S rRNA genes) at the three westernmost stations in the South Pacific but decreased to less than 0.1% at the other stations being replaced by the eMIT9312 ecotype in the hyperoligotrophic gyre.
+The highest contributions of HNLC Prochlorococcus in both Equatorial Pacific transects along the latitudinal lines of 170degreesW and 155degreesW were observed at the southernmost stations, reaching 16 and 6% of bacterial 16S rRNA genes, respectively, whereas eMIT9312 dominated near the Equator.
+Spearman Rank Order correlation analysis indicated that although both the HNLC clade and eMIT9312 were correlated with temperature, they showed different correlations with regard to nutrients.
+HNLC only showed significant correlations to ammonium uptake and regeneration rates, whereas eMIT9312 was negatively correlated with inorganic nutrients.

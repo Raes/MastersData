@@ -1,0 +1,9 @@
+Global morphological analysis of marine viruses shows minimal regional variation and dominance of non-tailed viruses
+Viruses influence oceanic ecosystems by causing mortality of microorganisms, altering nutrient and organic matter flux via lysis and auxiliary metabolic gene expression and changing the trajectory of microbial evolution through horizontal gene transfer.
+Limited host range and differing genetic potential of individual virus types mean that investigations into the types of viruses that exist in the ocean and their spatial distribution throughout the world's oceans are critical to understanding the global impacts of marine viruses.
+Here we evaluate viral morphological characteristics (morphotype, capsid diameter and tail length) using a quantitative transmission electron microscopy (qTEM) method across six of the world's oceans and seas sampled through the Tara Oceans Expedition.
+Extensive experimental validation of the qTEM method shows that neither sample preservation nor preparation significantly alters natural viral morphological characteristics.
+The global sampling analysis demonstrated that morphological characteristics did not vary consistently with depth (surface versus deep chlorophyll maximum waters) or oceanic region.
+Instead, temperature, salinity and oxygen concentration, but not chlorophyll a concentration, were more explanatory in evaluating differences in viral assemblage morphological characteristics.
+Surprisingly, given that the majority of cultivated bacterial viruses are tailed, non-tailed viruses appear to numerically dominate the upper oceans as they comprised 51-92% of the viral particles observed.
+Together, these results document global marine viral morphological characteristics, show that their minimal variability is more explained by environmental conditions than geography and suggest that non-tailed viruses might represent the most ecologically important targets for future research.

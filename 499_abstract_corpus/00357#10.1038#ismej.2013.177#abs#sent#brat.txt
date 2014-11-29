@@ -1,0 +1,10 @@
+Distinct responses of soil microbial communities to elevated CO2 and O3 in a soybean agro-ecosystem
+The concentrations of atmospheric carbon dioxide (CO2) and tropospheric ozone (O3) have been rising due to human activities.
+However, little is known about how such increases influence soil microbial communities.
+We hypothesized that elevated CO2 (eCO2) and elevated O3 (eO3) would significantly affect the functional composition, structure and metabolic potential of soil microbial communities, and that various functional groups would respond to such atmospheric changes differentially.
+To test these hypotheses, we analyzed 96 soil samples from a soybean free-air CO2 enrichment (SoyFACE) experimental site using a comprehensive functional gene microarray (GeoChip 3.0).
+The results showed the overall functional composition and structure of soil microbial communities shifted under eCO2, eO3 or eCO2+eO3.
+Key functional genes involved in carbon fixation and degradation, nitrogen fixation, denitrification and methane metabolism were stimulated under eCO2, whereas those involved in N fixation, denitrification and N mineralization were suppressed under eO3, resulting in the fact that the abundance of some eO3-supressed genes was promoted to ambient, or eCO2-induced levels by the interaction of eCO2+eO3.
+Such effects appeared distinct for each treatment and significantly correlated with soil properties and soybean yield.
+Overall, our analysis suggests possible mechanisms of microbial responses to global atmospheric change factors through the stimulation of C and N cycling by eCO2, the inhibition of N functional processes by eO3 and the interaction by eCO2 and eO3.
+This study provides new insights into our understanding of microbial functional processes in response to global atmospheric change in soybean agro-ecosystems.

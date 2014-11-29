@@ -1,0 +1,9 @@
+Diversity of active aerobic methanotrophs along depth profiles of arctic and subarctic lake water column and sediments
+Methane (CH4) emitted from high-latitude lakes accounts for 2-6% of the global atmospheric CH4 budget.
+Methanotrophs in lake sediments and water columns mitigate the amount of CH4 that enters the atmosphere, yet their identity and activity in arctic and subarctic lakes are poorly understood.
+We used stable isotope probing (SIP), quantitative PCR (Q-PCR), pyrosequencing and enrichment cultures to determine the identity and diversity of active aerobic methanotrophs in the water columns and sediments (0-25 cm) from an arctic tundra lake (Lake Qalluuraq) on the north slope of Alaska and a subarctic taiga lake (Lake Killarney) in Alaska's interior.
+The water column CH4 oxidation potential for these shallow (~2 m deep) lakes was greatest in hypoxic bottom water from the subarctic lake.
+The type II methanotroph, Methylocystis, was prevalent in enrichment cultures of planktonic methanotrophs from the water columns.
+In the sediments, type I methanotrophs (Methylobacter, Methylosoma and Methylomonas) at the sediment-water interface (0-1 cm) were most active in assimilating CH4, whereas the type I methanotroph Methylobacter and/or type II methanotroph Methylocystis contributed substantially to carbon acquisition in the deeper (15-20 cm) sediments.
+In addition to methanotrophs, an unexpectedly high abundance of methylotrophs also actively utilized CH4-derived carbon.
+This study provides new insight into the identity and activity of methanotrophs in the sediments and water from high-latitude lakes.

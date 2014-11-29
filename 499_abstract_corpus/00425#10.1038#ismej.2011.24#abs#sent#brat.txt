@@ -1,0 +1,13 @@
+Marine bacterial, archaeal and protistan association networks reveal ecological linkages
+Microbes have central roles in ocean food webs and global biogeochemical processes, yet specific ecological relationships among these taxa are largely unknown.
+This is in part due to the dilute, microscopic nature of the planktonic microbial community, which prevents direct observation of their interactions.
+Here, we use a holistic (that is, microbial system-wide) approach to investigate time-dependent variations among taxa from all three domains of life in a marine microbial community.
+We investigated the community composition of bacteria, archaea and protists through cultivation-independent methods, along with total bacterial and viral abundance, and physico-chemical observations.
+Samples and observations were collected monthly over 3 years at a well-described ocean time-series site of southern California.
+To find associations among these organisms, we calculated time-dependent rank correlations (that is, local similarity correlations) among relative abundances of bacteria, archaea, protists, total abundance of bacteria and viruses and physico-chemical parameters.
+We used a network generated from these statistical correlations to visualize and identify time-dependent associations among ecologically important taxa, for example, the SAR11 cluster, stramenopiles, alveolates, cyanobacteria and ammonia-oxidizing archaea.
+Negative correlations, perhaps suggesting competition or predation, were also common.
+The analysis revealed a progression of microbial communities through time, and also a group of unknown eukaryotes that were highly correlated with dinoflagellates, indicating possible symbioses or parasitism.
+Possible 'keystone' species were evident.
+The network has statistical features similar to previously described ecological networks, and in network parlance has non-random, small world properties (that is, highly interconnected nodes).
+This approach provides new insights into the natural history of microbes.

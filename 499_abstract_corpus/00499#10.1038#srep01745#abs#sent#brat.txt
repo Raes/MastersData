@@ -1,0 +1,7 @@
+Diverse stoichiometry of dissolved trace metals in the Indian Ocean
+Trace metals in seawater are essential to organisms and important as tracers of various processes in the ocean.
+However, we do not have a good understanding of the global distribution and cycling of trace metals, especially in the Indian Ocean.
+Here we report the first simultaneous, full-depth, and basin-scale section-distribution of dissolved (D) Al, Mn, Fe, Co, Ni, Cu, Zn, Cd, and Pb in the Indian Ocean.
+Our data reveal widespread co-limitation for phytoplankton production by DFe and occurrence of redox-related processes.
+The stoichiometry of the DM/phosphorus ratio agrees within a factor of 5 between deep waters in the Indian and Pacific, whereas it shows variability up to a factor of 300 among water masses within the Indian Ocean.
+This indicates that a consistent mechanism controls the stoichiometry in the deep waters, which are significantly depleted in Mn, Fe, and Co compared to requirements for phytoplankton.

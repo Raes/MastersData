@@ -1,0 +1,8 @@
+Reproducibility of Vibrionaceae population structure in coastal bacterioplankton
+How reproducibly microbial populations assemble in the wild remains poorly understood.
+Here, we assess evidence for ecological specialization and predictability of fine-scale population structure and habitat association in coastal ocean Vibrionaceae across years.
+We compare Vibrionaceae lifestyles in the bacterioplankton (combinations of free-living, particle, or zooplankton associations) measured using the same sampling scheme in 2006 and 2009 to assess whether the same groups show the same environmental association year after year.
+This reveals complex dynamics with populations falling primarily into two categories: (i) nearly equally represented in each of the two samplings and (ii) highly skewed, often to an extent that they appear exclusive to one or the other sampling times.
+Importantly, populations recovered at the same abundance in both samplings occupied highly similar habitats suggesting predictable and robust environmental association while skewed abundances of some populations may be triggered by shifts in ecological conditions.
+The latter is supported by difference in the composition of large eukaryotic plankton between years, with samples in 2006 being dominated by copepods, and those in 2009 by diatoms.
+Overall, the comparison supports highly predictable population-habitat linkage but highlights the fact that complex, and often unmeasured, environmental dynamics in habitat occurrence may have strong effects on population dynamics.

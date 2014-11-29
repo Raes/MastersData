@@ -1,0 +1,9 @@
+Microbial diversity and impact on carbonate geochemistry across a changing geochemical gradient in a karst aquifer
+Although microbes are known to influence karst (carbonate) aquifer ecosystem-level processes, comparatively little information is available regarding the diversity of microbial activities that could influence water quality and geological modification.
+To assess microbial diversity in the context of aquifer geochemistry, we coupled 16S rRNA Sanger sequencing and 454 tag pyrosequencing to in situ microcosm experiments from wells that cross the transition from fresh to saline and sulfidic water in the Edwards Aquifer of central Texas, one of the largest karst aquifers in the United States.
+The distribution of microbial groups across the transition zone correlated with dissolved oxygen and sulfide concentration, and significant variations in community composition were explained by local carbonate geochemistry, specifically calcium concentration and alkalinity.
+The waters were supersaturated with respect to prevalent aquifer minerals, calcite and dolomite, but in situ microcosm experiments containing these minerals revealed significant mass loss from dissolution when colonized by microbes.
+Despite differences in cell density on the experimental surfaces, carbonate loss was greater from freshwater wells than saline, sulfidic wells.
+However, as cell density increased, which was correlated to and controlled by local geochemistry, dissolution rates decreased.
+Surface colonization by metabolically active cells promotes dissolution by creating local disequilibria between bulk aquifer fluids and mineral surfaces, but this also controls rates of karst aquifer modification.
+These results expand our understanding of microbial diversity in karst aquifers and emphasize the importance of evaluating active microbial processes that could affect carbonate weathering in the subsurface.

@@ -1,0 +1,7 @@
+The significance of nitrogen cost minimization in proteomes of marine microorganisms
+Marine microorganisms thrive under low levels of nitrogen (N).
+N cost minimization is a major selective pressure imprinted on open-ocean microorganism genomes.
+Here we show that amino-acid sequences from the open ocean are reduced in N, but increased in average mass compared with coastal-ocean microorganisms.
+Nutrient limitation exerts significant pressure on organisms supporting the trade-off between N cost minimization and increased average mass of amino acids that is a function of increased A+T codon usage.
+N cost minimization, especially of highly expressed proteins, reduces the total cellular N budget by 2.7-10%; this minimization in combination with reduction in genome size and cell size is an evolutionary adaptation to nutrient limitation.
+The biogeochemical and evolutionary precedent for these findings suggests that N limitation is a stronger selective force in the ocean than biosynthetic costs and is an important evolutionary strategy in resource-limited ecosystems.

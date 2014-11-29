@@ -1,0 +1,8 @@
+Microbial iron uptake as a mechanism for dispersing iron from deep-sea hydrothermal vents
+Deep-sea hydrothermal vents are a significant source of oceanic iron.
+Although hydrothermal iron rapidly precipitates as inorganic minerals on mixing with seawater, it can be stabilized by organic matter and dispersed more widely than previously recognized.
+The nature and source of this organic matter is unknown.
+Here we show that microbial genes involved in cellular iron uptake are highly expressed in the Guaymas Basin deep-sea hydrothermal plume.
+The nature of these microbial iron transporters, taken together with the low concentration of dissolved iron and abundance of particulate iron in the plume, indicates that iron minerals are the target for this microbial scavenging and uptake.
+Our findings indicate that cellular iron uptake is a major process in plume microbial communities and suggest new mechanisms for generating Fe-C complexes.
+This 'microbial iron pump' could represent an important mode of converting hydrothermal iron into bioavailable forms that can be dispersed throughout the oceans.

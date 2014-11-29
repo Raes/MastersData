@@ -1,0 +1,6 @@
+Cleaning up with genomics: applying molecular biology to bioremediation
+Bioremediation has the potential to restore contaminated environments inexpensively yet effectively, but a lack of information about the factors controlling the growth and metabolism of microorganisms in polluted environments often limits its implementation.
+However, rapid advances in the understanding of bioremediation are on the horizon.
+Researchers now have the ability to culture microorganisms that are important in bioremediation and can evaluate their physiology using a combination of genome-enabled experimental and modelling techniques.
+In addition, new environmental genomic techniques offer the possibility for similar studies on as-yet-uncultured organisms.
+Combining models that can predict the activity of microorganisms that are involved in bioremediation with existing geochemical and hydrological models should transform bioremediation from a largely empirical practice into a science.

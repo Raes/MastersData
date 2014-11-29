@@ -1,0 +1,11 @@
+Single-cell enabled comparative genomics of a deep ocean SAR11 bathytype
+Bacterioplankton of the SAR11 clade are the most abundant microorganisms in marine systems, usually representing 25% or more of the total bacterial cells in seawater worldwide.
+SAR11 is divided into subclades with distinct spatiotemporal distributions (ecotypes), some of which appear to be specific to deep water.
+Here we examine the genomic basis for deep ocean distribution of one SAR11 bathytype (depth-specific ecotype), subclade Ic.
+Four single-cell Ic genomes, with estimated completeness of 55%-86%, were isolated from 770 m at station ALOHA and compared with eight SAR11 surface genomes and metagenomic datasets.
+Subclade Ic genomes dominated metagenomic fragment recruitment below the euphotic zone.
+They had similar COG distributions, high local synteny and shared a large number (69%) of orthologous clusters with SAR11 surface genomes, yet were distinct at the 16S rRNA gene and amino-acid level, and formed a separate, monophyletic group in phylogenetic trees.
+Subclade Ic genomes were enriched in genes associated with membrane/cell wall/envelope biosynthesis and showed evidence of unique phage defenses.
+The majority of subclade Ic-specfic genes were hypothetical, and some were highly abundant in deep ocean metagenomic data, potentially masking mechanisms for niche differentiation.
+However, the evidence suggests these organisms have a similar metabolism to their surface counterparts, and that subclade Ic adaptations to the deep ocean do not involve large variations in gene content, but rather more subtle differences previously observed deep ocean genomic data, like preferential amino-acid substitutions, larger coding regions among SAR11 clade orthologs, larger intergenic regions and larger estimated average genome size.
+The ISME Journal advance online publication, 23 January 2014; doi:10.1038/ismej.2013.243

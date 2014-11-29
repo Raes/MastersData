@@ -1,0 +1,10 @@
+Greenland meltwater as a significant and potentially bioavailable source of iron to the ocean
+The micronutrient iron is thought to limit primary productivity in large regions of the global ocean.
+Ice sheets and glaciers have been shown to deliver bioavailable iron to the coastal and open ocean in the form of sediment released from the base of icebergs and glacially derived dust.
+More direct measurements from glacial runoff are limited, but iron concentrations are thought to be in the nanomolar range.
+Here we present measurements of dissolved and particulate iron concentrations in glacial meltwater from the southwest margin of the Greenland ice sheet.
+We report micromolar concentrations of dissolved and particulate iron.
+Particulate iron concentrations were on average an order of magnitude higher than those of dissolved iron, and around 50% of this particulate iron was deemed to be potentially bioavailable, on the basis of experimental leaching.
+If our observations are scalable to the entire ice sheet, then the annual flux of dissolved and potentially bioavailable particulate iron to the North Atlantic Ocean would be approximately 0.3 Tg.
+This is comparable to dust-derived soluble iron inputs to the North Atlantic.
+We suggest that glacial runoff serves as a significant source of bioavailable iron to surrounding coastal oceans, which is likely to increase as melting of the Greenland ice sheet escalates under climate warming.

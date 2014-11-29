@@ -1,0 +1,8 @@
+Simulated response of the ocean carbon cycle to anthropogenic climate warming
+A 1995 report of the Intergovernmental Panel on Climate Change provides a set of illustrative anthropogenic CO2 emission models leading to stabilization of atmospheric CO2 concentrations ranging from 350 to 1,000 p.p.m. (refs 1-4).
+Ocean carbon-cycle models used in calculating these scenarios assume that oceanic circulation and biology remain unchanged through time.
+Here we examine the importance of this assumption by using a coupled atmosphere-ocean model of global warming for the period 1765 to 2065.
+We find a large potential modification to the ocean carbon sink in a vast region of the Southern Ocean where increased rainfall leads to surface freshening and increased stratification.
+The increased stratification reduces the downward flux of carbon and the loss of heat to the atmosphere, both of which decrease the oceanic uptake of anthropogenic CO2 relative to a constant-climate control scenario.
+Changes in the formation, transport and cycling of biological material may counteract the reduced uptake, but the response of the biological community to the climate change is difficult to predict on present understanding.
+Our simulation suggests that such physical and biological changes might already be occurring, and that they could substantially affect the ocean carbon sink over the next few decades.

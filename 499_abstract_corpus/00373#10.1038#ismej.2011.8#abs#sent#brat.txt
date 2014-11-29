@@ -1,0 +1,12 @@
+Seasonal bloom dynamics and ecophysiology of the freshwater sister clade of SAR11 bacteria 'that rule the waves' (LD12)
+Alphaproteobacteria are common members of marine bacterioplankton assemblages, but are believed to be rare in lacustrine systems.
+However, uncultured Alphaproteobacteria of the freshwater LD12 lineage form a tight monophyletic sister group with the numerically dominant bacteria in marine epipelagic waters, the SAR11 clade or genus Pelagibacter.
+Comparative rRNA sequence analysis reveals a global occurrence of LD12 bacteria in freshwater systems.
+The association of genotypic subclades with single-study systems moreover suggests a regional diversification.
+LD12 bacteria exhibit distinct and annually recurring spatio-temporal distribution patterns in prealpine lakes, as assessed by seasonally resolved vertical profiling and high-throughput cell counting.
+During the summer months, these ultramicrobacteria can form cell densities in the surface (epilimnetic) water layers that are comparable to those of their marine counterparts (>5 x 108 cells per l).
+LD12 bacteria had a pronounced preference for glutamine and glutamate over 7 other amino acids in situ, and they exhibited substantially higher uptake of these two substrates (and glycine) than the microbial assemblage in general.
+In addition, members of LD12 were also able to exploit other monomeric sources of organic carbon such as glucose, fructose or acetate.
+LD12 seemed to follow an oligotrophic lifestyle with slow but efficient uptake already at low substrate concentrations.
+Thus, LD12 bacteria do not only share phenotypic and metabolic traits with Pelagibacter, but also seem to thrive in the analogous spatiotemporal niche in freshwaters.
+The two groups together form one of the rare monophyletic lineages of ultramicrobacteria that have successfully traversed the barrier between marine and freshwater habitats.

@@ -1,0 +1,7 @@
+Phylodynamics and movement of Phycodnaviruses among aquatic environments
+Phycodnaviruses have a significant role in modulating the dynamics of phytoplankton, thereby influencing community structure and succession, nutrient cycles and potentially atmospheric composition because phytoplankton fix about half the carbon dioxide (CO2) on the planet, and some algae release dimethylsulphoniopropionate when lysed by viruses.
+Despite their ecological importance and widespread distribution, relatively little is known about the evolutionary history, phylogenetic relationships and phylodynamics of the Phycodnaviruses from freshwater environments.
+Herein we provide novel data on Phycodnaviruses from the largest river system on earth--the Amazon Basin--that were compared with samples from different aquatic systems from several places around the world.
+Based on phylogenetic inference using DNA polymerase (pol) sequences we show the presence of distinct populations of Phycodnaviridae.
+Preliminary coarse-grained phylodynamics and phylogeographic inferences revealed a complex dynamics characterized by long-term fluctuations in viral population sizes, with a remarkable worldwide reduction of the effective population around 400 thousand years before the present (KYBP), followed by a recovery near to the present time.
+Moreover, we present evidence for significant viral gene flow between freshwater environments, but crucially almost none between freshwater and marine environments.

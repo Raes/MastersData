@@ -1,0 +1,11 @@
+Biological and chemical sulfide oxidation in a Beggiatoa inhabited marine sediment
+The ecological niche of nitrate-storing Beggiatoa, and their contribution to the removal of sulfide were investigated in coastal sediment.
+With microsensors a clear suboxic zone of 2-10 cm thick was identified, where neither oxygen nor free sulfide was detectable.
+In this zone most of the Beggiatoa were found, where they oxidize sulfide with internally stored nitrate.
+The sulfide input into the suboxic zone was dominated by an upward sulfide flux from deeper sediment, whereas the local production in the suboxic zone was much smaller.
+Despite their abundance, the calculated sulfide-oxidizing capacity of the Beggiatoa could account for only a small fraction of the total sulfide removal in the sediment.
+Consequently, most of the sulfide flux into the suboxic layer must have been removed by chemical processes, mainly by precipitation with Fe2+ and oxidation by Fe(III), which was coupled with a pH increase.
+The free Fe2+ diffusing upwards was oxidized by Mn(IV), resulting in a strong pH decrease.
+The nitrate storage capacity allows Beggiatoa to migrate randomly up and down in anoxic sediments with an accumulated gliding distance of 4 m before running out of nitrate.
+We propose that the steep sulfide gradient and corresponding high sulfide flux, a typical characteristic of Beggiatoa habitats, is not needed for their metabolic performance, but rather used as a chemotactic cue by the highly motile filaments to avoid getting lost at depth in the sediment.
+Indeed sulfide is a repellant for Beggiatoa.

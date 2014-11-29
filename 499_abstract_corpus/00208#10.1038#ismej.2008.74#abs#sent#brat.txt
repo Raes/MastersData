@@ -1,0 +1,9 @@
+Comparative genomics of two ecotypes of the marine planktonic copiotroph Alteromonas macleodii suggests alternative lifestyles associated with different kinds of particulate organic matter
+Alteromonas macleodii is a common marine heterotrophic gamma-proteobacterium.
+Isolates from this microbe cluster by molecular analysis into two major genotypic groups or ecotypes, one found in temperate latitudes in the upper water column and another that is for the most part found in the deep water column of the Mediterranean.
+Here, we describe the genome of one strain of the 'deep ecotype' (AltDE) isolated from 1000 m in the Eastern Mediterranean and compare this genome with that of the type strain ATCC 27126, a representative of the global 'surface' ecotype.
+The genomes are substantially different with DNA sequence similarity values that are borderline for microbes belonging to the same species, and a large differential gene content, mainly found in islands larger than 20 kbp, that also recruit poorly to the Global Ocean Sampling project (GOS).
+These genomic differences indicate that AltDE is probably better suited to microaerophilic conditions and for the degradation of recalcitrant compounds such as urea.
+These, together with other features, and the distribution of this genotypic group, indicate that this microbe colonizes relatively large particles that sink rapidly to meso and bathypelagic depths.
+The genome of ATCC 27126 on the other hand has more potential for regulation (two component systems) and degrades more sugars and amino acids, which is consistent with a more transient particle attachment, as would be expected for lineages specialized in colonizing smaller particulate organic matter with much slower sinking rates.
+The genomic data are also consistent with a picture of incipient speciation driven by niche specialization.

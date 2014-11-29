@@ -1,0 +1,9 @@
+Effects of freeze-thaw cycles on anaerobic microbial processes in an Arctic intertidal mud flat
+Insight into the effects of repeated freezing and thawing on microbial processes in sediments and soils is important for understanding sediment carbon cycling at high latitudes acutely affected by global warming.
+Microbial responses to repeated freeze-thaw conditions were studied in three complementary experiments using arctic sediment collected from an intertidal flat that is exposed to seasonal freeze-thaw conditions (Ymerbukta, Svalbard, Arctic Ocean).
+The sediment was subjected to oscillating freeze-thaw incubations, either gradual, from -5 to 4 degreesC, or abrupt, from -20 to 10 degreesC.
+Concentrations of low-molecular weight carboxylic acids (volatile fatty acids) were measured and sulfate reduction was assessed by measuring 35S sulfate reduction rates (SRRs).
+Gradual freeze-thaw incubation decreased microbial activity in the frozen state to 0.25 % of initial levels at 4 degreesC, but activity resumed rapidly reaching >60 % of initial activity in the thawed state.
+Exposure of sediments to successive large temperature changes (-20 versus 10 degreesC) decreased SRR by 80% of the initial activity, suggesting that a fraction of the bacterial community recovered rapidly from extreme temperature fluctuations.
+This is supported by 16S rRNA gene-based denaturing gradient gel electrophoresis profiles that revealed persistence of the dominant microbial taxa under repeated freeze-thaw cycles.
+The fast recovery of the SRRs suggests that carbon mineralization in thawing arctic sediment can resume without delay or substantial growth of microbial populations.

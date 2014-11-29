@@ -1,0 +1,7 @@
+The oceanic biological pump modulates the atmospheric transport of persistent organic pollutants to the Arctic
+Semivolatile persistent organic pollutants have the potential to reach remote environments, such as the Arctic Ocean, through atmospheric transport and deposition.
+Here we show that this transport of polychlorinated biphenyls to the Arctic Ocean is strongly retarded by the oceanic biological pump.
+A simultaneous sampling of atmospheric, seawater and plankton samples was performed in July 2007 in the Greenland Current and Atlantic sector of the Arctic Ocean.
+The atmospheric concentrations declined during atmospheric transport over the Greenland Current with estimated half-lives of 1-4 days.
+These short half-lives can be explained by the high air-to-water net diffusive flux, which is similar in magnitude to the estimated settling fluxes in the water column.
+Therefore, the decrease of atmospheric concentrations is due to sequestration of atmospheric polychlorinated biphenyls by enhanced air-water diffusive fluxes driven by phytoplankton uptake and organic carbon settling fluxes (biological pump).

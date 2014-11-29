@@ -1,0 +1,8 @@
+Sulfur oxidizers dominate carbon fixation at a biogeochemical hot spot in the dark ocean
+Bacteria and archaea in the dark ocean (>200 m) comprise 0.3-1.3 billion tons of actively cycled marine carbon.
+Many of these microorganisms have the genetic potential to fix inorganic carbon (autotrophs) or assimilate single-carbon compounds (methylotrophs).
+We identified the functions of autotrophic and methylotrophic microorganisms in a vent plume at Axial Seamount, where hydrothermal activity provides a biogeochemical hot spot for carbon fixation in the dark ocean.
+Free-living members of the SUP05/Arctic96BD-19 clade of marine gamma-proteobacterial sulfur oxidizers (GSOs) are distributed throughout the northeastern Pacific Ocean and dominated hydrothermal plume waters at Axial Seamount.
+Marine GSOs expressed proteins for sulfur oxidation (adenosine phosphosulfate reductase, sox (sulfur oxidizing system), dissimilatory sulfite reductase and ATP sulfurylase), carbon fixation (ribulose-1,5-bisphosphate carboxylase oxygenase (RuBisCO)), aerobic respiration (cytochrome c oxidase) and nitrogen regulation (PII).
+Methylotrophs and iron oxidizers were also active in plume waters and expressed key proteins for methane oxidation and inorganic carbon fixation (particulate methane monooxygenase/methanol dehydrogenase and RuBisCO, respectively).
+Proteomic data suggest that free-living sulfur oxidizers and methylotrophs are among the dominant primary producers in vent plume waters in the northeastern Pacific Ocean.

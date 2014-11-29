@@ -1,0 +1,10 @@
+Spatial and temporal dynamics of the microbial community in the Hanford unconfined aquifer
+Pyrosequencing analysis of 16S rRNA genes was used to study temporal dynamics of groundwater bacteria and archaea over 10 months within three well clusters separated by ~30 m and located 250 m from the Columbia River on the Hanford Site, WA.
+Each cluster contained three wells screened at different depths ranging from 10 to 17 m that differed in hydraulic conductivities.
+Representative samples were selected for analyses of prokaryotic 16S and eukaryotic 18S rRNA gene copy numbers.
+Temporal changes in community composition occurred in all nine wells over the 10-month sampling period.
+However, there were particularly strong effects near the top of the water table when the seasonal rise in the Columbia River caused river water intrusion at the top of the aquifer.
+The occurrence and disappearance of some microbial assemblages (such as Actinobacteria ACK-M1) were correlated with river water intrusion.
+This seasonal impact on microbial community structure was greater in the shallow saturated zone than deeper zone in the aquifer.
+Spatial and temporal patterns for several 16S rRNA gene operational taxonomic units associated with particular physiological functions (for example, methane oxidizers and metal reducers) suggests dynamic changes in fluxes of electron donors and acceptors over an annual cycle.
+In addition, temporal dynamics in eukaryotic 18S rRNA gene copies and the dominance of protozoa in 18S clone libraries suggest that bacterial community dynamics could be affected not only by the physical and chemical environment but also by top-down biological control.

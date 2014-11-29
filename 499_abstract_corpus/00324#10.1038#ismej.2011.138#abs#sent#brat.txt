@@ -1,0 +1,7 @@
+Analysis of the community structure of abyssal kinetoplastids revealed similar communities at larger spatial scales
+Knowledge of the spatial scales of diversity is necessary to evaluate the mechanisms driving biodiversity and biogeography in the vast but poorly understood deep sea.
+The community structure of kinetoplastids, an important group of microbial eukaryotes belonging to the Euglenozoa, from all abyssal plains of the South Atlantic and two areas of the eastern Mediterranean was studied using partial small subunit ribosomal DNA gene clone libraries.
+A total of 1364 clones from 10 different regions were retrieved.
+The analysis revealed statistically not distinguishable communities from both the South-East Atlantic (Angola and Guinea Basin) and the South-West Atlantic (Angola and Brazil Basin) at spatial scales of 1000-3000 km, whereas all other communities were significantly differentiated from one another.
+It seems likely that multiple processes operate at the same time to shape communities of deep-sea kinetoplastids.
+Nevertheless, constant and homogenous environmental conditions over large spatial scales at abyssal depths, together with high dispersal capabilities of microbial eukaryotes, maintain best the results of statistically indistinguishable communities at larger spatial scales.

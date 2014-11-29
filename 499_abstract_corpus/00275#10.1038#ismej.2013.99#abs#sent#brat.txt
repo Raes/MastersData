@@ -1,0 +1,9 @@
+Microbial minorities modulate methane consumption through niche partitioning
+Microbes catalyze all major geochemical cycles on earth.
+However, the role of microbial traits and community composition in biogeochemical cycles is still poorly understood mainly due to the inability to assess the community members that are actually performing biogeochemical conversions in complex environmental samples.
+Here we applied a polyphasic approach to assess the role of microbial community composition in modulating methane emission from a riparian floodplain.
+We show that the dynamics and intensity of methane consumption in riparian wetlands coincide with relative abundance and activity of specific subgroups of methane-oxidizing bacteria (MOB), which can be considered as a minor component of the microbial community in this ecosystem.
+Microarray-based community composition analyses demonstrated linear relationships of MOB diversity parameters and in vitro methane consumption.
+Incubations using intact cores in combination with stable isotope labeling of lipids and proteins corroborated the correlative evidence from in vitro incubations demonstrating gamma-proteobacterial MOB subgroups to be responsible for methane oxidation.
+The results obtained within the riparian flooding gradient collectively demonstrate that niche partitioning of MOB within a community comprised of a very limited amount of active species modulates methane consumption and emission from this wetland.
+The implications of the results obtained for biodiversity-ecosystem functioning are discussed with special reference to the role of spatial and temporal heterogeneity and functional redundancy.

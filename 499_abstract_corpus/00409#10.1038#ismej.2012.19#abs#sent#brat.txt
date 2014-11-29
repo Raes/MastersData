@@ -1,0 +1,12 @@
+Changes in coral microbial communities in response to a natural pH gradient
+Surface seawater pH is currently 0.1 units lower than pre-industrial values and is projected to decrease by up to 0.4 units by the end of the century.
+This acidification has the potential to cause significant perturbations to the physiology of ocean organisms, particularly those such as corals that build their skeletons/shells from calcium carbonate.
+Reduced ocean pH could also have an impact on the coral microbial community, and thus may affect coral physiology and health.
+Most of the studies to date have examined the impact of ocean acidification on corals and/or associated microbiota under controlled laboratory conditions.
+Here we report the first study that examines the changes in coral microbial communities in response to a natural pH gradient (mean pHT 7.3-8.1) caused by volcanic CO2 vents off Ischia, Gulf of Naples, Italy.
+Two Mediterranean coral species, Balanophyllia europaea and Cladocora caespitosa, were examined.
+The microbial community diversity and the physiological parameters of the endosymbiotic dinoflagellates (Symbiodinium spp.)
+were monitored.
+We found that pH did not have a significant impact on the composition of associated microbial communities in both coral species.
+In contrast to some earlier studies, we found that corals present at the lower pH sites exhibited only minor physiological changes and no microbial pathogens were detected.
+Together, these results provide new insights into the impact of ocean acidification on the coral holobiont.

@@ -1,0 +1,10 @@
+Species-specific growth response of coccolithophores to Palaeocene-Eocene environmental change
+Coccolithophores--single-celled calcifying phytoplankton--represent an essential footing to marine ecosystems, yet their sensitivity to environmental change, and in particular increases in atmospheric CO2, is poorly understood.
+During the Palaeocene-Eocene Thermal Maximum (PETM), about 56 million years ago, atmospheric CO2 concentrations rose rapidly and the oceans acidified, making this an ideal time interval to examine coccolithophore responses to environmental change.
+Here we compare the results of experiments on modern coccolithophore species with exceptional fossil coccosphere records of the PETM, providing a cellular-level perspective.
+In modern taxa, we find that during the exponential growth phase of rapid cell division, small cells with few coccoliths are produced, whereas larger cells with more coccoliths are produced during slowed cell division.
+Applying these diagnostic features to the PETM fossil record, we find that the dominant species exhibited different growth responses to the environmental forcing.
+Toweius pertusus shows geometry indicative of rapid cell division.
+In contrast, we suggest that cells of Coccolithus pelagicus grew more slowly during the period of environmental change.
+In the modern ocean, Emiliania huxleyi, which is closely related to the extinct T. pertusus, is prolific and widespread, whereas C. pelagicus is more limited in range and abundance.
+We argue that these different responses to environmental change were critical to the post-PETM evolutionary success of the descendants of these taxa.

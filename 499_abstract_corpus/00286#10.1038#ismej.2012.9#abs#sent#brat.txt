@@ -1,0 +1,7 @@
+Microbial diversity in arctic freshwaters is structured by inoculation of microbes from soils
+Microbes are transported in hydrological networks through many environments, but the nature and dynamics of underlying microbial metacommunities and the impact of downslope inoculation on patterns of microbial diversity across landscapes are unknown.
+Pyrosequencing of small subunit ribosomal RNA gene hypervariable regions to characterize microbial communities along a hydrological continuum in arctic tundra showed a pattern of decreasing diversity downslope, with highest species richness in soil waters and headwater streams, and lowest richness in lake water.
+In a downstream lake, 58% and 43% of the bacterial and archaeal taxa, respectively, were also detected in diverse upslope communities, including most of the numerically dominant lake taxa.
+In contrast, only 18% of microbial eukaryotic taxa in the lake were detected upslope.
+We suggest that patterns of diversity in surface waters are structured by initial inoculation from microbial reservoirs in soils followed by a species-sorting process during downslope dispersal of both common and rare microbial taxa.
+Our results suggest that, unlike for metazoans, a substantial portion of bacterial and archaeal diversity in surface freshwaters may originate in complex soil environments.

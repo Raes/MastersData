@@ -1,0 +1,9 @@
+Subsurface ecosystem resilience: long-term attenuation of subsurface contaminants supports a dynamic microbial community
+The propensity for groundwater ecosystems to recover from contamination by organic chemicals (in this case, coal-tar waste) is of vital concern for scientists and engineers who manage polluted sites.
+The microbially mediated cleanup processes are also of interest to ecologists because they are an important mechanism for the resilience of ecosystems.
+In this study we establish the long-term dynamic nature of a coal-tar waste-contaminated site and its microbial community.
+We present 16 years of chemical monitoring data, tracking responses of a groundwater ecosystem to organic contamination (naphthalene, xylenes, toluene, 2-methyl naphthalene and acenaphthylene) associated with coal-tar waste.
+In addition, we analyzed small-subunit (SSU) ribosomal RNA (rRNA) genes from two contaminated wells at multiple time points over a 2-year period.
+Principle component analysis of community rRNA fingerprints (terminal-restriction fragment length polymorphism (T-RFLP)) showed that the composition of native microbial communities varied temporally, yet remained distinctive from well to well.
+After screening and analysis of 1178 cloned SSU rRNA genes from Bacteria, Archaea and Eukarya, we discovered that the site supports a robust variety of eukaryotes (for example, alveolates (especially anaerobic and predatory ciliates), stramenopiles, fungi, even the small metazoan flatworm, Suomina) that are absent from an uncontaminated control well.
+This study links the dynamic microbial composition of a contaminated site with the long-term attenuation of its subsurface contaminants.

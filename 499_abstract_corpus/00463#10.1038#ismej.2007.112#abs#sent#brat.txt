@@ -1,0 +1,15 @@
+Changes in coral-associated microbial communities during a bleaching event
+Environmental stressors such as increased sea surface temperatures are well-known for contributing to coral bleaching; however, the effect of increased temperatures and subsequent bleaching on coral-associated microbial communities is poorly understood.
+Colonies of the hard coral Acropora millepora were tagged on a reef flat off Magnetic Island (Great Barrier Reef) and surveyed over 2.5 years, which included a severe bleaching event in January/February 2002.
+Daily average water temperatures exceeded the previous 10-year average by more than 1 degreesC for extended periods with field-based visual surveys recording all tagged colonies displaying signs of bleaching.
+During the bleaching period, direct counts of coral zooxanthellae densities decreased by ~64%, before recovery to pre-bleaching levels after the thermal stress event.
+A subset of three tagged coral colonies were sampled through the bleaching event and changes in the microbial community elucidated.
+Denaturing gradient gel electrophoresis (DGGE) analysis demonstrated conserved bacterial banding profiles between the three coral colonies, confirming previous studies highlighting specific microbial associations.
+As coral colonies bleached, the microbial community shifted and redundancy analysis (RDA) of DGGE banding patterns revealed a correlation of increasing temperature with the appearance of Vibrio-affiliated sequences.
+Interestingly, this shift to a Vibrio-dominated community commenced prior to visual signs of bleaching.
+Clone libraries hybridized with Vibrio-specific oligonucleotide probes confirmed an increase in the fraction of Vibrio-affiliated clones during the bleaching period.
+Post bleaching, the coral microbial associations again shifted, returning to a profile similar to the fingerprints prior to bleaching.
+This provided further evidence for corals selecting and shaping their microbial partners.
+For non-bleached samples, a close association with Spongiobacter-related sequences were revealed by both clone libraries and DGGE profiling.
+Despite Vibrio species being previously implicated in bleaching of specific coral species, it is unsure if the relative increase in retrieved Vibrio sequences is due to bacterial infection or an opportunistic response to compromised health and changing environmental parameters of the coral host.
+This study provides the first molecular-based study demonstrating changes in coral-associated bacterial assemblages during a bleaching event on a natural reef system.

@@ -1,0 +1,11 @@
+Microbial community gene expression within colonies of the diazotroph, Trichodesmium, from the Southwest Pacific Ocean
+Trichodesmium are responsible for a large fraction of open ocean nitrogen fixation, and are often found in complex consortia of other microorganisms, including viruses, prokaryotes, microbial eukaryotes and metazoa.
+We applied a community gene expression (metatranscriptomic) approach to study the patterns of microbial gene utilization within colonies of Trichodesmium collected during a bloom in the Southwest Pacific Ocean in April 2007.
+The survey generated 5711-day and 5385-night putative mRNA reads.
+The majority of mRNAs were from the co-occurring microorganisms and not Trichodesmium, including other cyanobacteria, heterotrophic bacteria, eukaryotes and phage.
+Most transcripts did not share homology with proteins from cultivated microorganisms, but were similar to shotgun sequences and unannotated proteins from open ocean metagenomic surveys.
+Trichodesmium transcripts were mostly expressed photosynthesis, N2 fixation and S-metabolism genes, whereas those in the co-occurring microorganisms were mostly involved in genetic information storage and processing.
+Detection of Trichodesmium genes involved in P uptake and As detoxification suggest that local enrichment of N through N2 fixation may lead to a P-stress response.
+Although containing similar dominant transcripts to open ocean metatranscriptomes, the overall pattern of gene expression in Trichodesmium colonies was distinct from free-living pelagic assemblages.
+The identifiable genes expressed by Trichodesmium and closely associated microorganisms reflect the constraints of life in well-lit and nutrient-poor waters, with biosynthetic investment in nutrient acquisition and cell maintenance, which is in contrast to gene transcription by soil and coastal seawater microbial assemblages.
+The results provide insight into aggregate microbial communities in contrast to planktonic free-living assemblages that are the focus of other studies.
