@@ -17,6 +17,8 @@ Contains;
 
  - Various charts and diagrams for report purposes. (Diagrams)
 
+ - Scripts for various necessary functions (Scripts)
+
  - This README file
 
 
