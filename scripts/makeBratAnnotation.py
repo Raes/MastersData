@@ -7,7 +7,7 @@ import os
 '''
 This script is for converting NER output files into Brat annotation format.
 
-v1.0 - single file, chemspot support only
+v2.0 - all .chem files in directory, chemspot support only
 
 Created by: Sean Holloway 05-05-2015
 '''
@@ -67,7 +67,7 @@ for file in fileList:
     with open(file) as f:
 
         #create output file
-        bratFormatFile = open(path + '/output/bratFormat0' + str(fileList.index(f.name) + 1) + '.ann' , 'w')
+        bratFormatFile = open(path + '/output/000' + str(fileList.index(f.name) + 1) + 'bratFormat' + '.ann' , 'w')
         #print "Creating output file: " + bratFormatFile.name
 
         #skip first line as this is a chemspot header
