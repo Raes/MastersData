@@ -8,7 +8,9 @@ import re
 This script is for comparing two directories of files. Each file pair will look for annotation matches
 and compute precision/recall/f-score for each pair. It will then compute precision/recall/f-score for total.
 
-v1.0 - single file pair
+This script is meant to be as verbose as necessary so that it can be expanded upon by other students later.
+
+v1.0 - compounds only
 
 Created by: Sean Holloway 05-05-2015, python 2.7.5
 '''
@@ -18,7 +20,7 @@ def natural_sort_key(s, _nsre=re.compile('([0-9]+)')):
     return [int(text) if text.isdigit() else text.lower()
             for text in re.split(_nsre, s)]    
 
-#Gets two directory paths from user and checks if they are directories, and they have same number of files
+#Gets two directory paths from user and checks if they are directories and that they have same number of files
 def getPaths():
 
 	while True:
@@ -45,6 +47,7 @@ def getPaths():
 		#print str(fileList2)
 
 		evalTypeList = ["compound", "location", "species"]
+
 		try:
 			evalType = str(raw_input("Please enter evaluation type; Compound, Location, Species. Single answers only: "))
 			pass
@@ -73,6 +76,10 @@ def evalSet(file1, file2, evalType):
 	true_pos = 0
 	false_pos = 0
 	gs_count= 0
+	global total_true_pos
+	global total_false_pos
+	global total_false_neg
+
 	
 	with open(file1) as f1:
 
@@ -94,8 +101,8 @@ def evalSet(file1, file2, evalType):
 
 	f2.close()
 
-	print "Split file 1 \n" + str(split_file1)
-	print "Split file 2 \n" + str(split_file2)
+	print "Split file 1 \n" + str(split_file1) + '\n'
+	print "Split file 2 \n" + str(split_file2) + '\n'
 
 	for line1 in split_file2:
 		temp_pos = true_pos
@@ -111,6 +118,10 @@ def evalSet(file1, file2, evalType):
 	false_neg = gs_count - true_pos
 
 	print "true_pos:" + str(true_pos) + " false_pos:" + str(false_pos) + " false_neg:" + str(false_neg) + " gs_count:" + str(gs_count)
+
+	total_true_pos += true_pos
+	total_false_pos += false_pos
+	total_false_neg += false_neg
 
 	try:
 		precision = Fraction(true_pos , (true_pos + false_pos))
@@ -135,8 +146,11 @@ def evalSet(file1, file2, evalType):
 	print '\n'
 	return precision,recall,fscore
 
-#Get and assign file lists, type to eval
+#Get and assign file lists, type to evaluate
 fileList1, fileList2, evalType = getPaths()
+total_true_pos = 0
+total_false_pos = 0
+total_false_neg = 0
 
 print "fileList1: " + str(fileList1) + '\n'
 print "fileList2: " + str(fileList2) + '\n'
@@ -155,6 +169,14 @@ for x in range(1, len(fileList1) + 1):
 	results.write("Evaluating test file: " + str(fileList2[x-1]) + " against gold standard file" + str(fileList1[x-1]) + '\n')
 	results.write("Precision:" + str(p) + " Recall:" + str(r) + " F-score:" + str(f) + '\n')
 	results.write('\n')
+
+results.write("Total true_pos:" + str(total_true_pos) + " Total false_pos:" + str(total_false_pos) + " Total false_neg:" + str(total_false_neg) + '\n')
+
+avg_precision = Fraction(total_true_pos , (total_true_pos + total_false_pos))
+avg_recall = Fraction(total_true_pos , abs(total_true_pos + total_false_neg))
+avg_fscore = abs(2 * ((avg_precision * avg_recall) / (avg_precision + avg_recall)))
+
+results.write("Average Precision:" + str(avg_precision) + " Average Recall:" + str(avg_recall) + " Average fscore:" + str(avg_fscore))
 
 results.close()
 

@@ -5,9 +5,11 @@ from os.path import basename
 import os
 
 '''
-This script is for converting NER output files into Brat annotation format.
+This script is for converting NER output files into Brat annotation format, or a format which can be evaluated against Brat annotation files.
 
-v2.0 - all .chem files in directory, chemspot support only
+This script is meant to be as verbose as necessary so following users can understand the process and change as necessary.
+
+v1.1 - all .chem files in directory, chemspot and oscar3 support.
 
 Created by: Sean Holloway 05-05-2015
 '''
@@ -36,57 +38,109 @@ def query_yes_no(question, default="yes"):
         else:
             sys.stdout.write("Please respond with 'yes' or 'no' "
                              "(or 'y' or 'n').\n")
-#----
 
-#Directory path resolution
-path = os.getcwd()
-print "Your directory path is: " + path
+def chemspotFormatter(path):
+    #Start iteration through .chem files
+    fileList = glob.glob(path + "/*.chem")
+    print str(len(fileList)) + " chemspot files found for processing"
 
-if query_yes_no("Does this directory contain the unformated files? If not, you will be asked for the directory path"):
-    print "Using current directory path."
-else:
-    print "Please enter directory path of unformated files. If none present, an output directory will be created there."
-    path = raw_input()
-    print "New file path: " + path
+    for file in fileList:
 
-#----
+        print "Currently working on file: " + str(file)
 
-#check for output directory, if not found, create it
-if not os.path.isdir(path + '/output'):
-    os.makedirs(path + '/output')
-    print 'Creating output directory ' + path + '/output'
+        with open(file) as f:
 
-#Start iteration through .chem files
-fileList = glob.glob(path + "/*.chem")
-print str(len(fileList)) + " chemspot files found for processing"
+            #create output file
+            bratFormatFile = open(path + '/output/000' + str(fileList.index(f.name) + 1) + 'bratFormat' + '.ann' , 'w')
+            #print "Creating output file: " + bratFormatFile.name
 
-for file in fileList:
-    
-    print "Currently working on file: " + str(file)
-    
-    with open(file) as f:
+            #skip first line as this is a chemspot header
+            next(f)
 
-        #create output file
-        bratFormatFile = open(path + '/output/000' + str(fileList.index(f.name) + 1) + 'bratFormat' + '.ann' , 'w')
-        #print "Creating output file: " + bratFormatFile.name
+            #line number variable
+            i = 1
 
-        #skip first line as this is a chemspot header
-        next(f)
+            for line in f:
+                #split by whitespace
+                unformatedText = line.split()
+                #print "Line split: " + str(unformatedText)
 
-        #line number variable
-        i = 1
+                #create line formatted for Brat, need to increment first span by 1 and second span by 2 to match Brat span numbers
+                formatedText = str(i) + " Compound" + " " + str(int(unformatedText[0]) + 1) + " " + str(int(unformatedText[1]) + 2) + " " + unformatedText[2]
+                #print "Formatted line: " + str(formatedText)
 
-        for line in f:
-            #split by whitespace
-            unformatedText = line.split()
-            #print "Line split: " + str(unformatedText)
+                bratFormatFile.write(formatedText + '\n')
+                i += 1
 
-            #create line formatted for Brat, need to increment first span by 1 and second span by 2 to match Brat span numbers
-            formatedText = str(i) + " Compound" + " " + str(int(unformatedText[0]) + 1) + " " + str(int(unformatedText[1]) + 2) + " " + unformatedText[2]
-            #print "Formatted line: " + str(formatedText)
-
-            bratFormatFile.write(formatedText + '\n')
-            i += 1
-
-        bratFormatFile.close()
+            bratFormatFile.close()
     f.close()
+
+def oscar3Formatter(path):
+    #Get file list
+    fileList = glob.glob(path + "/*.*")
+    print str(len(fileList)) + " oscar3 files found for processing"
+
+    #Iterate through files in file list
+    for file in fileList:
+
+        print "Currently working on file: " + str(file)
+
+        #Open file for processing
+        with open(file) as f:
+
+            #Create output file
+            evalFormatFile = open(path + '/output/000' + stry(fileList.index(f.name)) + 'evalFormat' + '.txt' , 'w')
+
+            #Find pattern matches '<ne' and take all information between that and '<\ne>'
+
+
+
+def main():
+    try:
+        #Directory path resolution
+        path = os.getcwd()
+        print "Your directory path is: " + path
+
+        if query_yes_no("Does this directory contain the unformated files? If not, you will be asked for the directory path"):
+            print "Using current directory path."
+        else:
+            print "Please enter directory path of unformated files. If none present, an output directory will be created there."
+            path = raw_input()
+            print "New file path: " + path
+    except Exception:
+        print "Exception getting directory path"
+        sys.exit(0)
+
+    try:
+        #Query what type of format is coming in
+        fileFormat = str(raw_input("Please enter what type the original files are; chemspot, oscar3: "))
+    except Exception:
+        print "Exception with format type"
+        sys.exit(0)
+
+    try:
+        #check for output directory, if not found, create it
+        if not os.path.isdir(path + '/output'):
+            os.makedirs(path + '/output')
+            print 'Creating output directory ' + path + '/output'
+    except Exception:
+        print "Exception creating output directory"
+        sys.exit(0)
+
+    try:
+        #Run proper format function based upon fileFormat
+        if fileFormat == 'chemspot':
+            print "Running chemspot to Brat formatter"
+            chemspotFormatter(path)
+        elif fileFormat == 'oscar3':
+            print "This oscar3 to Brat formatter"
+            oscar3Formatter(path)
+        else:
+            print "Non-viable format type"
+            sys.exit(0)
+    except Exception:
+        print "Exception in file format checker"
+        sys.exit(0)
+
+if __name__ == "__main__":
+    main()
