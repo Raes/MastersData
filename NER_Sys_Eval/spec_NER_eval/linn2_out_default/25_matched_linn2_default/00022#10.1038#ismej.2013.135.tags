@@ -1,0 +1,9 @@
+#entity id	document	start	end	text	comment
+species:ncbi:33658	00022#10.1038#ismej.2013.135	106	125	Phaeocystis globosa	
+species:ncbi:33658	00022#10.1038#ismej.2013.135	552	571	Phaeocystis globosa	
+species:ncbi:232	00022#10.1038#ismej.2013.135	815	829	Alteromonas sp	
+species:ncbi:33658	00022#10.1038#ismej.2013.135	1042	1052	P. globosa	
+species:ncbi:232	00022#10.1038#ismej.2013.135	1062	1076	Alteromonas sp	
+species:ncbi:33658	00022#10.1038#ismej.2013.135	1112	1122	P. globosa	
+species:ncbi:38018	00022#10.1038#ismej.2013.135	1275	1288	bacteriophage	
+species:ncbi:33658	00022#10.1038#ismej.2013.135	1436	1446	P. globosa	

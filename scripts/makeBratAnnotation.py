@@ -1,17 +1,22 @@
 import sys
+import sys, traceback
+import elementtree.ElementTree as ET
 import glob
 from sys import argv
 from os.path import basename
 import os
 
 '''
-This script is for converting NER output files into Brat annotation format, or a format which can be evaluated against Brat annotation files.
+This script is for converting NER output files into Brat annotation format, 
+or a format which can be evaluated against Brat annotation files.
 
-This script is meant to be as verbose as necessary so following users can understand the process and change as necessary.
+This script is meant to be as verbose as necessary so following users can 
+understand the process and change as necessary.
 
 v1.1 - all .chem files in directory, chemspot and oscar3 support.
 
 Created by: Sean Holloway 05-05-2015
+Tested on: Mac OSX 10.9.5
 '''
 
 #Simple yes/no query function
@@ -65,7 +70,9 @@ def chemspotFormatter(path):
                 unformatedText = line.split()
                 #print "Line split: " + str(unformatedText)
 
-                #create line formatted for Brat, need to increment first span by 1 and second span by 2 to match Brat span numbers
+                #create line formatted for Brat, need to increment first span by 1 
+                #and second span by 2 to match Brat span numbers
+
                 formatedText = str(i) + " Compound" + " " + str(int(unformatedText[0]) + 1) + " " + str(int(unformatedText[1]) + 2) + " " + unformatedText[2]
                 #print "Formatted line: " + str(formatedText)
 
@@ -77,8 +84,12 @@ def chemspotFormatter(path):
 
 def oscar3Formatter(path):
     #Get file list
-    fileList = glob.glob(path + "/*.*")
+    fileList = glob.glob(path + "/*")
     print str(len(fileList)) + " oscar3 files found for processing"
+
+    #Start and end are the two strings we want to find, and then extract the information between
+    start = '<ne'
+    end = '</ne>'
 
     #Iterate through files in file list
     for file in fileList:
@@ -89,10 +100,11 @@ def oscar3Formatter(path):
         with open(file) as f:
 
             #Create output file
-            evalFormatFile = open(path + '/output/000' + stry(fileList.index(f.name)) + 'evalFormat' + '.txt' , 'w')
+            evalFormatFile = open(path + '/output/000' + str(fileList.index(f.name)) + 'evalFormat' + '.txt' , 'w')
 
-            #Find pattern matches '<ne' and take all information between that and '<\ne>'
-
+            tree = ET.parse(file)
+            print tree
+    return 0
 
 
 def main():
@@ -133,13 +145,14 @@ def main():
             print "Running chemspot to Brat formatter"
             chemspotFormatter(path)
         elif fileFormat == 'oscar3':
-            print "This oscar3 to Brat formatter"
+            print "Running oscar3 to Brat formatter"
             oscar3Formatter(path)
         else:
             print "Non-viable format type"
             sys.exit(0)
     except Exception:
         print "Exception in file format checker"
+        traceback.print_exc()
         sys.exit(0)
 
 if __name__ == "__main__":

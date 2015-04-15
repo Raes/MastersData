@@ -1,0 +1,87 @@
+#entity	document	start	end	text	comment
+species:ncbi:9606	00001#10.1038#nrmicro1749	365	370	human	
+species:ncbi:9606	00008#10.1038#nature04161	609	614	human	
+species:ncbi:9606	00010#10.1038#ngeo1916	590	595	human	
+species:ncbi:9606	00010#10.1038#ngeo1916	1040	1045	human	
+species:ncbi:9135	00014#10.1038#ismej.2010.33	340	346	Canary	
+species:ncbi:9135	00014#10.1038#ismej.2010.33	441	447	Canary	
+species:ncbi:83971	00016#10.1038#ismej.2013.69	150	154	lake	
+species:ncbi:83971	00016#10.1038#ismej.2013.69	163	167	Lake	
+species:ncbi:83971	00016#10.1038#ismej.2013.69	209	213	lake	
+species:ncbi:83971	00016#10.1038#ismej.2013.69	482	486	Lake	
+species:ncbi:83971	00016#10.1038#ismej.2013.69	1277	1281	lake	
+species:ncbi:83971	00016#10.1038#ismej.2013.69	1677	1681	Lake	
+species:ncbi:83971	00016#10.1038#ismej.2013.69	2000	2004	lake	
+species:ncbi:41568	00017#10.1038#ismej.2013.144	490	493	mum	
+species:ncbi:41568	00017#10.1038#ismej.2013.144	514	517	mum	
+species:ncbi:41568	00017#10.1038#ismej.2013.144	1086	1089	mum	
+species:ncbi:41568	00017#10.1038#ismej.2013.144	1176	1179	mum	
+species:ncbi:9606	00021#10.1038#ncomms3934	25	30	Human	
+species:ncbi:9606	00021#10.1038#ncomms3934	226	231	human	
+species:ncbi:9606	00021#10.1038#ncomms3934	570	575	human	
+species:ncbi:33658	00022#10.1038#ismej.2013.135	106	125	Phaeocystis globosa	
+species:ncbi:33658	00022#10.1038#ismej.2013.135	552	571	Phaeocystis globosa	
+species:ncbi:232	00022#10.1038#ismej.2013.135	815	829	Alteromonas sp	
+species:ncbi:33658	00022#10.1038#ismej.2013.135	1042	1052	P. globosa	
+species:ncbi:232	00022#10.1038#ismej.2013.135	1062	1076	Alteromonas sp	
+species:ncbi:33658	00022#10.1038#ismej.2013.135	1112	1122	P. globosa	
+species:ncbi:38018	00022#10.1038#ismej.2013.135	1275	1288	bacteriophage	
+species:ncbi:33658	00022#10.1038#ismej.2013.135	1436	1446	P. globosa	
+species:ncbi:83971	00024#10.1038#ismej.2010.28	101	105	Lake	
+species:ncbi:83971	00024#10.1038#ismej.2010.28	471	475	Lake	
+species:ncbi:9606	00028#10.1038#nature12857	570	575	human	
+species:ncbi:83971	00030#10.1038#ismej.2010.185	66	70	lake	
+species:ncbi:83971	00030#10.1038#ismej.2010.185	448	452	lake	
+species:ncbi:83971	00030#10.1038#ismej.2010.185	458	462	Lake	
+species:ncbi:83971	00030#10.1038#ismej.2010.185	587	591	lake	
+species:ncbi:41568	00030#10.1038#ismej.2010.185	641	644	mum	
+species:ncbi:41568	00030#10.1038#ismej.2010.185	704	707	mum	
+species:ncbi:83971	00030#10.1038#ismej.2010.185	876	880	lake	
+species:ncbi:83971	00030#10.1038#ismej.2010.185	1218	1222	lake	
+species:ncbi:83971	00030#10.1038#ismej.2010.185	1605	1609	lake	
+species:ncbi:83971	00030#10.1038#ismej.2010.185	1827	1831	Lake	
+species:ncbi:263511	00034#10.1038#ismej.2011.152	470	491	Crocosphaera watsonii	
+species:ncbi:263511	00034#10.1038#ismej.2011.152	899	910	C. watsonii	
+species:ncbi:52970	00035#10.1038#ismej.2008.125	225	242	Rhodomonas salina	
+species:ncbi:52970	00035#10.1038#ismej.2008.125	1247	1256	R. salina	
+species:ncbi:52970	00035#10.1038#ismej.2008.125	1307	1316	R. salina	
+species:ncbi:52970	00035#10.1038#ismej.2008.125	1507	1516	R. salina	
+species:ncbi:41568	00036#10.1038#ngeo1265	893	896	mum	
+species:ncbi:27404	00037#10.1038#ismej.2014.39	366	381	Daphnia galeata	
+species:ncbi:83971	00037#10.1038#ismej.2014.39	636	640	lake	
+species:ncbi:27404	00037#10.1038#ismej.2014.39	1191	1201	D. galeata	
+species:ncbi:35525	00037#10.1038#ismej.2014.39	1228	1241	Daphnia magna	
+species:ncbi:83971	00037#10.1038#ismej.2014.39	1263	1267	Lake	
+species:ncbi:70799	00039#10.1038#ismej.2011.20	94	113	Nodularia spumigena	
+species:ncbi:70799	00039#10.1038#ismej.2011.20	219	238	Nodularia spumigena	
+species:ncbi:70799	00039#10.1038#ismej.2011.20	473	485	N. spumigena	
+species:ncbi:70799	00039#10.1038#ismej.2011.20	1146	1158	N. spumigena	
+species:ncbi:70799	00039#10.1038#ismej.2011.20	1493	1505	N. spumigena	
+species:ncbi:100	00045#10.1038#ismej.2012.130	1445	1467	Ancylobacter aquaticus	group: 0, valid: true
+species:ncbi:266	00045#10.1038#ismej.2012.130	1469	1493	Paracoccus denitrificans	group: 0, valid: true
+species:ncbi:17	00045#10.1038#ismej.2012.130	1495	1523	Methylophilus methylotrophus	group: 0, valid: true
+species:ncbi:41568	00057#10.1038#ismej.2011.201	608	611	mum	
+species:ncbi:41568	00057#10.1038#ismej.2011.201	686	689	mum	
+species:ncbi:41568	00057#10.1038#ismej.2011.201	838	841	mum	
+species:ncbi:83971	00059#10.1038#ismej.2009.120	1524	1528	lake	
+species:ncbi:41568	00061#10.1038#ismej.2010.83	407	410	mum	
+species:ncbi:83971	00061#10.1038#ismej.2010.83	1084	1088	Lake	
+species:ncbi:83971	00061#10.1038#ismej.2010.83	1434	1438	Lake	
+species:ncbi:9606	00062#10.1038#nature08985	887	892	human	
+species:ncbi:9606	00062#10.1038#nature08985	2113	2118	human	
+species:ncbi:263511	00067#10.1038#ismej.2009.8	110	131	Crocosphaera watsonii	
+species:ncbi:263511	00067#10.1038#ismej.2009.8	164	185	Crocosphaera watsonii	
+species:ncbi:263511	00067#10.1038#ismej.2009.8	471	482	C. watsonii	
+species:ncbi:263511	00067#10.1038#ismej.2009.8	683	694	C. watsonii	
+species:ncbi:263511	00067#10.1038#ismej.2009.8	822	833	C. watsonii	
+species:ncbi:263511	00067#10.1038#ismej.2009.8	953	964	C. watsonii	
+species:ncbi:263511	00067#10.1038#ismej.2009.8	1340	1351	C. watsonii	
+species:ncbi:2850	00076#10.1038#ismej.2011.50	1133	1158	Phaeodactylum tricornutum	
+species:ncbi:41568	00080#10.1038#ismej.2010.36	261	264	mum	
+species:ncbi:41568	00080#10.1038#ismej.2010.36	1007	1010	mum	
+species:ncbi:41568	00080#10.1038#ismej.2010.36	1087	1090	mum	
+species:ncbi:56765	00081#10.1038#ismej.2013.216	76	92	marine bacterium	
+species:ncbi:41568	00086#10.1038#ismej.2008.56	1352	1355	mum	
+species:ncbi:9606	00096#10.1038#ngeo1830	635	640	human	
+species:ncbi:2858	00097#10.1038#17351	1245	1259	marine diatoms	
+species:ncbi:9606	00100#10.1038#srep01292	221	226	human	

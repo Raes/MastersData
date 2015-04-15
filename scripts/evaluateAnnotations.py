@@ -12,7 +12,12 @@ This script is meant to be as verbose as necessary so that it can be expanded up
 
 v1.0 - compounds only
 
-Created by: Sean Holloway 05-05-2015, python 2.7.5
+Created by: Sean Holloway 05-05-2015
+Tested on: Mac OSX 10.9.5, Python 2.7.5
+'''
+
+'''
+Annotation Exceptions: water
 '''
 
 #Allows sorting of more complex file names using found integers
@@ -101,8 +106,8 @@ def evalSet(file1, file2, evalType):
 
 	f2.close()
 
-	print "Split file 1 \n" + str(split_file1) + '\n'
-	print "Split file 2 \n" + str(split_file2) + '\n'
+	print "Gold Standard Split File \n" + str(split_file1) + '\n'
+	print "System Annotated Split File \n" + str(split_file2) + '\n'
 
 	for line1 in split_file2:
 		temp_pos = true_pos
@@ -116,8 +121,6 @@ def evalSet(file1, file2, evalType):
 			false_pos += 1
 
 	false_neg = gs_count - true_pos
-
-	print "true_pos:" + str(true_pos) + " false_pos:" + str(false_pos) + " false_neg:" + str(false_neg) + " gs_count:" + str(gs_count)
 
 	total_true_pos += true_pos
 	total_false_pos += false_pos
@@ -141,6 +144,7 @@ def evalSet(file1, file2, evalType):
 		print "F-score divide by 0, setting fscore to 1"
 		fscore = 1.0
 
+	print "Gold Standard count:" + str(gs_count) + " True Positives:" + str(true_pos) + " False Positives:" + str(false_pos) + " False Negatives:" + str(false_neg)
 	print "Precision:" + str(precision) + " recall:" + str(recall) + " fscore:" + str(fscore)
 
 	print '\n'

@@ -1,0 +1,4 @@
+#entity id	document	start	end	text	comment
+species:ncbi:9606	00021#10.1038#ncomms3934	25	30	Human	
+species:ncbi:9606	00021#10.1038#ncomms3934	226	231	human	
+species:ncbi:9606	00021#10.1038#ncomms3934	570	575	human	
