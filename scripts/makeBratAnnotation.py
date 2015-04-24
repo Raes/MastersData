@@ -15,8 +15,9 @@ understand the process and change as necessary.
 
 v1.1 - all .chem files in directory, chemspot and oscar3 support.
 
-Created by: Sean Holloway 05-05-2015
-Tested on: Mac OSX 10.9.5
+Sean Holloway, NTNU 2015
+OSX 10.9.5
+Python 2.7.5
 '''
 
 #Simple yes/no query function

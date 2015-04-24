@@ -7,7 +7,9 @@ output PRF.
 
 v1.0 - single set only
 
-Created by: Sean Holloway 21-05-2015
+Sean Holloway, NTNU 2015
+OSX 10.9.5
+Python 2.7.5
 '''
 
 def main():

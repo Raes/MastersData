@@ -12,8 +12,9 @@ This script is meant to be as verbose as necessary so that it can be expanded up
 
 v1.0 - compounds only
 
-Created by: Sean Holloway 05-05-2015
-Tested on: Mac OSX 10.9.5, Python 2.7.5
+Sean Holloway 05-05-2015
+Mac OSX 10.9.5
+Python 2.7.5
 '''
 
 '''

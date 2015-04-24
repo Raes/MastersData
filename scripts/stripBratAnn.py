@@ -10,6 +10,8 @@ v.1.0 Can retrieve compound, species, location annotations
 
 
 Sean Holloway, NTNU 2015
+OSX 10.9.5
+Python 2.7.5
 '''
 
 
