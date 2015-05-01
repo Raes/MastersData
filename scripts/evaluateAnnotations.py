@@ -12,7 +12,7 @@ This script is meant to be as verbose as necessary so that it can be expanded up
 
 v1.0 - compounds only
 
-Sean Holloway 05-05-2015
+Sean Holloway, NTNU 2015
 Mac OSX 10.9.5
 Python 2.7.5
 '''
@@ -142,14 +142,14 @@ def evalSet(file1, file2, evalType):
 	try:
 		fscore = abs(2 * ((precision * recall) / (precision + recall)))
 	except ZeroDivisionError, e:
-		print "F-score divide by 0, setting fscore to 1"
-		fscore = 1.0
+		print "F-score divide by 0, setting fscore to 0"
+		fscore = 0.0
 
 	print "Gold Standard count:" + str(gs_count) + " True Positives:" + str(true_pos) + " False Positives:" + str(false_pos) + " False Negatives:" + str(false_neg)
 	print "Precision:" + str(precision) + " recall:" + str(recall) + " fscore:" + str(fscore)
-
 	print '\n'
-	return precision,recall,fscore
+
+	return precision,recall,fscore,gs_count,true_pos,false_pos,false_neg
 
 #Get and assign file lists, type to evaluate
 fileList1, fileList2, evalType = getPaths()
@@ -164,15 +164,21 @@ print "evalType: " + str(evalType)
 
 #Create output file
 path = os.getcwd()
-results = open(path + '/evalResults.txt', 'w')
-print "Results file at: " + path + '/evalResults.txt\n'
+outPath = os.path.expanduser('~/Desktop')
+results = open(outPath + '/evalResults.txt', 'w')
+print "Results file at: " + outPath + '/evalResults.txt\n'
 
 #Iterate through each set of files
 for x in range(1, len(fileList1) + 1):
-	print "Evaluating file set " + str(x)
-	p, r, f = evalSet(fileList1[x - 1], fileList2[x - 1], evalType.lower())
-	results.write("Evaluating test file: " + str(fileList2[x-1]) + " against gold standard file" + str(fileList1[x-1]) + '\n')
-	results.write("Precision:" + str(p) + " Recall:" + str(r) + " F-score:" + str(f) + '\n')
+	
+	p, r, f, gsc, tp, fp, fn = evalSet(fileList1[x - 1], fileList2[x - 1], evalType.lower())
+	
+
+	#print "Evaluating file set " + str(x)
+	#results.write("Evaluating test file: " + str(fileList2[x-1]) + " against gold standard file" + str(fileList1[x-1]) + '\n')
+	#results.write("Precision:" + str(p) + " Recall:" + str(r) + " F-score:" + str(f) + '\n')
+
+	results.write(str(gsc) + "\t" + str(tp) + "\t" + str(fp) + "\t" + str(fn) + "\t" + str(p) + "\t" + str(r) + "\t" + str(f))
 	results.write('\n')
 
 results.write("Total true_pos:" + str(total_true_pos) + " Total false_pos:" + str(total_false_pos) + " Total false_neg:" + str(total_false_neg) + '\n')

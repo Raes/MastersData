@@ -1,6 +1,7 @@
 import glob
 import sys
 import os
+import re
 
 '''
 Script for pulling out certain annotations from Brat .ann files and listing them by file
@@ -14,14 +15,18 @@ OSX 10.9.5
 Python 2.7.5
 '''
 
-
+#Allows sorting of more complex file names using found integers
+def natural_sort_key(s, _nsre=re.compile('([0-9]+)')):
+    return [int(text) if text.isdigit() else text.lower()
+            for text in re.split(_nsre, s)]  
 
 def main():
 	
     path = str(raw_input("Please enter directory path of Brat annotation files. \n:"))
     print "\nFinding annotation files at: " + path
 
-    fileList = glob.glob(path + "/*.ann")
+    fileList = sorted(glob.glob(path + "/*.ann"), key=natural_sort_key)
+
     print str(len(fileList)) + " annotation files found. \n"
 
     annType = str(raw_input("Please enter type of annotation to retrieve. (compound, species, location) \n:"))
@@ -57,7 +62,8 @@ def main():
 
     		for item in annMatches:
 
-    			annFile.write(item + " ")
+    			annFile.write(item + ", ")
+    			
     		annFile.write("\n")
     	f.close()
 
