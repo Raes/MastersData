@@ -24,24 +24,25 @@ def main():
 	except ZeroDivisionError, e:
 		print "Precision divide by 0, setting precision to 1.0"
 		print('\n')
-		precision = 1.0
+		precision = 1
 
 	try:
 		recall = Fraction(true_pos , abs(true_pos + false_neg))
 	except ZeroDivisionError, e:
 		print "Recall divide by 0, setting recall to 1.0"
 		print('\n')
-		recall = 1.0
+		recall = 1
 
 	try:
 		fscore = abs(2 * ((precision * recall) / (precision + recall)))
 	except ZeroDivisionError, e:
 		print "F-score divide by 0, setting fscore to 1.0"
 		print('\n')
-		fscore = 1.0
+		fscore = 1
 
 	print ('-------')
-	print "Precision:" + str(precision) + " recall:" + str(recall) + " fscore:" + str(fscore)
+	print "False Neg: " + str(false_neg) + " Precision:" + str(precision) + " recall:" + str(recall) + " fscore:" + str(fscore)
+	print str(false_neg) + "\t" + str(precision) + "\t" + str(recall) + "\t" + str(fscore)
 	print ('-------')
 
 if __name__ == "__main__":

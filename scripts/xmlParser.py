@@ -13,6 +13,7 @@ Python 2.7.5
 def parseFile(filePath):
 
 	foundHits = []
+	charOffsetCheck = -1
 
 	tree = ET.parse(filePath)
 	root = tree.getroot()
@@ -36,8 +37,19 @@ def parseFile(filePath):
 						NERCOB = NERtag.text
 					elif NERtag.tag == 'CharacterOffsetEnd':
 						NERCOE = NERtag.text
-				
-				foundHits.append(str(NERtokenID) + " Location " + str(NERCOB) + " " + str(NERCOE) + " " + str(NERword))
+
+				if (int(charOffsetCheck) + 1) == int(NERCOB):
+					print "Found possible tag connection"
+					catHit = (foundHits.pop()).split()
+					catHit[3] = NERCOE
+					catHit.append(NERword)
+					catHitJ = ' '.join(catHit)
+					foundHits.append(catHitJ)
+
+				else:
+					foundHits.append(str(NERtokenID) + " Location " + str(NERCOB) + " " + str(NERCOE) + " " + str(NERword))
+
+				charOffsetCheck = NERCOE
 
 	return foundHits
 
@@ -56,7 +68,7 @@ def main():
 		print "Currently processing file: " + str(file)
 		
 		print "Creating output file"
-		bratFormatFile = open(outPath + '/output/000' + (str(idx)+1) + 'bratFormat' + '.ann' , 'w')
+		bratFormatFile = open(outPath + '/output/000' + str(idx+1) + 'bratFormat' + '.ann' , 'w')
 
 		hits = parseFile(str(file))
 

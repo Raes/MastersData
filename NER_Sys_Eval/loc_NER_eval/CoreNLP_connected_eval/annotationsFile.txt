@@ -1,0 +1,200 @@
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/0001bratFormat.ann
+Earth, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/0002bratFormat.ann
+Southern Ocean, Pacific, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/0003bratFormat.ann
+Arctic sea, Arctic, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/0004bratFormat.ann
+
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/0005bratFormat.ann
+
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/0006bratFormat.ann
+Mediterranean, Albufera de Valencia, Spain, Alphaproteobacteria, Alphaproteobacteria, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/0007bratFormat.ann
+Earth, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/0008bratFormat.ann
+
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/0009bratFormat.ann
+
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00010bratFormat.ann
+
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00011bratFormat.ann
+
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00012bratFormat.ann
+
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00013bratFormat.ann
+Paopao Bay, Moorea, French Polynesia, Gamma, Betaproteobacteria, Bacteriodetes, Actinobacteria, Flavobacteria, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00014bratFormat.ann
+Canary Islands, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00015bratFormat.ann
+Southern Ocean, Southern Ocean, Southern Ocean, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00016bratFormat.ann
+Antarctic lake Organic Lake, Vestfold Hills, Antarctica, Organic Lake, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00017bratFormat.ann
+Chile, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00018bratFormat.ann
+Porcupine Abyssal Plain, North Atlantic Ocean, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00019bratFormat.ann
+
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00020bratFormat.ann
+
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00021bratFormat.ann
+Earth, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00022bratFormat.ann
+North Sea, North Sea, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00023bratFormat.ann
+Ochrophyta, Chlorophyta, Mo'orea, Rhodophyta, Alphaproteobacteria, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00024bratFormat.ann
+Ace Lake, Antarctica Green, Ace Lake, Antarctica, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00025bratFormat.ann
+
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00026bratFormat.ann
+Antarctica Peninsula, Antarctic, Antarctic Peninsula, Southern Ocean, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00027bratFormat.ann
+
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00028bratFormat.ann
+
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00029bratFormat.ann
+Antarctica, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00030bratFormat.ann
+Antarctica, Antarctica, Ace Lake, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00031bratFormat.ann
+Arctic Ocean Thaumarchaeota, Arctic, Arctic Ocean, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00032bratFormat.ann
+
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00033bratFormat.ann
+Antarctic Peninsula, Palmer Station, Antarctic Peninsula, West Antarctica, Flavobacteria, Alphaproteobacteria, Gammaproteobacteria, Alphaproteobacteria, Flavobacteria, Gammaproteobacteria, Flavobacteria, Southern Ocean, Antarctic, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00034bratFormat.ann
+South Pacific Ocean, Western South Pacific Ocean, Western South Pacific Ocean, Pacific, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00035bratFormat.ann
+
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00036bratFormat.ann
+Sargasso Sea Phytoplankton, Sargasso Sea, Sargasso Sea, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00037bratFormat.ann
+Daphnia galeata, Daphnia, Lake Zurich, Daphnia, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00038bratFormat.ann
+
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00039bratFormat.ann
+Baltic Sea Photosynthesis, Baltic Sea, Baltic Sea, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00040bratFormat.ann
+Sargasso Sea, Sargasso Sea, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00041bratFormat.ann
+Massif Central, France, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00042bratFormat.ann
+Wadden Sea, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00043bratFormat.ann
+
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00044bratFormat.ann
+
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00045bratFormat.ann
+Atlantic, Atlantic, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00046bratFormat.ann
+Earth, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00047bratFormat.ann
+
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00048bratFormat.ann
+Sargasso Sea Bacterioplankton, Bermuda Atlantic, Sargasso Sea, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00049bratFormat.ann
+San Pedro Ocean Time, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00050bratFormat.ann
+
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00051bratFormat.ann
+Mississippi River, Mississippi River, Gulf of Mexico, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00052bratFormat.ann
+Zn, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00053bratFormat.ann
+Earth, Faroe-Shetland Channel, Northeast Atlantic, Earth, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00054bratFormat.ann
+Baltic Sea Carbon, Aphanizomenon, Baltic Sea, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00055bratFormat.ann
+
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00056bratFormat.ann
+Arctic, Amundsen Gulf, Antarctic, Prydz Bay, Antarctic, Arctic, Antarctic, Arctic, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00057bratFormat.ann
+Southern California Bight, California, Bacteroidetes, Flavobacteria, Mimivirus, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00058bratFormat.ann
+
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00059bratFormat.ann
+Krycklan, Northern Sweden, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00060bratFormat.ann
+Micromonas, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00061bratFormat.ann
+Haptophyta, Cercozoa, Perkinsozoa, Chlorophyta, Haptophyta, Lake Bourget, Lake Pavin, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00062bratFormat.ann
+
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00063bratFormat.ann
+Antarctic McMurdo Dry Valley, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00064bratFormat.ann
+
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00065bratFormat.ann
+Snowball Earth, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00066bratFormat.ann
+Southern Ocean, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00067bratFormat.ann
+South Pacific, Pacific Ocean, Atlantic Ocean, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00068bratFormat.ann
+Earth, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00069bratFormat.ann
+
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00070bratFormat.ann
+South China Sea, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00071bratFormat.ann
+Monterey Bay, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00072bratFormat.ann
+Gulf of Alaska, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00073bratFormat.ann
+
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00074bratFormat.ann
+
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00075bratFormat.ann
+Mediterranean, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00076bratFormat.ann
+
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00077bratFormat.ann
+
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00078bratFormat.ann
+Atlantic, Pacific Ocean, Atlantic Ocean, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00079bratFormat.ann
+
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00080bratFormat.ann
+Atlantic Ocean Global, Earth, Atlantic Ocean, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00081bratFormat.ann
+
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00082bratFormat.ann
+
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00083bratFormat.ann
+Peru, Peru, Peru, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00084bratFormat.ann
+Tyrrhenian, Central Mediterranean Sea, Southern Tyrrhenian Sea, Crenarchaeota, Tyrrhenian Sea, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00085bratFormat.ann
+Queensland, Crenarchaeota, Fitzroy, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00086bratFormat.ann
+Mediterranean Sea Biological, Levantine Basin, Mediterranean Sea, Mediterranean, Israel, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00087bratFormat.ann
+Antarctic, Southern Ocean, West Antarctica, Ross Sea, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00088bratFormat.ann
+North Atlantic Ocean, Flavobacteria, North Atlantic Ocean, East Greenland, North Atlantic, Arctic, Flavobacteria, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00089bratFormat.ann
+
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00090bratFormat.ann
+Earth, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00091bratFormat.ann
+North Atlantic, North Atlantic, North Atlantic Gyre, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00092bratFormat.ann
+Quebec, Canada, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00093bratFormat.ann
+
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00094bratFormat.ann
+Columbia River, Columbia River, USA, Columbia River, Oceanospirillales, Flavobacteria, Actinobacteria, Betaproteobacteria, Columbia River, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00095bratFormat.ann
+Heron Reef, Australia, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00096bratFormat.ann
+
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00097bratFormat.ann
+
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00098bratFormat.ann
+Atlantic Ocean, Northwest Atlantic Ocean, Bedford Basin, Bedford Basin, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/00099bratFormat.ann
+Sargasso Sea, Sargasso Sea, Bathycoccus, Micromonas, 
+/Users/holloway/Desktop/CoreNLP_connected_eval/output/000100bratFormat.ann
+
