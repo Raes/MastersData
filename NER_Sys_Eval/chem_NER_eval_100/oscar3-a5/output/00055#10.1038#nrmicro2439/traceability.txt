@@ -1,0 +1,76 @@
+$LastChangedRevision: 556 $
+ChemNameDict: -2002206474
+Model: -1335213666
+TermSets:
+stopWords: 0
+usrDictWords: -1376198017
+noSplitPrefixes: -1587608161
+closedClass: -1461590831
+chemAses: 1493230207
+nonChemAses: 253593784
+elements: 1825943834
+ligands: 1136569327
+reactWords: 584799166
+
+TermMaps:
+neTerms: -216851956
+iePatterns: -1883844692
+custEnt: 0
+structureTypes: -673495789
+ontology: -53643760
+
+TLRs: 47577853
+#
+#Mon May 11 12:35:23 CEST 2015
+InChI=none
+cacheExtensionNameResolver=yes
+chemNameDict=chemnamedict.xml
+cprProb=0.2
+custProb=0.2
+dataOnlyInExperimental=yes
+dbaddress=none
+dbname=none
+dbpasswd=none
+dbusername=none
+deprioritiseONT=yes
+dfaSize=1000
+extensionNameResolver=none
+fulldb=no
+geniaPath=none
+hostname=none
+initScript=none
+interpretPoly=no
+lockdown=no
+makeCML=yes
+minimizeDFA=no
+model=chempapers
+neThreshold=0.2
+ngramThreshold=-2.0
+ontProb=0.2
+openBabel=none
+oscarFlow=recognise resolve numbersaf inline
+pcdir=none
+polymerMode=no
+port=8181
+rdbms=PostgreSQL
+rescoreMEMM=yes
+resourcePrefix=none
+safdbpasswd=none
+safdbusername=none
+scrapBookIEFix=no
+serverRoor=none
+serverRoot=none
+serverType=none
+splitOnEnDash=yes
+svdlibc=none
+useDSO=no
+useFormulaRegex=yes
+useJNIInChI=yes
+useMEMM=yes
+useONT=yes
+useOPSIN=yes
+useStaticChemNameDict=yes
+useWordShapeHeuristic=no
+verbose=no
+workspace=none
+yahooKey=none

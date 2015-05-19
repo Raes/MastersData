@@ -1,0 +1,200 @@
+/Users/holloway/Desktop/man/00001#10.1038#nrmicro1749.ann
+
+/Users/holloway/Desktop/man/00002#10.1038#ngeo1765.ann
+Nitrogen, iron, Phosphorus, iron, 
+/Users/holloway/Desktop/man/00003#10.1038#ngeo1910.ann
+sulphur, dimethylsulphide, dimethylsulphide, dimethylsulphide, dimethylsulphide, dimethylsulphide, 
+/Users/holloway/Desktop/man/00004#10.1038#nrmicro1180.ann
+
+/Users/holloway/Desktop/man/00005#10.1038#nrmicro1751.ann
+
+/Users/holloway/Desktop/man/00006#10.1038#srep00490.ann
+sulfur, 
+/Users/holloway/Desktop/man/00007#10.1038#nrmicro956.ann
+
+/Users/holloway/Desktop/man/00008#10.1038#nature04161.ann
+
+/Users/holloway/Desktop/man/00009#10.1038#ngeo964.ann
+iron, iron, iron, iron, iron, iron, iron, iron, iron, iron, 
+/Users/holloway/Desktop/man/00010#10.1038#ngeo1916.ann
+carbon dioxide, Carbon dioxide, nitrogen, 
+/Users/holloway/Desktop/man/00011#10.1038#nrmicro1750.ann
+
+/Users/holloway/Desktop/man/00012#10.1038#nrmicro2386.ann
+carbon, CO2, CO2, carbon, carbon, carbon, 
+/Users/holloway/Desktop/man/00013#10.1038#ismej.2011.12.ann
+carbon, carbon, 
+/Users/holloway/Desktop/man/00014#10.1038#ismej.2010.33.ann
+leucine, leucine, 
+/Users/holloway/Desktop/man/00015#10.1038#35037500.ann
+iron, iron, carbon dioxide, carbon, iron, iron, iron, carbon, iron, carbon dioxide, dimethyl sulphide, iron, iron, carbon, carbon, 
+/Users/holloway/Desktop/man/00016#10.1038#ismej.2013.69.ann
+carbon, sulfur, dimethylsulfide, carbon, sulfur, CO, carbon, nitrogen, nitrogen, carbon, carbon, nitrogen, carbon, carbon, carbon, DMS, Dimethylsulfoniopropionate, DMSP, DMSP, DMSP, DMSP, DMS, DMSP, 
+/Users/holloway/Desktop/man/00017#10.1038#ismej.2013.144.ann
+nitrous oxide, nitric, oxygen, oxygen, 
+/Users/holloway/Desktop/man/00018#10.1038#nature13123.ann
+carbon, carbon, carbon, carbon dioxide, carbon, carbon, carbon, carbon, carbon, carbon, 
+/Users/holloway/Desktop/man/00019#10.1038#nrmicro1745.ann
+hydrogen, methane, hydrogen sulphide, iron, 
+/Users/holloway/Desktop/man/00020#10.1038#ismej.2010.79.ann
+carbon dioxide, CO2, carbonate, carbon dioxide, CO2, 
+/Users/holloway/Desktop/man/00021#10.1038#ncomms3934.ann
+nitrogen, phosphorus, carbon, carbon dioxide, nitrogen, phosphorus, carbon, nitrogen, phosphorus, phosphorus, nitrogen, phosphorus, phosphorus, nitrogen, carbon, phosphorus, 
+/Users/holloway/Desktop/man/00022#10.1038#ismej.2013.135.ann
+carbon, carbon, carbon, 
+/Users/holloway/Desktop/man/00023#10.1038#ismej.2012.161.ann
+sugar, carbon, sugars, galactose, fucose, 
+/Users/holloway/Desktop/man/00024#10.1038#ismej.2010.28.ann
+carbon, sulfur, sulfur, O2, H2S, 
+/Users/holloway/Desktop/man/00025#10.1038#nature07235.ann
+carbon, carbon, carbon, carbon, nitrogen, CO2, carbon, carbon, carbon, carbon, carbon, carbon, carbon, carbon, carbon, carbon, 
+/Users/holloway/Desktop/man/00026#10.1038#ismej.2012.31.ann
+carbon, nitrogen, 
+/Users/holloway/Desktop/man/00027#10.1038#ngeo1921.ann
+carbon, carbon dioxide, carbon, carbon, 
+/Users/holloway/Desktop/man/00028#10.1038#nature12857.ann
+carbon, carbon, carbon, carbon, carbon, carbon, carbon dioxide, carbon, 
+/Users/holloway/Desktop/man/00029#10.1038#35038000.ann
+carbon dioxide, carbon dioxide, carbon, carbon, calcium carbonate, 
+/Users/holloway/Desktop/man/00030#10.1038#ismej.2010.185.ann
+
+/Users/holloway/Desktop/man/00031#10.1038#srep04661.ann
+
+/Users/holloway/Desktop/man/00032#10.1038#ismej.2013.121.ann
+carbon, nitrogen, carbon, C, nitrogen, N, C, N, C, N, C, N, C, N, 
+/Users/holloway/Desktop/man/00033#10.1038#ismej.2012.28.ann
+carbon, carbon, nitrogen, carbon, Taurine, taurine, 
+/Users/holloway/Desktop/man/00034#10.1038#ismej.2011.152.ann
+nitrogen, N2, carbon, iron, iron, phosphate, N, N, Nitrogen, carbon, iron, 
+/Users/holloway/Desktop/man/00035#10.1038#ismej.2008.125.ann
+C, N, P, nitrogen, phosphorus, C, N, P, N, P, N, P, NH4+, PO43-, N, P, NH4+, N, P, 
+/Users/holloway/Desktop/man/00036#10.1038#ngeo1265.ann
+nitrate, nitrogen, nitrate, ammonium, nitrate, ammonium, nitrogen, nitrogen, nitrogen, nitrate, nitrogen, nitrate, 15N, 14N, 
+/Users/holloway/Desktop/man/00037#10.1038#ismej.2014.39.ann
+carbon, carbon, leucine, carbon, 
+/Users/holloway/Desktop/man/00038#10.1038#nature04159.ann
+carbon dioxide, 
+/Users/holloway/Desktop/man/00039#10.1038#ismej.2011.20.ann
+Carbon, nitrogen, O2, N2, ammonium, N, carbon, N2, N, O2, carbon, O2, N2, N2, NH4+, N2, NH4+, NH4+, C, C, N, O2, 
+/Users/holloway/Desktop/man/00040#10.1038#ismej.2009.60#.ann
+carbon, 
+/Users/holloway/Desktop/man/00041#10.1038#ismej.2008.15.ann
+phosphate, P, P, P, 
+/Users/holloway/Desktop/man/00042#10.1038#ismej.2009.29.ann
+carbon, NO3-, oxygen, 
+/Users/holloway/Desktop/man/00043#10.1038#nature06267.ann
+carbon, CO2, carbon dioxide, CO2, CO2, carbon, CO2, CO2, carbon, CO2, carbon, nitrogen, CO2, CO2, carbon, nitrogen, carbon, carbon, carbonate, 
+/Users/holloway/Desktop/man/00044#10.1038#nature01165.ann
+carbon, carbon, carbon, 
+/Users/holloway/Desktop/man/00045#10.1038#ismej.2012.130.ann
+Methanol, carbon, methanol, carbon, carbon, methanol, methanol, methanol, carbon, methanol, methanol, methanol, methanol, methanol, 
+/Users/holloway/Desktop/man/00046#10.1038#ngeo234.ann
+methane, Methane, methane, methane, methane, methane, methylphosphonate, methylphosphonate, Methylphosphonate, methane, methane, methane, methane, 
+/Users/holloway/Desktop/man/00047#10.1038#nature04158.ann
+
+/Users/holloway/Desktop/man/00048#10.1038#ismej.2008.117.ann
+
+/Users/holloway/Desktop/man/00049#10.1038#ismej.2013.199.ann
+
+/Users/holloway/Desktop/man/00050#10.1038#ismej.2009.94.ann
+oxygen, nitrate, dimethylsulfoxide, fumarate, nitrate, arginine, 
+/Users/holloway/Desktop/man/00051#10.1038#ismej.2007.70.ann
+carbon, CO2, CO2, carbon, CO2, carbon, CO2, CO2, CO2, CO2, 
+/Users/holloway/Desktop/man/00052#10.1038#ismej.2010.211.ann
+CO2, carbon dioxide, iron, Fe, cobalt, Co, zinc, Zn, cadmium, Cd, C, Fe, Zn, Cd, carbon, Fe, Zn, Cd, Fe, Zn, Cd, Co, Co, CO2, carbon, 
+/Users/holloway/Desktop/man/00053#10.1038#ismej.2012.14.ann
+carbon, carbon, carbon, carbon, carbon, carbon, carbon, carbon, 
+/Users/holloway/Desktop/man/00054#10.1038#ismej.2010.53.ann
+Carbon, nitrogen, Carbon, nitrogen, O2, O2, O2, O2, C, N2, N2, N2, N2, NH4+, O2, C, N, C, N, 
+/Users/holloway/Desktop/man/00055#10.1038#nrmicro2439.ann
+carbon dioxide, methane, nitrous oxide, 
+/Users/holloway/Desktop/man/00056#10.1038#srep02339.ann
+carbonate, CO2, carbon, carbon, CO2, iron, 
+/Users/holloway/Desktop/man/00057#10.1038#ismej.2011.201.ann
+iron, cadmium, ammonium, potassium, glutamine, 
+/Users/holloway/Desktop/man/00058#10.1038#ismej.2007.86.ann
+carbon, carbon, carbon, carbon, carbon, carbon, carbon, carbon, carbon, 
+/Users/holloway/Desktop/man/00059#10.1038#ismej.2009.120.ann
+carbohydrates, carbon, acetate, Carboxylic acids, amino acids, 
+/Users/holloway/Desktop/man/00060#10.1038#ismej.2014.16.ann
+
+/Users/holloway/Desktop/man/00061#10.1038#ismej.2010.83.ann
+
+/Users/holloway/Desktop/man/00062#10.1038#nature08985.ann
+carbon, nitrate, nitrogen, nitrogen, nitrate, nitrate, carbon, carbon, nitrate, carbon, nitrate, nitrate, carbon, nitrate, carbon, nitrogen, carbon, nitrate, carbon, nitrate, nitrate, carbon, nitrate, nitrate, nitrate, nitrate, 
+/Users/holloway/Desktop/man/00063#10.1038#ismej.2013.190.ann
+
+/Users/holloway/Desktop/man/00064#10.1038#ismej.2011.132.ann
+
+/Users/holloway/Desktop/man/00065#10.1038#ngeo2108.ann
+carbon, oxygen, oxygen, oxygen, oxygen, oxygen, phosphorus, phosphorus, oxygen, phosphorus, 
+/Users/holloway/Desktop/man/00066#10.1038#nature11229.ann
+carbon, iron, carbon dioxide, carbon, carbon, 
+/Users/holloway/Desktop/man/00067#10.1038#ismej.2009.8.ann
+nitrogen, N, N2, nitrogenase, nitrogen, 
+/Users/holloway/Desktop/man/00068#10.1038#nature04160.ann
+
+/Users/holloway/Desktop/man/00069#10.1038#ismej.2012.44.ann
+carbon, nitrogen, Oxygen, oxygen, C, N, O2, oxygen, oxygen, O2, C, N, amino acids, D-alanine, O2, 
+/Users/holloway/Desktop/man/00070#10.1038#nclimate1507.ann
+CO2, Carbon dioxide, CO2, CO2, CO2, CO2, CO2, carbon, 
+/Users/holloway/Desktop/man/00071#10.1038#ismej.2014.11.ann
+ammonia, nitrous oxide, 
+/Users/holloway/Desktop/man/00072#10.1038#nature02437.ann
+Iron, carbon, iron, carbon, silica, iron, carbon, silicic acid, silicic acid, 
+/Users/holloway/Desktop/man/00073#10.1038#ismej.2010.91.ann
+
+/Users/holloway/Desktop/man/00074#10.1038#nclimate1989.ann
+CO2, nitrogen, N, phosphate, P, N, carbon, 
+/Users/holloway/Desktop/man/00075#10.1038#ismej.2011.118.ann
+dimethylsulphoniopropionate, sulphur, DMSP, DMSP, DMSP, sulphur, DMSP, 
+/Users/holloway/Desktop/man/00076#10.1038#ismej.2011.50.ann
+nitrogen, Nitrate, nitrogen, nitrate, nitrogen, nitrogen, ammonia, Nitrogen, nitrate, nitrate, 15N, 
+/Users/holloway/Desktop/man/00077#10.1038#ngeo1757.ann
+nitrogen, carbon, nitrogen, phosphorus, phosphorus, nitrogen, carbon, carbon, nitrogen, phosphorus, C, N, P, 
+/Users/holloway/Desktop/man/00078#10.1038#ismej.2012.13.ann
+iron, nitrogen, N, carbon, C, iron, Fe, N2, Fe, Fe, Fe, Fe, N2, Fe, Fe, 
+/Users/holloway/Desktop/man/00079#10.1038#ismej.2014.1.ann
+Fe, P, Fe, N, Fe, 
+/Users/holloway/Desktop/man/00080#10.1038#ismej.2010.36.ann
+CO2, carbon dioxide, CO2, CO2, CO2, CO2, CO2, 
+/Users/holloway/Desktop/man/00081#10.1038#ismej.2013.216.ann
+carbon, nitrogen, 
+/Users/holloway/Desktop/man/00082#10.1038#ismej.2014.60.ann
+Ne, Ne, 
+/Users/holloway/Desktop/man/00083#10.1038#ismej.2014.71.ann
+oxygen, Nitrogen, N2, ammonium, NH4+, nitrogen, N, N2, N, N2, oxygen, N2, carbon, dinitrogen, N2, nitrate, NO2, PO43, N2, oxygen, 
+/Users/holloway/Desktop/man/00084#10.1038#ismej.2010.197.ann
+ammonia, nitrogen, N, carbon, C, ammonia, nitrite, CO2, C, C, HCO3, 14C, 
+/Users/holloway/Desktop/man/00085#10.1038#ismej.2009.105.ann
+ammonia, nitrogen, N, N, N, nitrogen, ammonia, Nitrite, C, N, 
+/Users/holloway/Desktop/man/00086#10.1038#ismej.2008.56.ann
+nitrogen, nitrogen, nitrogen, nitrogen, NO3, NO2, Si(OH)4, N, 
+/Users/holloway/Desktop/man/00087#10.1038#ncomms2981.ann
+silica, iron, Iron, iron, iron, iron, silica, iron, silica, iron, iron, silica, iron, iron, iron, silica, iron, carbon, 
+/Users/holloway/Desktop/man/00088#10.1038#ismej.2009.142.ann
+
+/Users/holloway/Desktop/man/00089#10.1038#ncomms4271.ann
+
+/Users/holloway/Desktop/man/00090#10.1038#nrmicro2831.ann
+
+/Users/holloway/Desktop/man/00091#10.1038#ismej.2011.214.ann
+leucine, 
+/Users/holloway/Desktop/man/00092#10.1038#ismej.2011.157.ann
+carbon, carbon dioxide, CO2, CO2, O2, O2, CO2, CO2, 
+/Users/holloway/Desktop/man/00093#10.1038#ismej.2011.182.ann
+nitrogen, nitrogen, nitrogen, carbon, nitrogen, carbon, ammonium, nitrogen, leucine, N, 
+/Users/holloway/Desktop/man/00094#10.1038#ismej.2013.79.ann
+carbon, oxygen, 
+/Users/holloway/Desktop/man/00095#10.1038#ismej.2007.5.ann
+phosphate, phosphate, PO43-, N, PO43-, PO43-, 
+/Users/holloway/Desktop/man/00096#10.1038#ngeo1830.ann
+carbon, carbon, carbon, carbon, carbon, carbon, C, carbon, carbon, carbon dioxide, C, C, carbon, C, C, C, carbon, carbon, carbon dioxide, 
+/Users/holloway/Desktop/man/00097#10.1038#17351.ann
+silica, silica, silica, silicon, silica, CO2, silica, silica, silica, Silica, silicon, silicon, silicon, silicon, carbon, silicic acid, 
+/Users/holloway/Desktop/man/00098#10.1038#ismej.2013.234.ann
+methanol, carbon monoxide, sulfur, sulfur, sulfur, carbon, carbon, carbon, nitrogen, sulfur, 
+/Users/holloway/Desktop/man/00099#10.1038#ismej.2011.117.ann
+
+/Users/holloway/Desktop/man/00100#10.1038#srep01292.ann
+ , 

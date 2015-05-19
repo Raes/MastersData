@@ -1,0 +1,200 @@
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/0001bratFormat.ann
+
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/0002bratFormat.ann
+Nitrogen, iron, vitamins, iron, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/0003bratFormat.ann
+dimethylsulphide, dimethylsulphide, water, dimethylsulphide, dimethylsulphide, dimethylsulphide, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/0004bratFormat.ann
+water, water, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/0005bratFormat.ann
+
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/0006bratFormat.ann
+sulfur, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/0007bratFormat.ann
+
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/0008bratFormat.ann
+
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/0009bratFormat.ann
+iron, iron, iron, iron, iron, iron, iron-binding, iron, iron, iron, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00010bratFormat.ann
+carbon, Carbon, Low-oxygen, nitrogen, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00011bratFormat.ann
+
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00012bratFormat.ann
+CO2, CO2, carbon, carbon, carbon, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00013bratFormat.ann
+water, Coral, carbon, water, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00014bratFormat.ann
+leucine, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00015bratFormat.ann
+iron, carbon, carbon, iron, iron, iron, iron, carbon, iron, carbon, dimethyl, carbon, iron, iron, carbon, water, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00016bratFormat.ann
+sulfur, dimethylsulfide, DMS, water, sulfur, carbon, sulfur, CO, carbon, nitrogen, nitrogen, Dimethylsulfoniopropionate, carbon, DMS, carbon, nitrogen, carbon, carbon, carbon, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00017bratFormat.ann
+oxygen, OMZ, 16S, OMZ, OMZ, OMZ, nitric, nitrous, OMZ, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00018bratFormat.ann
+carbon, carbon, carbon, carbon, carbon, water-column, carbon, carbon, carbon, carbon, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00019bratFormat.ann
+hydrogen, methane, hydrogen, iron, water, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00020bratFormat.ann
+CO2, carbonate, carbon, CO2, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00021bratFormat.ann
+carbon, carbon, nitrogen, phosphorus, carbon, nitrogen, phosphorus, phosphorus, nitrogen:phosphorus, phosphorus, nitrogen, carbon, phosphorus, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00022bratFormat.ann
+13C-, 13C, carbon, carbon, carbon, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00023bratFormat.ann
+Coral, sugar, carbon, sugars, 16S, fucose, galactose, Coral, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00024bratFormat.ann
+Ace, sulfur, carbon, sulfur, 'C-Ace', O2-H2S, water, Ace, C-Ace, oxygen, C-Ace, sulfate, sulfur, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00025bratFormat.ann
+carbon, carbon, carbon, nitrogen, high-CO2, CO2, carbon, carbon, carbon, carbon, carbon, carbon, carbon, carbon, carbon, carbon, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00026bratFormat.ann
+Peninsula, Peninsula, carbon, nitrogen, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00027bratFormat.ann
+carbon, carbon, carbon, water, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00028bratFormat.ann
+carbon, carbon, carbon, carbon, carbon, carbon, carbon, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00029bratFormat.ann
+carbon, carbon, carbon, calcium, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00030bratFormat.ann
+sulfur, Ace, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00031bratFormat.ann
+ammonia, urease, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00032bratFormat.ann
+carbon, nitrogen, carbon, C, nitrogen, N, dinitrogen-fixing, water, Trichodesmium, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00033bratFormat.ann
+Peninsula, Peninsula, ammonia, carbon, 3-hydroxypropionate/4-hydroxybutyrate, tricarboxylic, ammonia, nitrite, Taurine, carbon, nitrogen, taurine, carbon, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00034bratFormat.ann
+nitrogen, N2, picocyanobacterium, carbon, sugars, iron, iron, phosphate, Nitrogen, carbon, iron, diazotrophs, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00035bratFormat.ann
+nitrogen, phosphorus, NH4+, PO43, NH4+, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00036bratFormat.ann
+nitrogen, nitrate, ammonium, water, nitrate, ammonium, nitrogen, nitrogen, 14N, nitrogen, nitrate, Water, nitrogen, nitrate, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00037bratFormat.ann
+carbon, leucine, water, water, carbon, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00038bratFormat.ann
+
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00039bratFormat.ann
+nitrogen, O2, ammonium, carbon, carbon, O2, water, water, NH4+, NH4+, NH4+, NH4+, nitrogen, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00040bratFormat.ann
+carbon, chlorophyll, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00041bratFormat.ann
+
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00042bratFormat.ann
+carbon, chlorophyll, NO3, oxygen, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00043bratFormat.ann
+carbon, CO2, carbon, CO2, carbonate, CO2, carbon, CO2, CO2, carbon, CO2, carbon, nitrogen, CO2, CO2, carbon:nitrogen, carbon, carbon, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00044bratFormat.ann
+carbon, carbon, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00045bratFormat.ann
+Methanol, carbon, methanol, carbon, methanol, methanol, methanol, carbon, methanol, methanol, Methylosulfonomonas, methanol, chlorophyll, methanol, chlorophyll, methanol, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00046bratFormat.ann
+Methane, methane, methane, methane, methane, methane, methylphosphonate, phosphorus, methane, methylphosphonate, phosphate, Methylphosphonate, methane, nitrogen, methane, water-column, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00047bratFormat.ann
+
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00048bratFormat.ann
+water, 16S, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00049bratFormat.ann
+
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00050bratFormat.ann
+dinoflagellates, D, DFL12T, vitamins, vitamin, oxygen, oxygen, vitamin, DFL12T, vitamins, DFL12T, nitrate, dimethylsulfoxide, arginine, oxygen, fumarate, nitrate, D, DFL12T, D, DFL12T, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00051bratFormat.ann
+CO2, CO2, carbon, ribulose-1,5-bisphosphate, CO2, water, carbon, CO2, CO2, CO2, CO2, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00052bratFormat.ann
+CO2, vitamin, vitamin, carbon, iron, Fe, cobalt, Co, zinc, Zn, cadmium, Cd, B12, Fe, Zn, Cd, B12, carbon, Fe, Zn, Cd, B12, Fe, Zn, Cd, B12, carbon, Co, B12, B12, Co, B12, B12, CO2, vitamin, carbon, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00053bratFormat.ann
+carbon, carbon, 13C, water, carbon, carbon, carbon, carbon, carbon, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00054bratFormat.ann
+nitrogen, Carbon, nitrogen, O2, colony-water, O2, carbon-fixation, ammonium, water, N2, NH4+, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00055bratFormat.ann
+methane, nitrous, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00056bratFormat.ann
+CO2, carbon, carbon, CO2, iron, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00057bratFormat.ann
+amino, iron, cadmium, ammonium, potassium, glutamine, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00058bratFormat.ann
+carbon, carbon, carbon, carbon, carbon, BGE, carbon, carbon, BGE, carbon, BGE, BGE, BGE, carbon, carbon, BGE, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00059bratFormat.ann
+Carboxylic, amino, AAs, carbohydrates, CHs, CA, AA, CH, water, CA, AA, CH, carbon, acetate, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00060bratFormat.ann
+
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00061bratFormat.ann
+
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00062bratFormat.ann
+nitrogen, Revolution, nitrogen, nitrate, nitrate, carbon, carbon:nitrate, nitrate, carbon, nitrate, nitrate, carbon:nitrate, carbon:nitrogen, carbon, nitrate, carbon:nitrate, nitrate, carbon, nitrate, nitrate, nitrate, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00063bratFormat.ann
+
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00064bratFormat.ann
+
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00065bratFormat.ann
+oxygen, oxygen, water, oxygen, oxygen, oxygen, bottom-water, phosphorus, phosphorus, oxygen, phosphorus, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00066bratFormat.ann
+iron, iron, carbon, carbon, iron, carbon, water, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00067bratFormat.ann
+cyanobacterium, nitrogen, N, N, nucleotide, iron-stress, C, nitrogen, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00068bratFormat.ann
+
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00069bratFormat.ann
+nitrogen, low-oxygen, Oxygen, oxygen, OMZ, [O2]=0, 13C:15N, amino, D-alanine, oxygen, [O2]=0, oxygen, [O2]=2-15, OMZ, low-oxygen, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00070bratFormat.ann
+Carbon, CO2, CO2, CO2, CO2, high-CO2, CO2, carbon, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00071bratFormat.ann
+ammonia, water, nitrous, ammonia, water, Water, Water, ammonia, water, chlorophyll, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00072bratFormat.ann
+Iron, low-chlorophyll, carbon, iron, Alaska, iron, silicic, carbon, silica, silicic, iron, iron, geo, carbon, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00073bratFormat.ann
+chlorophyll, Chl, Chl, Pyrosequencing, 16S, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00074bratFormat.ann
+phosphate, nitrogen, N, phosphate, P, N, carbon, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00075bratFormat.ann
+DMSP-sulphur, dimethylsulphoniopropionate, DMSP, sulphur, DMSP, DMSP-sulphur, 35S-DMSP, 35S, 35S-DMSP, 3H-leucine, DMSP, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00076bratFormat.ann
+Nitrate, nitrogen, nitrate, nitrate, nitrogen, nitrogen, ammonia, Nitrogen, nitrate, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00077bratFormat.ann
+nitrogen, carbon, nitrogen, phosphorus, phosphorus, nitrogen, carbon, carbon, nitrogen, phosphorus, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00078bratFormat.ann
+Trichodesmium, nitrogen, N, carbon, C, iron, Fe, Trichodesmium, Fe, Trichodesmium, Fe, Fe, Fe, Trichodesmium, Trichodesmium, Fe, Fe, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00079bratFormat.ann
+nucleotide, PCR-amplicons, metagenomes, Fe, P, water, Fe, Fe, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00080bratFormat.ann
+CO2, carbon, CO2, CO2, CO2, CO2, CO2, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00081bratFormat.ann
+nitrogen, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00082bratFormat.ann
+
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00083bratFormat.ann
+Nitrogen, dinitrogen, N2, ammonium, NH4+, nitrogen, N, diazotrophs, oxygen, carbon, dinitrogen, water, oxygen, nitrate, NO2, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00084bratFormat.ann
+ammonia, nitrogen, N, carbon, C, ammonia, ammonia, nitrite, urease, CO2, acetyl-CoA, 4-hydroxybutyryl, [14C]HCO3, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00085bratFormat.ann
+nitrogen, N, N, nitrogen, ammonia, Nitrite, estuarine, chlorophyll-alpha, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00086bratFormat.ann
+nitrogen, nitrogen, nitrogen, N-fixing, R, R, Si(OH)4, NO3+NO2, nitrogen, nitrogen, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00087bratFormat.ann
+silica, iron, Iron, iron, iron, iron, silica, iron, silica, iron, iron, silica, iron, iron, iron, silica, iron, carbon, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00088bratFormat.ann
+water, 16S, VIS4, water, VIS2, VIS3, VIS5, VIS6, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00089bratFormat.ann
+
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00090bratFormat.ann
+water, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00091bratFormat.ann
+water, virus-to-prokaryote, VPR, leucine, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00092bratFormat.ann
+carbon, carbon, CO2, CO2, O2, O2, CO2, CO2, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00093bratFormat.ann
+nitrogen, N2-fixation, N2-fixation, nitrogen, carbon, chlorophyll, nitrogen, carbon, 15N-labeled, leucine, nitrogen, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00094bratFormat.ann
+water, carbon, oxygen, SUP05, water, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00095bratFormat.ann
+phosphate, PO43-, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00096bratFormat.ann
+carbon, carbon, carbon, carbon, carbon, carbon, carbon, carbon, carbon, carbon, carbon, carbon, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00097bratFormat.ann
+silica, silica, silica, silicon, silicic, silica, CO2, silica, silica, silica, Silica, silicon, silicon, silicon, silicon, carbon, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00098bratFormat.ann
+carbon, SUP05, sulfur, sulfur, SUP05, sulfur, water, carbon, carbon, carbon, nitrogen, sulfur, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/00099bratFormat.ann
+16S, water, chlorophyll, 
+/Users/holloway/Desktop/chem_NER_eval/chemspot-2.0/output_100/output/000100bratFormat.ann
+ammonium, 
