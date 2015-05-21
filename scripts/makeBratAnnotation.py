@@ -1,6 +1,5 @@
 import sys
 import sys, traceback
-import elementtree.ElementTree as ET
 import glob
 from sys import argv
 from os.path import basename
@@ -83,6 +82,57 @@ def chemspotFormatter(path):
             bratFormatFile.close()
     f.close()
 
+def linnaeusFormatter(path):
+    #Start iteration through .chem files
+    fileList = glob.glob(path + "/*.tags")
+    print str(len(fileList)) + " Linnaeus files found for processing"
+
+    for file in fileList:
+
+        print "Currently working on file: " + str(file)
+
+        with open(file) as f:
+
+            #create output file
+            bratFormatFile = open(path + '/output/000' + str(fileList.index(f.name) + 1) + 'bratFormat' + '.ann' , 'w')
+            #print "Creating output file: " + bratFormatFile.name
+
+            #skip first line as this is a linnaeus header
+            next(f)
+
+            #line number variable
+            i = 1
+
+            for line in f:
+                #split by whitespace
+                unformatedText = line.split()
+
+                #here we can get different lengths depending if group validity information is there, or if we have a double name
+
+                if len(unformatedText) == 5:
+                    specName = unformatedText[4]
+                elif len(unformatedText) == 6:
+                    specName = unformatedText[4]
+                    specName += " "
+                    specName += unformatedText[5]
+                elif len(unformatedText) == 8:
+                    specName = unformatedText[4]
+                elif len(unformatedText) == 9:
+                    specName = unformatedText[4]
+                    specName += " "
+                    specName += unformatedText[5]
+                else:
+                    specName = "INVALID"
+
+                #create line formatted for Brat
+                formatedText = str(i) + " Species" + " " + str(unformatedText[2]) + " " + str(unformatedText[3]) + " " + specName
+
+                bratFormatFile.write(formatedText + '\n')
+                i += 1
+
+            bratFormatFile.close()
+    f.close()  
+
 def oscar3Formatter(path):
     #Get file list
     fileList = glob.glob(path + "/*")
@@ -126,7 +176,7 @@ def main():
 
     try:
         #Query what type of format is coming in
-        fileFormat = str(raw_input("Please enter what type the original files are; chemspot, oscar3: "))
+        fileFormat = str(raw_input("Please enter what type the original files are; chemspot, linnaeus, oscar3: "))
     except Exception:
         print "Exception with format type"
         sys.exit(0)
@@ -148,6 +198,9 @@ def main():
         elif fileFormat == 'oscar3':
             print "Running oscar3 to Brat formatter"
             oscar3Formatter(path)
+        elif fileFormat == 'linnaeus':
+            print "Running Linnaeus2 to Brat formatter"
+            linnaeusFormatter(path)
         else:
             print "Non-viable format type"
             sys.exit(0)
